@@ -1,0 +1,52 @@
+{
+  "1": {
+    "item": "HammerDown Handgun 357 Magnum",
+    "price": "\n$33.99\n",
+    "link": "/rifle/hammerdown/11-LG3571.html",
+    "specs": {
+      "Grain Weight:": "170",
+      "Muzzle Velocity:": "1610",
+      "Bullet Style:": "Bonded Hollow Point",
+      "Ballistic Coefficient:": ".185",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "HammerDown Handgun 44 Rem Magnum",
+    "price": "\n$38.99\n",
+    "link": "/rifle/hammerdown/11-LG441.html",
+    "specs": {
+      "Grain Weight:": "270",
+      "Muzzle Velocity:": "1715",
+      "Bullet Style:": "Bonded Soft Point",
+      "Ballistic Coefficient:": ".213",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "HammerDown Handgun 327 Federal Magnum",
+    "price": "\n$40.99\n",
+    "link": "/rifle/hammerdown/11-LG327F1.html",
+    "specs": {
+      "Grain Weight:": "127",
+      "Muzzle Velocity:": "1650",
+      "Bullet Style:": "Bonded Hollow Point",
+      "Ballistic Coefficient:": ".195",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "HammerDown 45 Colt",
+    "price": "\n$38.99\n",
+    "link": "/rifle/hammerdown/11-LG45C1.html",
+    "specs": {
+      "Grain Weight:": "250",
+      "Bullet Style:": "Bonded Hollow Point",
+      "Ballistic Coefficient:": ".165",
+      "Package Quantity:": "20"
+    }
+  }
+}

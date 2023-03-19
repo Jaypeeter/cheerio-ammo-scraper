@@ -1,0 +1,74 @@
+{
+  "1": {
+    "item": "Small Game 22 LR",
+    "price": "\n$19.99\n",
+    "link": "/rimfire/federal-small-game-and-target/game-shok/11-716.html",
+    "specs": {
+      "Grain Weight:": "25",
+      "Muzzle Velocity:": "1000",
+      "Bullet Style:": "12 Shot",
+      "Package Quantity:": "50",
+      "Usage:": "Small Game"
+    }
+  },
+  "2": {
+    "item": "Small Game 22 WMR",
+    "price": "\n$19.99\n",
+    "link": "/rimfire/federal-small-game-and-target/game-shok/11-757.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Muzzle Velocity:": "1530",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "Small Game 22 LR",
+    "price": "\n$5.99\n",
+    "link": "/rimfire/federal-small-game-and-target/game-shok/11-710.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1240",
+      "Bullet Style:": "Copper Plated Round Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Hunter Match 22 LR",
+    "price": "\n$8.99\n",
+    "link": "/rimfire/federal-small-game-and-target/hunter-match/11-720.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1200",
+      "Bullet Style:": "Hollow Point",
+      "Package Quantity:": "50",
+      "Usage:": "Small Game"
+    }
+  },
+  "5": {
+    "item": "Small Game 22 LR",
+    "price": "\n$6.99\n",
+    "link": "/rimfire/federal-small-game-and-target/game-shok/11-724.html",
+    "specs": {
+      "Grain Weight:": "31",
+      "Muzzle Velocity:": "1430",
+      "Bullet Style:": "Copper Plated Hollow Point",
+      "Package Quantity:": "50",
+      "Usage:": "Small Game"
+    }
+  },
+  "6": {
+    "item": "Small Game 22 LR",
+    "price": "\n$5.99\n",
+    "link": "/rimfire/federal-small-game-and-target/game-shok/11-712.html",
+    "specs": {
+      "Grain Weight:": "38",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "50",
+      "Usage:": "Small Game"
+    }
+  }
+}

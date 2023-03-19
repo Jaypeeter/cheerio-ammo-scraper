@@ -1,0 +1,163 @@
+{
+  "1": {
+    "item": "Gold Medal Berger 300 Win Magnum",
+    "price": "\n$82.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM300WMBH1.html",
+    "specs": {
+      "Grain Weight:": "215",
+      "Muzzle Velocity:": "2850",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".691",
+      "Ballistic Coefficient G7:": ".354",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Gold Medal Berger 6.5 Creedmoor",
+    "price": "\n$53.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM65CRDBH130.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "2875",
+      "Bullet Style:": "Berger AR Hybrid OTM",
+      "Ballistic Coefficient:": ".560",
+      "Ballistic Coefficient G7:": ".287",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "Gold Medal Berger 6.5 Creedmoor",
+    "price": "\n$51.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM65CRDBH2.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "2725",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".607",
+      "Ballistic Coefficient G7:": ".311",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Gold Medal Sierra MatchKing 6.5 Creedmoor",
+    "price": "\n$47.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM65CRD1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".535",
+      "Ballistic Coefficient G7:": ".261",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "5": {
+    "item": "Gold Medal Sierra MatchKing 308 Win",
+    "price": "\n$48.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM308M.html",
+    "specs": {
+      "Grain Weight:": "168",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".462",
+      "Ballistic Coefficient G7:": ".224",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Gold Medal Sierra MatchKing 300 Win Magnum",
+    "price": "\n$78.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM300WM.html",
+    "specs": {
+      "Grain Weight:": "190",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".533",
+      "Ballistic Coefficient G7:": ".275",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "Gold Medal Sierra MatchKing 224 Valkyrie",
+    "price": "\n$43.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM224VLK1.html",
+    "specs": {
+      "Grain Weight:": "90",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".563",
+      "Ballistic Coefficient G7:": ".274",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "8": {
+    "item": "Gold Medal Sierra MatchKing 308 Win",
+    "price": "\n$48.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM308M2.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".505",
+      "Ballistic Coefficient G7:": ".250",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "Gold Medal Sierra MatchKing 223 Rem",
+    "price": "\n$37.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM223M.html",
+    "specs": {
+      "Grain Weight:": "69",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".301",
+      "Ballistic Coefficient G7:": ".165",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "Gold Medal Berger 308 Win",
+    "price": "\n$48.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM308BH185.html",
+    "specs": {
+      "Grain Weight:": "185",
+      "Muzzle Velocity:": "2600",
+      "Bullet Style:": "Berger Jugernaught OTM",
+      "Ballistic Coefficient:": ".552",
+      "Ballistic Coefficient G7:": ".283",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "Gold Medal Berger 223 Rem",
+    "price": "\n$39.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM223BH73.html",
+    "specs": {
+      "Grain Weight:": "73",
+      "Muzzle Velocity:": "2800",
+      "Bullet Style:": "Berger BT Target",
+      "Ballistic Coefficient:": ".348",
+      "Ballistic Coefficient G7:": ".178",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "12": {
+    "item": "Gold Medal Sierra MatchKing 6mm Creedmoor",
+    "price": "\n$47.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM6CRDM1.html",
+    "specs": {
+      "Grain Weight:": "107",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".547",
+      "Ballistic Coefficient G7:": ".271",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

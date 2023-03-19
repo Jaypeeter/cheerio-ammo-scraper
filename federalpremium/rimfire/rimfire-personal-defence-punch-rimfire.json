@@ -1,0 +1,25 @@
+{
+  "1": {
+    "item": "Personal Defense Punch Rimfire 22 LR",
+    "price": "\n$10.99\n",
+    "link": "/rimfire/personal-defense-punch-rimfire/11-PD22L1.html",
+    "specs": {
+      "Grain Weight:": "29",
+      "Muzzle Velocity:": "1080",
+      "Bullet Style:": "Nickel Plated Flat Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Personal Defense"
+    }
+  },
+  "2": {
+    "item": "Personal Defense Punch Rimfire 22 WMR",
+    "price": "\n$25.99\n",
+    "link": "/rimfire/personal-defense-punch-rimfire/11-PD22WMR1.html",
+    "specs": {
+      "Grain Weight:": "45",
+      "Muzzle Velocity:": "1000",
+      "Bullet Style:": "Punch JHP",
+      "Package Quantity:": "50"
+    }
+  }
+}

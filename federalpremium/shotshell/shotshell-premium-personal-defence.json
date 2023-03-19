@@ -1,0 +1,108 @@
+{
+  "1": {
+    "item": "Personal Defense Shotshell Force X2 12 Gauge",
+    "price": "\n$31.99\n",
+    "link": "/shotshell/premium-personal-defense/personal-defense-shotshell-force-x2/11-PD12FX2+00.html",
+    "specs": {
+      "Shot Size:": "00 Buck",
+      "Muzzle Velocity:": "1250",
+      "Type:": "Copper Plated Lead",
+      "Package Quantity:": "10",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "2": {
+    "item": "Personal Defense Shotshell with FLITECONTROL Wad 12 Gauge",
+    "price": "\n$13.99\n",
+    "link": "/shotshell/premium-personal-defense/personal-defense-shotshell-with-flitecontrol-wad/11-PD132NRA+00.html",
+    "specs": {
+      "Shot Size:": "00 Buck",
+      "Muzzle Velocity:": "1145",
+      "Shotshell Length:": "2-3/4in. / 70mm",
+      "Type:": "Lead",
+      "Package Quantity:": "5",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "3": {
+    "item": "Personal Defense Shotshell Force X2 Shorty 12 Gauge",
+    "price": "\n$31.99\n",
+    "link": "/shotshell/premium-personal-defense/personal-defense-shotshell-force-x2-shorty/11-PD129FX2+00.html",
+    "specs": {
+      "Shot Size:": "00 Buck",
+      "Type:": "Lead",
+      "Package Quantity:": "10",
+      "Usage:": "Personal Defense"
+    }
+  },
+  "4": {
+    "item": "Personal Defense Shotshell with FLITECONTROL Wad 12 Gauge",
+    "price": "\n$13.99\n",
+    "link": "/shotshell/premium-personal-defense/personal-defense-shotshell-with-flitecontrol-wad/11-PD132+00.html",
+    "specs": {
+      "Shot Size:": "00 Buck",
+      "Muzzle Velocity:": "1145",
+      "Shotshell Length:": "2-3/4in. / 70mm",
+      "Shot Charge Oz:": "0",
+      "Type:": "Copper Plated Lead",
+      "Package Quantity:": "5",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "5": {
+    "item": "Personal Defense 410 Handgun 410 Bore",
+    "price": "\n$32.99\n",
+    "link": "/shotshell/premium-personal-defense/personal-defense-410-handgun/11-PD413JGE+4B.html",
+    "specs": {
+      "Shot Size:": "4 Buck",
+      "Muzzle Velocity:": "950",
+      "Shotshell Length:": "3in. / 76mm",
+      "Shot Charge Oz:": "0",
+      "Type:": "Copper Plated Lead",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "6": {
+    "item": "Personal Defense 410 Handgun 410 Bore",
+    "price": "\n$27.99\n",
+    "link": "/shotshell/premium-personal-defense/personal-defense-410-handgun/11-PD412JGE+000.html",
+    "specs": {
+      "Shot Size:": "000 Buck",
+      "Muzzle Velocity:": "850",
+      "Shotshell Length:": "2-1/2in. / 64mm",
+      "Shot Charge Oz:": "0",
+      "Type:": "Copper Plated Lead",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "7": {
+    "item": "Personal Defense 410 Handgun 410 Bore",
+    "price": "\n$27.99\n",
+    "link": "/shotshell/premium-personal-defense/personal-defense-410-handgun/11-PD412JGE+4.html",
+    "specs": {
+      "Shot Size:": "4",
+      "Muzzle Velocity:": "950",
+      "Shotshell Length:": "2-1/2in. / 64mm",
+      "Shot Charge Oz:": "7/16",
+      "Type:": "Copper Plated Lead",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "8": {
+    "item": "Personal Defense 410 Handgun 410 Bore",
+    "price": "\n$30.99\n",
+    "link": "/shotshell/premium-personal-defense/personal-defense-410-handgun/11-PD413JGE+000.html",
+    "specs": {
+      "Shot Size:": "000 Buck",
+      "Muzzle Velocity:": "775",
+      "Shotshell Length:": "3in. / 76mm",
+      "Shot Charge Oz:": "0",
+      "Type:": "Copper Plated Lead",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  }
+}

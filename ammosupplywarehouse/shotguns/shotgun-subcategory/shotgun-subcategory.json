@@ -1,0 +1,82 @@
+{
+  "410 GAUGE": {
+    "1": {
+      "items": "Birdshot",
+      "image": "images/bird.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_95_288"
+    },
+    "2": {
+      "items": "Buckshot",
+      "image": "images/buck.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_95_289"
+    },
+    "3": {
+      "items": "Slug",
+      "image": "images/slug.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_95_290"
+    },
+    "4": {
+      "items": "SPECIALTY",
+      "image": "images/SPECIALTY CALIBER SHIELD.jpg",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_95_471"
+    }
+  },
+  "10 GAUGE": {
+    "1": {
+      "items": "Birdshot",
+      "image": "images/bird.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_278_279"
+    },
+    "2": {
+      "items": "Buckshot",
+      "image": "images/buck.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_278_280"
+    },
+    "3": {
+      "items": "Slug",
+      "image": "images/slug.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_278_281"
+    }
+  },
+  "12 GAUGE": {
+    "1": {
+      "items": "Birdshot",
+      "image": "images/bird.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_93_282"
+    },
+    "2": {
+      "items": "Buckshot",
+      "image": "images/buck.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_93_283"
+    },
+    "3": {
+      "items": "Slug",
+      "image": "images/slug.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_93_284"
+    },
+    "4": {
+      "items": "SPECIALTY",
+      "image": "images/SPECIALTY CALIBER SHIELD.jpg",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_93_470"
+    }
+  },
+  "16 GAUGE": {},
+  "20 GAUGE": {
+    "1": {
+      "items": "Birdshot",
+      "image": "images/bird.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_94_285"
+    },
+    "2": {
+      "items": "Buckshot",
+      "image": "images/buck.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_94_286"
+    },
+    "3": {
+      "items": "Slug",
+      "image": "images/slug.png",
+      "price": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_94_287"
+    }
+  },
+  "28 GAUGE": {}
+}

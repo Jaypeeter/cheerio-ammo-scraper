@@ -1,0 +1,158 @@
+{
+  "1": {
+    "item": "Power-Shok Rifle 45-70 Government",
+    "price": "\n$61.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-4570AS.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Muzzle Velocity:": "1850",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".289",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Power-Shok Rifle 30-30 Win",
+    "price": "\n$31.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-3030A.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2390",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".218",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Power-Shok Rifle 6.5 Creedmoor",
+    "price": "\n$37.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-65CRDB.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "2750",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".439",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Power-Shok Rifle 375 H&H Magnum",
+    "price": "\n$110.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-375B.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Muzzle Velocity:": "2530",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".323",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "Power-Shok Rifle 243 Win",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-243B.html",
+    "specs": {
+      "Grain Weight:": "100",
+      "Muzzle Velocity:": "2960",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".355",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 270 Win",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-270A.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "3060",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".372",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Power-Shok Rifle 308 Win",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-308A.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2820",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".313",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Power-Shok Rifle 30-06 Springfield",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-3006A.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2910",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".313",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "9": {
+    "item": "Power-Shok Rifle 270 Win",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-270B.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2830",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".261",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "10": {
+    "item": "Power-Shok Rifle 300 Win Magnum",
+    "price": "\n$49.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-300WBS.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2960",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".439",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Power-Shok Rifle 300 Win Magnum",
+    "price": "\n$49.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-300WGS.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "3150",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".389",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "Power-Shok Rifle 30-06 Springfield",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-3006B.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2700",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".385",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

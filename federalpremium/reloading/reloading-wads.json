@@ -1,0 +1,134 @@
+{
+  "1": {
+    "item": "Champion Centerfire Primer .155",
+    "price": "\n$10.99\n",
+    "link": "/reloading/primers/champion-centerfire-primer/11-155.html",
+    "specs": {
+      "Type:": "Large Magnum Pistol",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "2": {
+    "item": "Gold Medal Centerfire Primer .205",
+    "price": "\n$12.99\n",
+    "link": "/reloading/primers/gold-medal-centerfire-primer/11-GM205M.html",
+    "specs": {
+      "Type:": "Small Rifle Match",
+      "Bullet Style:": "Small",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "3": {
+    "item": "Gold Medal Centerfire Primer .150",
+    "price": "\n$12.99\n",
+    "link": "/reloading/primers/gold-medal-centerfire-primer/11-GM150M.html",
+    "specs": {
+      "Type:": "Large Pistol Match",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "4": {
+    "item": "Champion Centerfire Primer .200",
+    "price": "\n$9.99\n",
+    "link": "/reloading/primers/champion-centerfire-primer/11-200.html",
+    "specs": {
+      "Type:": "Small Magnum Pistol",
+      "Bullet Style:": "Small",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "5": {
+    "item": "Gold Medal Centerfire Primer .210",
+    "price": "\n$12.99\n",
+    "link": "/reloading/primers/gold-medal-centerfire-primer/11-GM210M.html",
+    "specs": {
+      "Type:": "Large Rifle Match",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "6": {
+    "item": "Gold Medal Centerfire Primer .100",
+    "price": "\n$12.99\n",
+    "link": "/reloading/primers/gold-medal-centerfire-primer/11-GM100M.html",
+    "specs": {
+      "Type:": "Small Pistol Match",
+      "Bullet Style:": "Small",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "7": {
+    "item": "Champion Centerfire Primer .205",
+    "price": "\n$9.99\n",
+    "link": "/reloading/primers/champion-centerfire-primer/11-205.html",
+    "specs": {
+      "Type:": "Small Rifle",
+      "Bullet Style:": "Small",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "8": {
+    "item": "Gold Medal Centerfire Primer .155",
+    "price": "\n$13.99\n",
+    "link": "/reloading/primers/gold-medal-centerfire-primer/11-GM155M.html",
+    "specs": {
+      "Type:": "Large Magnum Pistol Match",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "9": {
+    "item": "Gold Medal AR Centerfire Primer .205",
+    "price": "\n$12.99\n",
+    "link": "/reloading/primers/gold-medal-ar-centerfire-primer/11-GM205MAR.html",
+    "specs": {
+      "Type:": "Small Rifle AR Match",
+      "Bullet Style:": "Small",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "10": {
+    "item": "Champion Centerfire Primer .215",
+    "price": "\n$10.99\n",
+    "link": "/reloading/primers/champion-centerfire-primer/11-215.html",
+    "specs": {
+      "Type:": "Large Magnum Rifle",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "11": {
+    "item": "Champion Centerfire Primer .150",
+    "price": "\n$9.99\n",
+    "link": "/reloading/primers/champion-centerfire-primer/11-150.html",
+    "specs": {
+      "Type:": "Large Pistol",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "12": {
+    "item": "Gold Medal Centerfire Primer .215",
+    "price": "\n$13.99\n",
+    "link": "/reloading/primers/gold-medal-centerfire-primer/11-GM215M.html",
+    "specs": {
+      "Type:": "Large Magnum Rifle Match",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  }
+}

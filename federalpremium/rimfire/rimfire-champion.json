@@ -1,0 +1,146 @@
+{
+  "1": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$4.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-510.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1240",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Champion Training - Rimfire 22 Long Rifle",
+    "price": "\n$81.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-729B800.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1200",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "800",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "Champion Training - Rimfire 22 WMR",
+    "price": "\n$18.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-737.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1880",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$30.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-AM22.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1200",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "325",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "5": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$49.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-745.html",
+    "specs": {
+      "Grain Weight:": "36",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Copper Plated Hollow Point",
+      "Package Quantity:": "525",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "BYOB 22 LR",
+    "price": "\n$73.99\n",
+    "link": "/rimfire/champion/byob/11-750BKT825.html",
+    "specs": {
+      "Grain Weight:": "36",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Copper Plated Hollow Point",
+      "Package Quantity:": "825",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "BYOB 22 LR",
+    "price": "\n$48.99\n",
+    "link": "/rimfire/champion/byob/11-750BTL450.html",
+    "specs": {
+      "Grain Weight:": "36",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Copper Plated Hollow Point",
+      "Package Quantity:": "450",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "8": {
+    "item": "BYOB 22 WMR",
+    "price": "\n$76.99\n",
+    "link": "/rimfire/champion/byob/11-757BTL250.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Muzzle Velocity:": "1530",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "250",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "BYOB 17 HMR",
+    "price": "\n$81.99\n",
+    "link": "/rimfire/champion/byob/11-770BTL250.html",
+    "specs": {
+      "Grain Weight:": "17",
+      "Muzzle Velocity:": "2530",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "250",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$46.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-747.html",
+    "specs": {
+      "Grain Weight:": "36",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Lead Hollow Point",
+      "Package Quantity:": "525",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$41.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-UTR2236.html",
+    "specs": {
+      "Grain Weight:": "36",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Copper Plated Hollow Point",
+      "Package Quantity:": "525",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "12": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$29.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-749.html",
+    "specs": {
+      "Grain Weight:": "36",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Lead Hollow Point",
+      "Package Quantity:": "325",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

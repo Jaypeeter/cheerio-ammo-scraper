@@ -1,0 +1,22 @@
+{
+  "1": {
+    "magazines": "AMMO ARMY SWAG",
+    "image": "images/shield AMMO ARMY SWAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=8_309"
+  },
+  "2": {
+    "magazines": "GEAR",
+    "image": "images/gear.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=8_310"
+  },
+  "3": {
+    "magazines": "MEN'S",
+    "image": "images/MENS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=8_307"
+  },
+  "4": {
+    "magazines": "WOMEN'S",
+    "image": "images/LADIES.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=8_308"
+  }
+}

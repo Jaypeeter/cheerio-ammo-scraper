@@ -1,0 +1,46 @@
+{
+  "1": {
+    "item": "Power-Shok Handgun 41 Rem Magnum",
+    "price": "\n$50.99\n",
+    "link": "/handgun/power-shok/power-shok-handgun/11-C41A.html",
+    "specs": {
+      "Grain Weight:": "210",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Power-Shok Handgun 44 Rem Magnum",
+    "price": "\n$51.99\n",
+    "link": "/handgun/power-shok/power-shok-handgun/11-C44B.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Power-Shok Handgun 357 Magnum",
+    "price": "\n$38.99\n",
+    "link": "/handgun/power-shok/power-shok-handgun/11-C357G.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Power-Shok Handgun 44 Rem Magnum",
+    "price": "\n$47.99\n",
+    "link": "/handgun/power-shok/power-shok-handgun/11-C44A.html",
+    "specs": {
+      "Grain Weight:": "240",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

@@ -1,0 +1,662 @@
+{
+  "1": {
+    "magazines": ".223 REM",
+    "image": "images/shield 223 REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_70"
+  },
+  "2": {
+    "magazines": "5.56 NATO",
+    "image": "images/556.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_72"
+  },
+  "3": {
+    "magazines": ".308",
+    "image": "images/308.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_71"
+  },
+  "4": {
+    "magazines": "7.62X39 MM",
+    "image": "images/76239.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_73"
+  },
+  "5": {
+    "magazines": "5.45X39 MM",
+    "image": "images/54539.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_74"
+  },
+  "6": {
+    "magazines": "9x39mm",
+    "image": "images/caliber shield 9X39.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_319"
+  },
+  "7": {
+    "magazines": "7.62X54R",
+    "image": "images/76254.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_75"
+  },
+  "8": {
+    "magazines": "17 HMR",
+    "image": "images/17.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_76"
+  },
+  "9": {
+    "magazines": "5.7X28 MM",
+    "image": "images/5728.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_87"
+  },
+  "10": {
+    "magazines": "22 LONG RIFLE",
+    "image": "images/22b.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_77"
+  },
+  "11": {
+    "magazines": "22 WMR",
+    "image": "images/22C.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_78"
+  },
+  "12": {
+    "magazines": "22 HORNET",
+    "image": "images/22D.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_79"
+  },
+  "13": {
+    "magazines": "300 BLACKOUT",
+    "image": "images/300.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_86"
+  },
+  "14": {
+    "magazines": "30 CARBINE",
+    "image": "images/30.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_80"
+  },
+  "15": {
+    "magazines": "30-06 SPRINGFIELD",
+    "image": "images/3006.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_81"
+  },
+  "16": {
+    "magazines": "30-30 WINCHESTER",
+    "image": "images/3030.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_82"
+  },
+  "17": {
+    "magazines": "6.5 CREEDMOOR",
+    "image": "images/shield 6.5 CREEDMOOR.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_419"
+  },
+  "18": {
+    "magazines": "7MM MAG",
+    "image": "images/7.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_83"
+  },
+  "19": {
+    "magazines": "8MM MAUSER",
+    "image": "images/8.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_84"
+  },
+  "20": {
+    "magazines": "50 BMG",
+    "image": "images/50bmg.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_85"
+  },
+  "21": {
+    "magazines": "6.8 SPC",
+    "image": "images/shield 6.8 SPC.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_88"
+  },
+  "22": {
+    "magazines": "270 WINCHESTER",
+    "image": "images/270.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_89"
+  },
+  "23": {
+    "magazines": "338 LAPUA",
+    "image": "images/338.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_90"
+  },
+  "24": {
+    "magazines": "17 WSM",
+    "image": "images/17B.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_91"
+  },
+  "25": {
+    "magazines": "300 WIN MAG",
+    "image": "images/300WINMAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_92"
+  },
+  "26": {
+    "magazines": "243 WIN",
+    "image": "images/243WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_314"
+  },
+  "27": {
+    "magazines": "17 HORNET",
+    "image": "images/shield 17 HORNET.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_341"
+  },
+  "28": {
+    "magazines": "17 MACH 2",
+    "image": "images/shield 17 MACH 2.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_438"
+  },
+  "29": {
+    "magazines": "17 REM FIREBALL",
+    "image": "images/shield 17 REMINGTON FIREBALL.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_343"
+  },
+  "30": {
+    "magazines": "17 REMINGTON",
+    "image": "images/shield 17 REMINGTON.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_342"
+  },
+  "31": {
+    "magazines": "204 RUGER",
+    "image": "images/shield 204 RUGER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_344"
+  },
+  "32": {
+    "magazines": "218 BEE",
+    "image": "images/shield 218 BEE.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_345"
+  },
+  "33": {
+    "magazines": "22 NOSLER",
+    "image": "images/shield 22 NOSLER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_346"
+  },
+  "34": {
+    "magazines": "22 SHORT / LONG",
+    "image": "images/shield 22 RIMFIRE.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_437"
+  },
+  "35": {
+    "magazines": "22-250 REM",
+    "image": "images/shield 22-250 REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_347"
+  },
+  "36": {
+    "magazines": "222 REM",
+    "image": "images/shield 222 REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_348"
+  },
+  "37": {
+    "magazines": "223 WSSM",
+    "image": "images/shield 223 WSSM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_349"
+  },
+  "38": {
+    "magazines": "224 VALKYRIE",
+    "image": "images/shield 224 VALKYRIE.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_350"
+  },
+  "39": {
+    "magazines": "25-06 REM",
+    "image": "images/shield 25-06 REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_352"
+  },
+  "40": {
+    "magazines": "25-20 WIN",
+    "image": "images/shield 25-20 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_353"
+  },
+  "41": {
+    "magazines": "25-35 WIN",
+    "image": "images/shield 25-35 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_354"
+  },
+  "42": {
+    "magazines": "250 SAVAGE",
+    "image": "images/shield 250 SAVAGE.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_355"
+  },
+  "43": {
+    "magazines": "257 WEATHERBY MAG",
+    "image": "images/shield 257 WEATHERBY MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_356"
+  },
+  "44": {
+    "magazines": "26 NOSLER",
+    "image": "images/shield 26 NOSLER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_362"
+  },
+  "45": {
+    "magazines": "260 REMINGTON",
+    "image": "images/shield 260 REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_363"
+  },
+  "46": {
+    "magazines": "264 WINCHESTER",
+    "image": "images/shield 264 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_364"
+  },
+  "47": {
+    "magazines": "270 WEATHERBY MAG",
+    "image": "images/shield 270 WEATHERBY MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_365"
+  },
+  "48": {
+    "magazines": "270 WSM",
+    "image": "images/shield 270 WSM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_366"
+  },
+  "49": {
+    "magazines": "275 RIGBY",
+    "image": "images/shield 275 RIGBY.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_367"
+  },
+  "50": {
+    "magazines": "280 ACKLEY IMPROVED",
+    "image": "images/shield 280 ACKLEY IMP.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_368"
+  },
+  "51": {
+    "magazines": "280 REMINGTON",
+    "image": "images/shield 280 REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_369"
+  },
+  "52": {
+    "magazines": "30 THOMPSON CENTER",
+    "image": "images/shield 30 THOMPSON CENTER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_370"
+  },
+  "53": {
+    "magazines": "30-40 KRAG",
+    "image": "images/shield 30-40 KRAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_357"
+  },
+  "54": {
+    "magazines": "300 H&H MAG",
+    "image": "images/shield 300 H&H MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_358"
+  },
+  "55": {
+    "magazines": "300 NORMA",
+    "image": "images/shield 300 NORMA.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_359"
+  },
+  "56": {
+    "magazines": "300 REM ULTRA MAG",
+    "image": "images/shield 300 REM ULTRA MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_360"
+  },
+  "57": {
+    "magazines": "300 RUGER COMPACT MAG",
+    "image": "images/shield 300 RUGER COMPACT MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_361"
+  },
+  "58": {
+    "magazines": "300 SAVAGE",
+    "image": "images/shield 300 SAVAGE.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_371"
+  },
+  "59": {
+    "magazines": "300 WEATHERBY MAG",
+    "image": "images/shield 300 WEATHERBY MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_372"
+  },
+  "60": {
+    "magazines": "300 WHISPER",
+    "image": "images/shield 300 WHISPER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_373"
+  },
+  "61": {
+    "magazines": "300 WSM",
+    "image": "images/shield 300 WSM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_374"
+  },
+  "62": {
+    "magazines": "303 BRITISH",
+    "image": "images/shield 303 BRITISH.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_375"
+  },
+  "63": {
+    "magazines": "307 WIN",
+    "image": "images/shield 307 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_376"
+  },
+  "64": {
+    "magazines": "308 MARLIN EXPRESS",
+    "image": "images/shield 308 MARLIN EXPRESS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_377"
+  },
+  "65": {
+    "magazines": "32 H&R MAG",
+    "image": "images/shield 32 H&R MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_378"
+  },
+  "66": {
+    "magazines": "32 S&W",
+    "image": "images/shield 32 S&W.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_379"
+  },
+  "67": {
+    "magazines": "32 WIN SPECIAL",
+    "image": "images/shield 32 WIN SPECIAL.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_380"
+  },
+  "68": {
+    "magazines": "32-20 WIN",
+    "image": "images/shield 32-20 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_381"
+  },
+  "69": {
+    "magazines": "33 NOSLER",
+    "image": "images/shield 33 NOSLER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_382"
+  },
+  "70": {
+    "magazines": "338 FEDERAL",
+    "image": "images/shield 338 FEDERAL.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_383"
+  },
+  "71": {
+    "magazines": "338 MARLIN EXPRESS",
+    "image": "images/shield 338 MARLIN EXPRESS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_384"
+  },
+  "72": {
+    "magazines": "338 REM ULTRA MAG",
+    "image": "images/shield 338 REM ULTRA MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_385"
+  },
+  "73": {
+    "magazines": "338 RUGER COMPACT MAG",
+    "image": "images/shield 338 RUGER COMPCT MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_386"
+  },
+  "74": {
+    "magazines": "338 WIN MAG",
+    "image": "images/shield 338 WIN MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_387"
+  },
+  "75": {
+    "magazines": "340 WEATHERBY MAG",
+    "image": "images/shield 340 WEATHERBY MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_388"
+  },
+  "76": {
+    "magazines": "35 REM",
+    "image": "images/shield 35 REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_389"
+  },
+  "77": {
+    "magazines": "35 WHELEN",
+    "image": "images/shield 35 WHELEN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_390"
+  },
+  "78": {
+    "magazines": "350 LEGEND",
+    "image": "images/350 LEGEND SHIELD.jpg",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_468"
+  },
+  "79": {
+    "magazines": "358 WIN",
+    "image": "images/shield 358 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_391"
+  },
+  "80": {
+    "magazines": "375 H&H MAG",
+    "image": "images/shield 375 H&H MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_392"
+  },
+  "81": {
+    "magazines": "375 REM ULTRA MAG",
+    "image": "images/shield 375 REM ULTRA MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_393"
+  },
+  "82": {
+    "magazines": "375 RUGER",
+    "image": "images/shield 375 RUGER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_394"
+  },
+  "83": {
+    "magazines": "375 WEATHERBY MAG",
+    "image": "images/shield 375 WEATHERBY MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_395"
+  },
+  "84": {
+    "magazines": "376 STEYR",
+    "image": "images/shield 376 STEYR.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_396"
+  },
+  "85": {
+    "magazines": "38-55 WIN",
+    "image": "images/shield 38-55 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_397"
+  },
+  "86": {
+    "magazines": "404 JEFFERY",
+    "image": "images/shield 404 JEFFERY.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_398"
+  },
+  "87": {
+    "magazines": "405 WIN",
+    "image": "images/shield 405 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_399"
+  },
+  "88": {
+    "magazines": "416 REM MAG",
+    "image": "images/shield 416 REM MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_400"
+  },
+  "89": {
+    "magazines": "416 RIGBY",
+    "image": "images/shield 416 RIGBY.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_401"
+  },
+  "90": {
+    "magazines": "416 RUGER",
+    "image": "images/shield 416 RUGER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_402"
+  },
+  "91": {
+    "magazines": "44-40 WIN",
+    "image": "images/shield 44-40 WIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_403"
+  },
+  "92": {
+    "magazines": "444 MARLIN",
+    "image": "images/shield 444 MARLIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_404"
+  },
+  "93": {
+    "magazines": "45-70 GOVERNMENT",
+    "image": "images/shield 45-70 GOVT.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_405"
+  },
+  "94": {
+    "magazines": "45-90 GOVERNMENT",
+    "image": "images/shield 45-90 GOVT.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_406"
+  },
+  "95": {
+    "magazines": "450 BUSHMASTER",
+    "image": "images/shield 450 BUSHMASTER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_407"
+  },
+  "96": {
+    "magazines": "450 MARLIN",
+    "image": "images/shield 450 MARLIN.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_408"
+  },
+  "97": {
+    "magazines": "450 NITRO EXPRESS",
+    "image": "images/shield 450 NITRO EXPRESS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_409"
+  },
+  "98": {
+    "magazines": "450 RIGBY",
+    "image": "images/shield 450 RIGBY.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_410"
+  },
+  "99": {
+    "magazines": "450-400 NITRO EXPRESS",
+    "image": "images/shield 450-400 NITRO EXPRESS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_411"
+  },
+  "100": {
+    "magazines": "458 LOTT",
+    "image": "images/shield 458 LOTT.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_412"
+  },
+  "101": {
+    "magazines": "458 WIN MAG",
+    "image": "images/shield 458 WIN MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_413"
+  },
+  "102": {
+    "magazines": "470 NITRO EXPRESS",
+    "image": "images/shield 470 NITRO EXPRESS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_414"
+  },
+  "103": {
+    "magazines": "5.6x52 mm SAVAGE HI PWR",
+    "image": "images/shield 5.6x52 SAVAGE HIGH POWER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_415"
+  },
+  "104": {
+    "magazines": "500 NITRO EXPRESS",
+    "image": "images/shield 500 NITRO EXPRESS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_416"
+  },
+  "105": {
+    "magazines": "500-416 NIRTO EXPRESS",
+    "image": "images/shield 500-416 NITRO EXPRESS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_417"
+  },
+  "106": {
+    "magazines": "6 CREEDMOOR",
+    "image": "images/shield 6 MM CREEDMOOR.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_424"
+  },
+  "107": {
+    "magazines": "6 MM ARC",
+    "image": "images/6MM ARC CALIBER SHIELD.jpg",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_469"
+  },
+  "108": {
+    "magazines": "6 MM REM",
+    "image": "images/shield 6mm REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_418"
+  },
+  "109": {
+    "magazines": "6.5 GRENDEL",
+    "image": "images/shield 6.5 GRENDEL.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_420"
+  },
+  "110": {
+    "magazines": "6.5 PRC",
+    "image": "images/shield 6.5 PRC.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_421"
+  },
+  "111": {
+    "magazines": "6.5x52 CARCANO",
+    "image": "images/shield 6.5x52 CARCANO.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_422"
+  },
+  "112": {
+    "magazines": "6.5x55 SWEDISH MAUSER",
+    "image": "images/shield 6.5x55 SWED MAUSER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_423"
+  },
+  "113": {
+    "magazines": "7 MM SAUM",
+    "image": "images/shield 7 SAUM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_428"
+  },
+  "114": {
+    "magazines": "7 MM STW",
+    "image": "images/shield 7 STW.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_429"
+  },
+  "115": {
+    "magazines": "7 MM WEATHERBY MAG",
+    "image": "images/shield 7 WEATHERBY MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_430"
+  },
+  "116": {
+    "magazines": "7 MM WSM",
+    "image": "images/shield 7 MM WSM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_431"
+  },
+  "117": {
+    "magazines": "7 REM MAG",
+    "image": "images/shield 7 REM MAG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_427"
+  },
+  "118": {
+    "magazines": "7.62x53R",
+    "image": "images/shield 7.62X53R.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_434"
+  },
+  "119": {
+    "magazines": "7mm-08 REM",
+    "image": "images/shield 7MM-08 REM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_425"
+  },
+  "120": {
+    "magazines": "7x57 MM MAUSER",
+    "image": "images/shield 7x57 MM MAUSER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_426"
+  },
+  "121": {
+    "magazines": "7x57R MM",
+    "image": "images/shield 7x57 MM R.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_432"
+  },
+  "122": {
+    "magazines": "7x64 BRENNEKE",
+    "image": "images/shield 7x64 BRENNEKE.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_433"
+  },
+  "123": {
+    "magazines": "9.3x62 MAUSER",
+    "image": "images/shield 9.3 MAUSER.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_436"
+  },
+  "124": {
+    "magazines": "9.3x74R",
+    "image": "images/shield 9.3x74R.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=2_435"
+  },
+  "125": {
+    "magazines": "FIOCCHI AMMO 22 LONG RIFLE 38 1250 50RDS",
+    "image": "bmz_cache/c/css-l_250003958_1jpg.image.200x200.jpg",
+    "price": "$4.41"
+  },
+  "126": {
+    "magazines": "Fed Ammo 6.5 Crdmr 140Gr Gold Medal Sm",
+    "image": "images/no_picture.gif",
+    "price": "$29.74"
+  },
+  "127": {
+    "magazines": "Sellier & Bellot 308 Winchester 168 Gr HPTB 20/bx",
+    "image": "bmz_cache/c/css-l_250001067_1jpg.image.200x200.jpg",
+    "price": "$26.91"
+  },
+  "128": {
+    "magazines": "CCI 22 Lr Mini Mag  40 Gr Segmented HP 100/Bx",
+    "image": "bmz_cache/c/css-l_250023302_1jpg.image.200x200.jpg",
+    "price": "$7.86"
+  },
+  "129": {
+    "magazines": "Nosler Ammo 22 Nosler 70gr RDF HPBT (20 ct.)",
+    "image": "bmz_cache/c/css-l_250025551_1jpg.image.200x200.jpg",
+    "price": "$31.61"
+  },
+  "130": {
+    "magazines": "Fiocchi Extrema 308 Win 150gr SST 20/bx",
+    "image": "bmz_cache/c/css-l_250003874_1jpg.image.200x200.jpg",
+    "price": "$24.43"
+  },
+  "131": {
+    "magazines": "Fiocchi 223 Rem 40gr V-MAX 50/bx",
+    "image": "bmz_cache/c/css-l_250000023_1jpg.image.200x200.jpg",
+    "price": "$29.66"
+  },
+  "132": {
+    "magazines": "American Eagle 223 50gr JHP V&P 50bx",
+    "image": "bmz_cache/c/css-l_250025573_1jpg.image.200x200.jpg",
+    "price": "$32.46"
+  }
+}

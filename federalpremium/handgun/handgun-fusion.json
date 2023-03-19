@@ -1,0 +1,79 @@
+{
+  "1": {
+    "item": "Fusion Handgun 454 Casull",
+    "price": "\n$51.99\n",
+    "link": "/handgun/fusion/fusion-handgun/11-F454FS1.html",
+    "specs": {
+      "Grain Weight:": "260",
+      "Bullet Style:": "Fusion Soft Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Fusion Handgun 10mm Auto",
+    "price": "\n$43.99\n",
+    "link": "/handgun/fusion/fusion-handgun/11-F10FS1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Bullet Style:": "Fusion Soft Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Fusion Handgun 50 Action Express",
+    "price": "\n$65.99\n",
+    "link": "/handgun/fusion/fusion-handgun/11-F50AEFS1.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Bullet Style:": "Fusion Soft Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Fusion Handgun 357 Magnum",
+    "price": "\n$34.99\n",
+    "link": "/handgun/fusion/fusion-handgun/11-F357FS1.html",
+    "specs": {
+      "Grain Weight:": "158",
+      "Bullet Style:": "Fusion Soft Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Fusion Handgun 500 S&W",
+    "price": "\n$67.99\n",
+    "link": "/handgun/fusion/fusion-handgun/11-F500FS2.html",
+    "specs": {
+      "Grain Weight:": "325",
+      "Bullet Style:": "Fusion Soft Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Fusion Handgun 460 S&W",
+    "price": "\n$59.99\n",
+    "link": "/handgun/fusion/fusion-handgun/11-F460FS1.html",
+    "specs": {
+      "Grain Weight:": "260",
+      "Bullet Style:": "Fusion Soft Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Fusion Handgun 44 Rem Magnum",
+    "price": "\n$39.99\n",
+    "link": "/handgun/fusion/fusion-handgun/11-F44FS1.html",
+    "specs": {
+      "Grain Weight:": "240",
+      "Bullet Style:": "Fusion Soft Point",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "1": {
+    "item": "Bismuth 20 Gauge",
+    "price": "\n$66.99\n",
+    "link": "/shotshell/bismuth/11-PBIX244+4.html",
+    "specs": {
+      "Shot Size:": "4",
+      "Muzzle Velocity:": "1350",
+      "Shotshell Length:": "3in. / 76mm",
+      "Shot Charge Oz:": "1 1/8",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  },
+  "2": {
+    "item": "Bismuth 20 Gauge",
+    "price": "\n$66.99\n",
+    "link": "/shotshell/bismuth/11-PBIX244+3.html",
+    "specs": {
+      "Shot Size:": "3",
+      "Muzzle Velocity:": "1350",
+      "Shotshell Length:": "3in. / 76mm",
+      "Shot Charge Oz:": "1 1/8",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  },
+  "3": {
+    "item": "Bismuth 20 Gauge",
+    "price": "\n$66.99\n",
+    "link": "/shotshell/bismuth/11-PBIX244+5.html",
+    "specs": {
+      "Shot Size:": "5",
+      "Muzzle Velocity:": "1350",
+      "Shotshell Length:": "3in. / 76mm",
+      "Shot Charge Oz:": "1 1/8",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  },
+  "4": {
+    "item": "Bismuth 12 Gauge",
+    "price": "\n$76.99\n",
+    "link": "/shotshell/bismuth/11-PBIX137+3.html",
+    "specs": {
+      "Shot Size:": "3",
+      "Muzzle Velocity:": "1450",
+      "Shotshell Length:": "3in. / 76mm",
+      "Shot Charge Oz:": "1 3/8",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  },
+  "5": {
+    "item": "Bismuth 12 Gauge",
+    "price": "\n$76.99\n",
+    "link": "/shotshell/bismuth/11-PBIX137+5.html",
+    "specs": {
+      "Shot Size:": "5",
+      "Muzzle Velocity:": "1450",
+      "Shotshell Length:": "3in. / 76mm",
+      "Shot Charge Oz:": "1 3/8",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  },
+  "6": {
+    "item": "Bismuth 12 Gauge",
+    "price": "\n$76.99\n",
+    "link": "/shotshell/bismuth/11-PBIX137+4.html",
+    "specs": {
+      "Shot Size:": "4",
+      "Muzzle Velocity:": "1450",
+      "Shotshell Length:": "3in. / 76mm",
+      "Shot Charge Oz:": "1 3/8",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  },
+  "7": {
+    "item": "Bismuth 12 Gauge",
+    "price": "\n$70.99\n",
+    "link": "/shotshell/bismuth/11-PBIX144+4.html",
+    "specs": {
+      "Shot Size:": "4",
+      "Muzzle Velocity:": "1350",
+      "Shotshell Length:": "2-3/4in. / 70mm",
+      "Shot Charge Oz:": "1 1/4",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  },
+  "8": {
+    "item": "Bismuth 12 Gauge",
+    "price": "\n$70.99\n",
+    "link": "/shotshell/bismuth/11-PBIX144+3.html",
+    "specs": {
+      "Shot Size:": "3",
+      "Muzzle Velocity:": "1350",
+      "Shotshell Length:": "2-3/4in. / 70mm",
+      "Shot Charge Oz:": "1 1/4",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  },
+  "9": {
+    "item": "Bismuth 12 Gauge",
+    "price": "\n$70.99\n",
+    "link": "/shotshell/bismuth/11-PBIX144+5.html",
+    "specs": {
+      "Shot Size:": "5",
+      "Muzzle Velocity:": "1350",
+      "Shotshell Length:": "2-3/4in. / 70mm",
+      "Shot Charge Oz:": "1 1/4",
+      "Type:": "Bismuth",
+      "Package Quantity:": "25",
+      "Usage:": "Upland"
+    }
+  }
+}

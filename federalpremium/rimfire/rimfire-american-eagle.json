@@ -1,0 +1,38 @@
+{
+  "1": {
+    "item": "American Eagle Rimfire Suppressor 22 LR",
+    "price": "\n$5.99\n",
+    "link": "/rimfire/american-eagle/american-eagle-rimfire-suppressor/11-AE22SUP1.html",
+    "specs": {
+      "Grain Weight:": "45",
+      "Muzzle Velocity:": "970",
+      "Bullet Style:": "CPRN",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "American Eagle Rimfire 22 LR",
+    "price": "\n$4.99\n",
+    "link": "/rimfire/american-eagle/american-eagle-rimfire/11-AE+22.html",
+    "specs": {
+      "Grain Weight:": "38",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "40",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "American Eagle Rimfire 22 LR",
+    "price": "\n$4.99\n",
+    "link": "/rimfire/american-eagle/american-eagle-rimfire/11-AE5022.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1240",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

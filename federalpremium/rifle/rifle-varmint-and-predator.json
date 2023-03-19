@@ -1,0 +1,155 @@
+{
+  "1": {
+    "item": "Federal Champion Training Rifle 5.56x45mm",
+    "price": "\n$18.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-556A.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".222",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Varmint & Predator 22-250 Rem",
+    "price": "\n$35.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V22250VM2.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Muzzle Velocity:": "3670",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".255",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "3": {
+    "item": "Varmint & Predator Nosler Ballistic Tip 224 Valkyrie",
+    "price": "\n$41.99\n",
+    "link": "/rifle/varmint-and-predator/nosler-ballistic-tip/11-P224VLKBT1.html",
+    "specs": {
+      "Grain Weight:": "60",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".270",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "4": {
+    "item": "Varmint & Predator 243 Win",
+    "price": "\n$32.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V243VM75.html",
+    "specs": {
+      "Grain Weight:": "75",
+      "Muzzle Velocity:": "3425",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".330",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "5": {
+    "item": "Varmint & Predator 243 Win",
+    "price": "\n$65.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE24375VP.html",
+    "specs": {
+      "Grain Weight:": "75",
+      "Muzzle Velocity:": "3375",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".234",
+      "Package Quantity:": "40",
+      "Usage:": "Varmint"
+    }
+  },
+  "6": {
+    "item": "Varmint & Predator 223 Rem",
+    "price": "\n$30.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V223VM53.html",
+    "specs": {
+      "Grain Weight:": "53",
+      "Muzzle Velocity:": "3400",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".290",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "7": {
+    "item": "Varmint & Predator 6.5 Creedmoor",
+    "price": "\n$35.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V65CRDVM95.html",
+    "specs": {
+      "Grain Weight:": "95",
+      "Muzzle Velocity:": "3300",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".365",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "8": {
+    "item": "Varmint & Predator 223 Rem",
+    "price": "\n$156.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V223VM53B.html",
+    "specs": {
+      "Grain Weight:": "53",
+      "Muzzle Velocity:": "3400",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".290",
+      "Package Quantity:": "100",
+      "Usage:": "Varmint"
+    }
+  },
+  "9": {
+    "item": "Varmint & Predator 223 Rem",
+    "price": "\n$51.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE22350VP.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Muzzle Velocity:": "3325",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".204",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "10": {
+    "item": "Varmint & Predator 5.56x45mm",
+    "price": "\n$15.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE556G.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Muzzle Velocity:": "3100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".204",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "11": {
+    "item": "Varmint & Predator Nosler Ballistic Tip 220 Swift",
+    "price": "\n$41.99\n",
+    "link": "/rifle/varmint-and-predator/nosler-ballistic-tip/11-P220B.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".221",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "12": {
+    "item": "Varmint & Predator 308 Win",
+    "price": "\n$76.99\n\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE308130VP.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "3050",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".263",
+      "Package Quantity:": "40",
+      "Usage:": "Varmint"
+    }
+  }
+}

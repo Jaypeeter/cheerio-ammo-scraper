@@ -1,0 +1,77 @@
+{
+  "1": {
+    "magazines": "Brass",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=115_148"
+  },
+  "2": {
+    "magazines": "Bullets",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=115_116"
+  },
+  "3": {
+    "magazines": "Hulls",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=115_215"
+  },
+  "4": {
+    "magazines": "Powder",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=115_302"
+  },
+  "5": {
+    "magazines": "Primers",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=115_276"
+  },
+  "6": {
+    "magazines": "Shot",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=115_317"
+  },
+  "7": {
+    "magazines": "Wads",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=115_152"
+  },
+  "8": {
+    "magazines": "RDF REDUCED DRAG FACTOR 6MM (0.243\") BULLETS",
+    "image": "bmz_cache/c/css-l_749017553_1jpg.image.200x200.jpg",
+    "price": "$251.61"
+  },
+  "9": {
+    "magazines": "FMJ 30 CALIBER (0.308\") BULLETS",
+    "image": "bmz_cache/c/css-l_749018574_1jpg.image.200x200.jpg",
+    "price": "$22.76"
+  },
+  "10": {
+    "magazines": "RDF REDUCED DRAG FACTOR 6MM (0.243\") BULLETS",
+    "image": "bmz_cache/c/css-l_749017552_1jpg.image.200x200.jpg",
+    "price": "$53.35"
+  },
+  "11": {
+    "magazines": "6.5MM 140GR RDF REDUCED DRAG FACTOR BULLETS",
+    "image": "bmz_cache/c/css-l_749017554_1jpg.image.200x200.jpg",
+    "price": "$54.15"
+  },
+  "12": {
+    "magazines": "ELD-X 6MM (0.243\") BULLETS",
+    "image": "bmz_cache/c/css-l_749018570_1jpg.image.200x200.jpg",
+    "price": "$42.14"
+  },
+  "13": {
+    "magazines": "22 NOSLER BRASS",
+    "image": "bmz_cache/c/css-l_749017558_2jpg.image.200x200.jpg",
+    "price": "$114.41"
+  },
+  "14": {
+    "magazines": "ELD MATCH 22 CALIBER (0.224\") BULLETS",
+    "image": "bmz_cache/c/css-l_749018572_1jpg.image.200x200.jpg",
+    "price": "$904.37"
+  },
+  "15": {
+    "magazines": "30 CALIBER 175GR RDF REDUCED DRAG FACTOR BULLETS",
+    "image": "bmz_cache/c/css-l_749017556_1jpg.image.200x200.jpg",
+    "price": "$61.74"
+  }
+}

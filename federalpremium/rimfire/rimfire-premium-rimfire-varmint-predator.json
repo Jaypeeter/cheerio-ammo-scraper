@@ -1,0 +1,36 @@
+{
+  "1": {
+    "item": "Varmint & Predator Hornady V-Max 17 HMR",
+    "price": "\n$20.99\n",
+    "link": "/rimfire/premium-rimfire-varmint-predator/varmint-and-predator-hornady-v-max/11-P771.html",
+    "specs": {
+      "Grain Weight:": "17",
+      "Muzzle Velocity:": "2530",
+      "Bullet Style:": "V-Max®",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "2": {
+    "item": "Varmint & Predator Speer TNT 17 HMR",
+    "price": "\n$20.99\n",
+    "link": "/rimfire/premium-rimfire-varmint-predator/varmint-and-predator-speer-tnt/11-P770.html",
+    "specs": {
+      "Grain Weight:": "17",
+      "Muzzle Velocity:": "2530",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "3": {
+    "item": "Varmint & Predator Speer TNT 22 WMR",
+    "price": "\n$21.99\n",
+    "link": "/rimfire/premium-rimfire-varmint-predator/varmint-and-predator-speer-tnt/11-P765.html",
+    "specs": {
+      "Grain Weight:": "30",
+      "Muzzle Velocity:": "2200",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  }
+}

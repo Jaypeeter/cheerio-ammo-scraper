@@ -1,0 +1,140 @@
+{
+  "1": {
+    "item": "Personal Defense HST 9mm Luger",
+    "price": "\n$37.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst/11-P9HST1S.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Muzzle Velocity:": "1150",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "2": {
+    "item": "Personal Defense Hydra•Shok Low Recoil 38 Special",
+    "price": "\n$33.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hydra-shok-low-recoil/11-PD38HS3+H.html",
+    "specs": {
+      "Grain Weight:": "110",
+      "Bullet Style:": "Hydra-Shok Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "3": {
+    "item": "Personal Defense HST 9mm Luger +P",
+    "price": "\n$37.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst/11-P9HST3S.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Muzzle Velocity:": "1200",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "4": {
+    "item": "Personal Defense Hydra•Shok 9mm Luger",
+    "price": "\n$31.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hydra-shok/11-P9HS1.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Bullet Style:": "Hydra-Shok Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "5": {
+    "item": "Personal Defense Hydra-Shok Deep 9mm Luger",
+    "price": "\n$35.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hydra-shok-deep/11-P9HSD1.html",
+    "specs": {
+      "Grain Weight:": "135",
+      "Bullet Style:": "Hydra-Shok Deep Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "6": {
+    "item": "Personal Defense Hydra•Shok 38 Special +P",
+    "price": "\n$33.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hydra-shok/11-P38HS1.html",
+    "specs": {
+      "Grain Weight:": "129",
+      "Bullet Style:": "Hydra-Shok Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "7": {
+    "item": "Personal Defense HST 45 Auto",
+    "price": "\n$42.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst/11-P45HST2S.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Muzzle Velocity:": "890",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "8": {
+    "item": "Personal Defense HST Micro 380 Auto",
+    "price": "\n$37.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst-micro/11-P380HST1S.html",
+    "specs": {
+      "Grain Weight:": "99",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "9": {
+    "item": "Personal Defense HST 30 Super Carry",
+    "price": "\n$38.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst/11-P30HST1S.html",
+    "specs": {
+      "Grain Weight:": "100",
+      "Muzzle Velocity:": "1250",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "10": {
+    "item": "Personal Defense Hydra•Shok 45 Auto",
+    "price": "\n$37.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hydra-shok/11-P45HS1.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Bullet Style:": "Hydra-Shok Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "11": {
+    "item": "Personal Defense HST 45 Auto +P",
+    "price": "\n$42.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst/11-P45HST1S.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Muzzle Velocity:": "950",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "12": {
+    "item": "Personal Defense HST 40 S&W",
+    "price": "\n$40.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst/11-P40HST1S.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "1010",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  }
+}

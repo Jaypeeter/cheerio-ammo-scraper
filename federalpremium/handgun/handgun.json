@@ -1,0 +1,141 @@
+{
+  "1": {
+    "item": "American Eagle Handgun 9mm Luger",
+    "price": "\n$49.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE9DP100.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Muzzle Velocity:": "1180",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "100",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "American Eagle Handgun 9mm Luger",
+    "price": "\n$25.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE9AP.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Muzzle Velocity:": "1150",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "Syntech Action Pistol 9mm Luger",
+    "price": "\n$28.99\n",
+    "link": "/handgun/syntech/syntech-action-pistol/11-AE9SJAP1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Syntech Jacket Flat Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Personal Defense HST 9mm Luger",
+    "price": "\n$37.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst/11-P9HST1S.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Muzzle Velocity:": "1150",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "5": {
+    "item": "Personal Defense Punch 9mm Luger",
+    "price": "\n$22.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-punch/11-PD9P1.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Muzzle Velocity:": "1150",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "6": {
+    "item": "Personal Defense Hydra•Shok Low Recoil 38 Special",
+    "price": "\n$33.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hydra-shok-low-recoil/11-PD38HS3+H.html",
+    "specs": {
+      "Grain Weight:": "110",
+      "Bullet Style:": "Hydra-Shok Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "7": {
+    "item": "Gold Medal Handgun 38 Special",
+    "price": "\n$50.99\n",
+    "link": "/handgun/gold-medal/gold-medal-handgun/11-GM38A.html",
+    "specs": {
+      "Grain Weight:": "148",
+      "Bullet Style:": "Lead Wadcutter",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "8": {
+    "item": "Personal Defense Hydra-Shok Deep 380 Auto",
+    "price": "\n$37.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hydra-shok-deep/11-P380HSD1.html",
+    "specs": {
+      "Grain Weight:": "99",
+      "Bullet Style:": "Hydra-Shok Deep Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "9": {
+    "item": "Personal Defense HST 9mm Luger +P",
+    "price": "\n$37.99\n",
+    "link": "/handgun/premium-personal-defense/personal-defense-hst/11-P9HST3S.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Muzzle Velocity:": "1200",
+      "Bullet Style:": "HST Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "10": {
+    "item": "American Eagle Handgun 380 Auto",
+    "price": "\n$33.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE380AP.html",
+    "specs": {
+      "Grain Weight:": "95",
+      "Muzzle Velocity:": "980",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "Solid Core 9mm Luger +P",
+    "price": "\n$38.99\n",
+    "link": "/handgun/premium-handgun-hunting/solid-core/11-P9SHC1.html",
+    "specs": {
+      "Grain Weight:": "147",
+      "Bullet Style:": "Solid",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "American Eagle Handgun 9mm Luger",
+    "price": "\n$24.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE9DP.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Muzzle Velocity:": "1180",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

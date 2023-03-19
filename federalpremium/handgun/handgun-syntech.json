@@ -1,0 +1,133 @@
+{
+  "1": {
+    "item": "Syntech Action Pistol 9mm Luger",
+    "price": "\n$28.99\n",
+    "link": "/handgun/syntech/syntech-action-pistol/11-AE9SJAP1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Syntech Jacket Flat Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Syntech Action Pistol 40 S&W",
+    "price": "\n$36.99\n",
+    "link": "/handgun/syntech/syntech-action-pistol/11-AE40SJAP1.html",
+    "specs": {
+      "Grain Weight:": "205",
+      "Bullet Style:": "Syntech Jacket Flat Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "Syntech Range 9mm Luger",
+    "price": "\n$28.99\n",
+    "link": "/handgun/syntech/syntech/11-AE9SJ2.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Package Quantity:": "50",
+      "Bullet Style:": "Syntech Jacket Flat Nose",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Syntech Defense 9mm Luger",
+    "price": "\n$48.99\n",
+    "link": "/handgun/syntech/syntech-defense/11-S9SJT2.html",
+    "specs": {
+      "Grain Weight:": "138",
+      "Bullet Style:": "Segmented Hollow Point",
+      "Package Quantity:": "50",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "5": {
+    "item": "Syntech Defense 9mm Luger",
+    "price": "\n$22.99\n",
+    "link": "/handgun/syntech/syntech-defense/11-S9SJT1.html",
+    "specs": {
+      "Grain Weight:": "138",
+      "Bullet Style:": "Segmented Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "6": {
+    "item": "Syntech Range 40 S&W",
+    "price": "\n$36.99\n",
+    "link": "/handgun/syntech/syntech/11-AE40SJ1.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Package Quantity:": "50",
+      "Bullet Style:": "Syntech Jacket Flat Nose",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "Syntech Defense 45 Auto",
+    "price": "\n$63.99\n",
+    "link": "/handgun/syntech/syntech-defense/11-S45SJT2.html",
+    "specs": {
+      "Grain Weight:": "205",
+      "Bullet Style:": "Segmented Hollow Point",
+      "Package Quantity:": "50",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "8": {
+    "item": "Syntech Training Match 9mm Luger",
+    "price": "\n$28.99\n",
+    "link": "/handgun/syntech/syntech-training-match/11-AE9SJ3.html",
+    "specs": {
+      "Grain Weight:": "147",
+      "Bullet Style:": "Syntech Jacket Flat Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "Syntech Range 9mm Luger",
+    "price": "\n$27.99\n",
+    "link": "/handgun/syntech/syntech/11-AE9SJ1.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Package Quantity:": "50",
+      "Bullet Style:": "Syntech Jacket Flat Nose",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "Syntech PCC 9mm Luger",
+    "price": "\n$28.99\n",
+    "link": "/handgun/syntech/syntech-pcc/11-AE9SJPC1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Syntech Jacket Flat Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "Syntech Defense 45 Auto",
+    "price": "\n$29.99\n",
+    "link": "/handgun/syntech/syntech-defense/11-S45SJT1.html",
+    "specs": {
+      "Grain Weight:": "205",
+      "Bullet Style:": "Segmented Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "12": {
+    "item": "Syntech Range 10mm Auto",
+    "price": "\n$50.99\n",
+    "link": "/handgun/syntech/syntech/11-AE10SJ1.html",
+    "specs": {
+      "Grain Weight:": "205",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

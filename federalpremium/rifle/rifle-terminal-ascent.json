@@ -1,0 +1,144 @@
+{
+  "1": {
+    "item": "Terminal Ascent 300 Win Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/terminal-ascent/11-P300WTA1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".608",
+      "Ballistic Coefficient G7:": ".304",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Terminal Ascent 6.5 Creedmoor",
+    "price": "\n$70.99\n",
+    "link": "/rifle/terminal-ascent/11-P65CRDTA1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".532",
+      "Ballistic Coefficient G7:": ".263",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "3": {
+    "item": "Terminal Ascent 6.5 PRC",
+    "price": "\n$82.99\n",
+    "link": "/rifle/terminal-ascent/11-P65PRCTA1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".532",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "Terminal Ascent 30-06 Springfield",
+    "price": "\n$59.99\n",
+    "link": "/rifle/terminal-ascent/11-P3006TA1.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".520",
+      "Ballistic Coefficient G7:": ".258",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "Terminal Ascent 308 Win",
+    "price": "\n$59.99\n",
+    "link": "/rifle/terminal-ascent/11-P308TA1.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".520",
+      "Ballistic Coefficient G7:": ".258",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "6": {
+    "item": "Terminal Ascent 270 Win",
+    "price": "\n$62.99\n",
+    "link": "/rifle/terminal-ascent/11-P270TA1.html",
+    "specs": {
+      "Grain Weight:": "136",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".493",
+      "Ballistic Coefficient G7:": ".247",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Terminal Ascent 7mm Rem Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/terminal-ascent/11-P7RTA1.html",
+    "specs": {
+      "Grain Weight:": "155",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".586",
+      "Ballistic Coefficient G7:": ".300",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "8": {
+    "item": "Terminal Ascent 28 Nosler",
+    "price": "\n$108.99\n",
+    "link": "/rifle/terminal-ascent/11-P28NTA1.html",
+    "specs": {
+      "Grain Weight:": "155",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".586",
+      "Ballistic Coefficient G7:": ".300",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Terminal Ascent 270 Win Short Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/terminal-ascent/11-P270WSMTA1.html",
+    "specs": {
+      "Grain Weight:": "136",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".493",
+      "Ballistic Coefficient G7:": ".247",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Terminal Ascent 300 Win Short Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/terminal-ascent/11-P300WSMTA1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".608",
+      "Ballistic Coefficient G7:": ".304",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Terminal Ascent 280 Ackley Improved",
+    "price": "\n$74.99\n",
+    "link": "/rifle/terminal-ascent/11-P280AITA1.html",
+    "specs": {
+      "Grain Weight:": "155",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".586",
+      "Ballistic Coefficient G7:": ".300",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "1": {
+    "item": "American Eagle Handgun 9mm Luger",
+    "price": "\n$49.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE9DP100.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Muzzle Velocity:": "1180",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "100",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "American Eagle Handgun 9mm Luger",
+    "price": "\n$25.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE9AP.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Muzzle Velocity:": "1150",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "American Eagle Handgun 380 Auto",
+    "price": "\n$33.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE380AP.html",
+    "specs": {
+      "Grain Weight:": "95",
+      "Muzzle Velocity:": "980",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "American Eagle Handgun 9mm Luger",
+    "price": "\n$24.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE9DP.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Muzzle Velocity:": "1180",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "5": {
+    "item": "American Eagle Handgun 45 Auto",
+    "price": "\n$39.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE45A.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Muzzle Velocity:": "890",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "American Eagle Indoor Range Training Lead Free 9mm Luger",
+    "price": "\n$30.99\n",
+    "link": "/handgun/american-eagle/american-eagle-indoor-range-training-lead-free/11-AE9LF1.html",
+    "specs": {
+      "Grain Weight:": "70",
+      "Bullet Style:": "Lead Free IRT",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "American Eagle Handgun 45 Auto",
+    "price": "\n$78.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE45A100.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Muzzle Velocity:": "890",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "100",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "8": {
+    "item": "American Eagle Handgun 10mm Auto",
+    "price": "\n$46.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE10A.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "1030",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "American Eagle Handgun 38 Special",
+    "price": "\n$40.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE38K.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "890",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "American Eagle Handgun 44 Rem Magnum",
+    "price": "\n$77.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE44A.html",
+    "specs": {
+      "Grain Weight:": "240",
+      "Muzzle Velocity:": "1230",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "American Eagle Handgun 40 S&W",
+    "price": "\n$34.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE40R3.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Muzzle Velocity:": "1130",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "12": {
+    "item": "American Eagle Handgun 5.7x28mm",
+    "price": "\n$51.99\n",
+    "link": "/handgun/american-eagle/american-eagle-handgun/11-AE5728A.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1655",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

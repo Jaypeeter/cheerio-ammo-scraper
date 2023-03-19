@@ -1,0 +1,152 @@
+{
+  "1": {
+    "item": "Terminal Ascent 300 Win Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/terminal-ascent/11-P300WTA1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".608",
+      "Ballistic Coefficient G7:": ".304",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Terminal Ascent 6.5 Creedmoor",
+    "price": "\n$70.99\n",
+    "link": "/rifle/terminal-ascent/11-P65CRDTA1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".532",
+      "Ballistic Coefficient G7:": ".263",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "3": {
+    "item": "Terminal Ascent 6.5 PRC",
+    "price": "\n$82.99\n",
+    "link": "/rifle/terminal-ascent/11-P65PRCTA1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".532",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "Terminal Ascent 30-06 Springfield",
+    "price": "\n$59.99\n",
+    "link": "/rifle/terminal-ascent/11-P3006TA1.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".520",
+      "Ballistic Coefficient G7:": ".258",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "Barnes TSX 300 Win Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P300WP.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".453",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "6": {
+    "item": "Barnes TSX 308 Win",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P308V.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".369",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Barnes TSX 30-30 Win",
+    "price": "\n$53.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P3030G.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".184",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Barnes TSX 300 Win Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P300WR.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".398",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Berger Hybrid Hunter 6.5 Creedmoor",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P65CRDBCH1.html",
+    "specs": {
+      "Grain Weight:": "135",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".584",
+      "Ballistic Coefficient G7:": ".303",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "10": {
+    "item": "Berger Hybrid Hunter 300 Win Magnum",
+    "price": "\n$64.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P300WBCH1.html",
+    "specs": {
+      "Grain Weight:": "185",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".533",
+      "Ballistic Coefficient G7:": ".273",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Berger Hybrid Hunter 308 Win",
+    "price": "\n$51.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P308BCH1.html",
+    "specs": {
+      "Grain Weight:": "168",
+      "Bullet Style:": "Berger",
+      "Ballistic Coefficient:": ".489",
+      "Ballistic Coefficient G7:": ".251",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Barnes TSX 30-06 Springfield",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P3006AF.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".398",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

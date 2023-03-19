@@ -1,0 +1,156 @@
+{
+  "1": {
+    "item": "Fusion Rifle 7mm Rem Magnum",
+    "price": "\n$58.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F7RFS2.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Muzzle Velocity:": "2760",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".537",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Fusion Rifle 30-30 Win",
+    "price": "\n$36.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F3030FS1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2390",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".268",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Fusion MSR 300 Blackout",
+    "price": "\n$36.99\n",
+    "link": "/rifle/fusion/fusion-msr/11-F300BMSR2.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".330",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Fusion Rifle 45-70 Government",
+    "price": "\n$67.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F4570FS1.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Muzzle Velocity:": "1850",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".290",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Fusion Rifle 30-06 Springfield",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F3006FS1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2900",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".410",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Fusion Rifle 30-06 Springfield",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F3006FS3.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2700",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".498",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Fusion Rifle 308 Win",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F308FS2.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Muzzle Velocity:": "2700",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".446",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Fusion MSR 224 Valkyrie",
+    "price": "\n$39.99\n",
+    "link": "/rifle/fusion/fusion-msr/11-F224VLKMSR1.html",
+    "specs": {
+      "Grain Weight:": "90",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".424",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "9": {
+    "item": "Fusion Rifle 223 Rem",
+    "price": "\n$38.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F223FS1.html",
+    "specs": {
+      "Grain Weight:": "62",
+      "Muzzle Velocity:": "3000",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".310",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "10": {
+    "item": "Fusion Rifle 6.5 Creedmoor",
+    "price": "\n$48.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F65CRDFS1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "2725",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".439",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "11": {
+    "item": "Fusion Rifle 270 Win",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F270FS1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "3050",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".400",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "Fusion Rifle 308 Win",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F308FS1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2820",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".414",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

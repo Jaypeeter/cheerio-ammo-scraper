@@ -1,0 +1,102 @@
+{
+  "1": {
+    "magazines": "Books, Videos & Software",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_145"
+  },
+  "2": {
+    "magazines": "Bullet Casting Equipment",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_150"
+  },
+  "3": {
+    "magazines": "Case Preparation",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_124"
+  },
+  "4": {
+    "magazines": "Loading Blocks",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_247"
+  },
+  "5": {
+    "magazines": "Measuring Tools",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_143"
+  },
+  "6": {
+    "magazines": "Powder Handling",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_137"
+  },
+  "7": {
+    "magazines": "Priming Tools",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_160"
+  },
+  "8": {
+    "magazines": "Ram Rods",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_315"
+  },
+  "9": {
+    "magazines": "Reloading Dies",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_113"
+  },
+  "10": {
+    "magazines": "Reloading Presses",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_119"
+  },
+  "11": {
+    "magazines": "Shellholders",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_208"
+  },
+  "12": {
+    "magazines": "Shellplates",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=112_254"
+  },
+  "13": {
+    "magazines": "8X57MM MAUSER CUSTOM GRADE FULL LENGTH DIE",
+    "image": "bmz_cache/c/css-l_749004054_2gif.image.200x200.gif",
+    "price": "$36.67"
+  },
+  "14": {
+    "magazines": "7X57MM MAUSER CUSTOM GRADE FULL LENGTH DIE",
+    "image": "bmz_cache/c/css-l_749004050_2gif.image.200x200.gif",
+    "price": "$41.62"
+  },
+  "15": {
+    "magazines": "CAM-LOCK PULLER",
+    "image": "bmz_cache/c/css-l_749003707_2jpg.image.200x200.jpg",
+    "price": "$31.50"
+  },
+  "16": {
+    "magazines": "CAMLOCK TRIMMER POWER ADAPTER",
+    "image": "bmz_cache/c/css-l_749004009_1jpg.image.200x200.jpg",
+    "price": "$19.39"
+  },
+  "17": {
+    "magazines": ".17 TO .60 CAL CHAMFER & DEBURRING TOOL",
+    "image": "bmz_cache/c/css-l_749003248_1jpg.image.200x200.jpg",
+    "price": "$25.06"
+  },
+  "18": {
+    "magazines": "HAND PRIMING TOOL SHELLHOLDER SET",
+    "image": "bmz_cache/c/css-l_749003516_1jpg.image.200x200.jpg",
+    "price": "$21.42"
+  },
+  "19": {
+    "magazines": "MATCH GRADE BUSHING",
+    "image": "bmz_cache/c/css-l_749003017_1jpg.image.200x200.jpg",
+    "price": "$21.39"
+  },
+  "20": {
+    "magazines": "SERIES I CUSTOM GRADE SEATER DIE, 303 CAL",
+    "image": "bmz_cache/c/css-l_749003184_1jpg.image.200x200.jpg",
+    "price": "$22.18"
+  }
+}

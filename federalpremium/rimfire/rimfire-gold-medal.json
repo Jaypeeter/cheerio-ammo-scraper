@@ -1,0 +1,26 @@
+{
+  "1": {
+    "item": "Gold Medal Rimfire 22 LR",
+    "price": "\n$7.99\n",
+    "link": "/rimfire/gold-medal/gold-medal-rimfire/11-711B.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1080",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Gold Medal Rimfire 22 LR",
+    "price": "\n$7.99\n",
+    "link": "/rimfire/gold-medal/gold-medal-rimfire/11-719.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1200",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

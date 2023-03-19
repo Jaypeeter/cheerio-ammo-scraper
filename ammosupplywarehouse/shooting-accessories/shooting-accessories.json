@@ -1,0 +1,87 @@
+{
+  "1": {
+    "magazines": "Apparel",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_444"
+  },
+  "2": {
+    "magazines": "Books & Videos",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_238"
+  },
+  "3": {
+    "magazines": "ESG",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_127"
+  },
+  "4": {
+    "magazines": "Gun Parts, Tools, & Accessories",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_161"
+  },
+  "5": {
+    "magazines": "Holsters",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_454"
+  },
+  "6": {
+    "magazines": "Hunting Blinds",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_492"
+  },
+  "7": {
+    "magazines": "Range Gear",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_153"
+  },
+  "8": {
+    "magazines": "Storage Boxes",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_130"
+  },
+  "9": {
+    "magazines": "Targets, Throwers & Accessories",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=126_259"
+  },
+  "10": {
+    "magazines": "TRU-DOT~ TRITIUM NIGHT SIGHT SETS FOR GLOCK~",
+    "image": "bmz_cache/c/css-l_387000132_1jpg.image.200x200.jpg",
+    "price": "$109.99"
+  },
+  "11": {
+    "magazines": "TRU-DOT~ TRITIUM NIGHT SIGHT SETS FOR GLOCK~",
+    "image": "bmz_cache/c/css-l_387000089_2jpg.image.200x200.jpg",
+    "price": "$89.99"
+  },
+  "12": {
+    "magazines": "AK-47  TRITIUM NIGHT SIGHT SET",
+    "image": "bmz_cache/c/css-l_387000065_2jpg.image.200x200.jpg",
+    "price": "$134.99"
+  },
+  "13": {
+    "magazines": "TRU-DOT~ TRITIUM NIGHT SIGHT SETS FOR GLOCK~",
+    "image": "bmz_cache/c/css-l_387000058_1jpg.image.200x200.jpg",
+    "price": "$89.99"
+  },
+  "14": {
+    "magazines": "FIBER-TRITIUM BULLSEYE REAR SIGHT FOR SIG SAUER",
+    "image": "bmz_cache/c/css-l_387000135_1jpg.image.200x200.jpg",
+    "price": "$129.99"
+  },
+  "15": {
+    "magazines": "FIBER-TRITIUM BULLSEYE REAR SIGHT FOR GLOCK",
+    "image": "bmz_cache/c/css-l_387000133_1jpg.image.200x200.jpg",
+    "price": "$129.99"
+  },
+  "16": {
+    "magazines": "FIBER-TRITIUM BULLSEYE REAR SIGHT FOR SIG SAUER",
+    "image": "images/no_picture.gif",
+    "price": "$129.99"
+  },
+  "17": {
+    "magazines": "SIG SAUER TRU-DOT~ ADJUSTABLE TRITIUM NIGHT SIGHT SETS",
+    "image": "bmz_cache/c/css-l_387000021_1jpg.image.200x200.jpg",
+    "price": "$134.99"
+  }
+}

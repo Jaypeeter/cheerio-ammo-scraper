@@ -1,0 +1,99 @@
+{
+  "1": {
+    "item": "Custom Shop Model 2020 Waypoint Special Edition",
+    "price": "\n$109.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCSWaypoint.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "2": {
+    "item": "Custom Rifle Ammo 470 Nitro",
+    "price": "\n$329.99\n\n$399.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS470.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "3": {
+    "item": "Custom Rifle Ammo 300 Win Mag",
+    "price": "\n$109.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS300WA.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "4": {
+    "item": "Custom Rifle Ammo 284 Win",
+    "price": "\n$109.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS284WA.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "5": {
+    "item": "Custom Rifle Ammo 9.3 x 62",
+    "price": "\n$219.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS9362.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "6": {
+    "item": "Custom Rifle Ammo 300 WSM",
+    "price": "\n$109.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS300WSMA.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "7": {
+    "item": "Custom Rifle Ammo 30-06 Sprg",
+    "price": "\n$109.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS3006SA.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "8": {
+    "item": "Custom Rifle Ammo 500 Nitro",
+    "price": "\n$349.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS500N.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "9": {
+    "item": "Custom Rifle Ammo 243 Win",
+    "price": "\n$109.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS243WA.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "10": {
+    "item": "Custom Rifle Ammo 375 H & H Mag",
+    "price": "\n$219.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS375.html",
+    "specs": {
+      "Caliber:": "375 H & H Mag",
+      "Package Quantity:": "20"
+    }
+  },
+  "11": {
+    "item": "Custom Rifle Ammo 308 Win",
+    "price": "\n$109.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS308WA.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  },
+  "12": {
+    "item": "Custom Rifle Ammo 6.5 Creedmoor",
+    "price": "\n$109.99\n",
+    "link": "/custom-shop/custom-rifle-ammo/11-FCS65CRDA.html",
+    "specs": {
+      "Package Quantity:": "20"
+    }
+  }
+}

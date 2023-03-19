@@ -1,0 +1,57 @@
+{
+  "1": {
+    "magazines": "Gun Cases",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=122_233"
+  },
+  "2": {
+    "magazines": "Safe Accessories",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=122_123"
+  },
+  "3": {
+    "magazines": "Safes",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=122_248"
+  },
+  "4": {
+    "magazines": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+    "image": "images/no_picture.gif",
+    "price": "$134.39"
+  },
+  "5": {
+    "magazines": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+    "image": "bmz_cache/c/css-l_100047414_1jpg.image.200x200.jpg",
+    "price": "$138.59"
+  },
+  "6": {
+    "magazines": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+    "image": "bmz_cache/c/css-l_100047407_1jpg.image.200x200.jpg",
+    "price": "$134.39"
+  },
+  "7": {
+    "magazines": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+    "image": "bmz_cache/c/css-l_100047415_1jpg.image.200x200.jpg",
+    "price": "$116.54"
+  },
+  "8": {
+    "magazines": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+    "image": "bmz_cache/c/css-l_100047410_1jpg.image.200x200.jpg",
+    "price": "$134.39"
+  },
+  "9": {
+    "magazines": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+    "image": "bmz_cache/c/css-l_100047409_1jpg.image.200x200.jpg",
+    "price": "$134.39"
+  },
+  "10": {
+    "magazines": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+    "image": "bmz_cache/c/css-l_100047416_2jpg.image.200x200.jpg",
+    "price": "$116.54"
+  },
+  "11": {
+    "magazines": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+    "image": "bmz_cache/c/css-l_100047417_1jpg.image.200x200.jpg",
+    "price": "$116.54"
+  }
+}

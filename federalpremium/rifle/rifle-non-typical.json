@@ -1,0 +1,146 @@
+{
+  "1": {
+    "item": "Non-Typical 308 Win",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-308DT150.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".313",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Non-Typical 30-30 Win",
+    "price": "\n$31.99\n",
+    "link": "/rifle/non-typical/non-typical/11-3030DT150.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".218",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "3": {
+    "item": "Non-Typical 30-06 Springfield",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-3006DT150.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".313",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "Non-Typical 270 Win",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-270DT150.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".261",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "Non-Typical 243 Win",
+    "price": "\n$34.99\n",
+    "link": "/rifle/non-typical/non-typical/11-243DT100.html",
+    "specs": {
+      "Grain Weight:": "100",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".355",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "6": {
+    "item": "Non-Typical 300 Win Magnum",
+    "price": "\n$49.99\n",
+    "link": "/rifle/non-typical/non-typical/11-300WDT180.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".439",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Non-Typical 270 Win",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-270DT130.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".372",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "8": {
+    "item": "Non-Typical 300 Win Magnum",
+    "price": "\n$39.99\n",
+    "link": "/rifle/non-typical/non-typical/11-300WDT150.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".389",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Non-Typical 30-06 Springfield",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-3006DT180.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".385",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Non-Typical 308 Win",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-308DT180.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".382",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Non-Typical 450 Bushmaster",
+    "price": "\n$51.99\n",
+    "link": "/rifle/non-typical/non-typical/11-450BMDT1.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".225",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Non-Typical 6.5 Creedmoor",
+    "price": "\n$37.99\n",
+    "link": "/rifle/non-typical/non-typical/11-65CDT1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".439",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

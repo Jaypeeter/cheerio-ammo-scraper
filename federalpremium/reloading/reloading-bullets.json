@@ -1,0 +1,158 @@
+{
+  "1": {
+    "item": "Trophy Bonded Bear Claw Component Bullet .375",
+    "price": "\n$167.99\n",
+    "link": "/reloading/bullets/trophy-bonded-bear-claw-component-bullet/11-PB375TBBC300.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Bullet Style:": "Trophy Bonded Bear Claw Component Bullet",
+      "Ballistic Coefficient:": ".342",
+      "Diameter In:": "0.375",
+      "Package Quantity:": "25",
+      "Usage:": "Reloading"
+    }
+  },
+  "2": {
+    "item": "Trophy Bonded Bear Claw Component Bullet .416",
+    "price": "\n$123.99\n",
+    "link": "/reloading/bullets/trophy-bonded-bear-claw-component-bullet/11-PB416TBBC400.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Trophy Bonded Bear Claw Component Bullet",
+      "Ballistic Coefficient:": ".373",
+      "Diameter In:": "0.416",
+      "Package Quantity:": "25",
+      "Usage:": "Reloading"
+    }
+  },
+  "3": {
+    "item": "Fusion Component Bullet .277",
+    "price": "\n$53.99\n",
+    "link": "/reloading/bullets/fusion-component-bullet/11-FB277F2.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".367",
+      "Diameter In:": "0.277",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "4": {
+    "item": "Fusion Component Bullet .284",
+    "price": "\n$61.99\n",
+    "link": "/reloading/bullets/fusion-component-bullet/11-FB284F3.html",
+    "specs": {
+      "Grain Weight:": "160",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".455",
+      "Diameter In:": "0.284",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "5": {
+    "item": "Fusion Component Bullet .308",
+    "price": "\n$34.99\n",
+    "link": "/reloading/bullets/fusion-component-bullet/11-FB308F4.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".483",
+      "Diameter In:": "0.308",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  },
+  "6": {
+    "item": "Hydra-Shok Component Bullet .40/10mm",
+    "price": "\n$22.99\n",
+    "link": "/reloading/bullets/hydra-shok-component-bullet/11-PB40HS165.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Hydra-Shok",
+      "Ballistic Coefficient:": ".150",
+      "Diameter In:": "0.4",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  },
+  "7": {
+    "item": "Trophy Bonded Tip Component Bullet .284",
+    "price": "\n$51.99\n",
+    "link": "/reloading/bullets/trophy-bonded-tip-component-bullet/11-PB284TT160.html",
+    "specs": {
+      "Grain Weight:": "160",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".520",
+      "Diameter In:": "0.284",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  },
+  "8": {
+    "item": "Trophy Bonded Bear Claw Component Bullet .474",
+    "price": "\n$185.99\n",
+    "link": "/reloading/bullets/trophy-bonded-bear-claw-component-bullet/11-PB474TBBC500.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Trophy Bonded Bear Claw Component Bullet",
+      "Ballistic Coefficient:": ".299",
+      "Diameter In:": "0.474",
+      "Package Quantity:": "25",
+      "Usage:": "Reloading"
+    }
+  },
+  "9": {
+    "item": "Hydra-Shok Component Bullet .355",
+    "price": "\n$41.99\n",
+    "link": "/reloading/bullets/hydra-shok-component-bullet/11-PB9HS147.html",
+    "specs": {
+      "Grain Weight:": "147",
+      "Bullet Style:": "Hydra-Shok",
+      "Ballistic Coefficient:": ".200",
+      "Diameter In:": "0.355",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "10": {
+    "item": "Trophy Bonded Tip Component Bullet .277",
+    "price": "\n$46.99\n",
+    "link": "/reloading/bullets/trophy-bonded-tip-component-bullet/11-PB277TT140.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".455",
+      "Diameter In:": "0.277",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  },
+  "11": {
+    "item": "Trophy Bonded Tip Component Bullet .308",
+    "price": "\n$51.99\n",
+    "link": "/reloading/bullets/trophy-bonded-tip-component-bullet/11-PB308TT180.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".500",
+      "Diameter In:": "0.308",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  },
+  "12": {
+    "item": "Trophy Bonded Tip Component Bullet .308",
+    "price": "\n$46.99\n",
+    "link": "/reloading/bullets/trophy-bonded-tip-component-bullet/11-PB308TT165.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".450",
+      "Diameter In:": "0.308",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  }
+}

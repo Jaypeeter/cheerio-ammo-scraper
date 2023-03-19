@@ -1,0 +1,60 @@
+{
+  "1": {
+    "item": "Trophy Copper Muzzleloader Bullet .50",
+    "price": "\n$33.99\n",
+    "link": "/muzzleloading/11-PMZ50TC1.html",
+    "specs": {
+      "Grain Weight:": "270",
+      "Bullet Style:": "Trophy Copper",
+      "Package Quantity:": "15",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Lead Tipped Muzzleloader Bullet .50",
+    "price": "\n$28.99\n",
+    "link": "/muzzleloading/11-PMZ50LMZ1.html",
+    "specs": {
+      "Grain Weight:": "350",
+      "Bullet Style:": "Lead Tipped Muzzleloader",
+      "Package Quantity:": "15",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "209 Muzzleloading Primer .209",
+    "price": "\n$18.99\n",
+    "link": "/muzzleloading/11-PMZ209.html",
+    "specs": {
+      "Package Quantity:": "100",
+      "Usage:": "Hunting"
+    }
+  },
+  "4": {
+    "item": "FireStick 100",
+    "price": "\n$34.99\n",
+    "link": "/muzzleloading/firestick/11-PMZFS100T8.html",
+    "specs": {
+      "Package Quantity:": "10",
+      "Usage:": "Hunting"
+    }
+  },
+  "5": {
+    "item": "FireStick 80",
+    "price": "\n$34.99\n",
+    "link": "/muzzleloading/firestick/11-PMZFS80T8.html",
+    "specs": {
+      "Package Quantity:": "10",
+      "Usage:": "Hunting"
+    }
+  },
+  "6": {
+    "item": "FireStick 120",
+    "price": "\n$34.99\n",
+    "link": "/muzzleloading/firestick/11-PMZFS120T8.html",
+    "specs": {
+      "Package Quantity:": "10",
+      "Usage:": "Hunting"
+    }
+  }
+}

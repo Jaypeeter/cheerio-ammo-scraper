@@ -1,0 +1,35 @@
+{
+  "1": {
+    "item": "Gold Medal Handgun 38 Special",
+    "price": "\n$50.99\n",
+    "link": "/handgun/gold-medal/gold-medal-handgun/11-GM38A.html",
+    "specs": {
+      "Grain Weight:": "148",
+      "Bullet Style:": "Lead Wadcutter",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Gold Medal Handgun 45 Auto",
+    "price": "\n$72.99\n",
+    "link": "/handgun/gold-medal/gold-medal-handgun/11-GM45A.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "Gold Medal Handgun 45 Auto",
+    "price": "\n$72.99\n",
+    "link": "/handgun/gold-medal/gold-medal-handgun/11-GM45B.html",
+    "specs": {
+      "Grain Weight:": "185",
+      "Bullet Style:": "Full Metal Jacket Semi-Wadcutter",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

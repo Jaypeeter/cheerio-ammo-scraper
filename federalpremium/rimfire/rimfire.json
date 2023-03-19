@@ -1,0 +1,145 @@
+{
+  "1": {
+    "item": "Personal Defense Punch Rimfire 22 LR",
+    "price": "\n$10.99\n",
+    "link": "/rimfire/personal-defense-punch-rimfire/11-PD22L1.html",
+    "specs": {
+      "Grain Weight:": "29",
+      "Muzzle Velocity:": "1080",
+      "Bullet Style:": "Nickel Plated Flat Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Personal Defense"
+    }
+  },
+  "2": {
+    "item": "Small Game 22 LR",
+    "price": "\n$19.99\n",
+    "link": "/rimfire/federal-small-game-and-target/game-shok/11-716.html",
+    "specs": {
+      "Grain Weight:": "25",
+      "Muzzle Velocity:": "1000",
+      "Bullet Style:": "12 Shot",
+      "Package Quantity:": "50",
+      "Usage:": "Small Game"
+    }
+  },
+  "3": {
+    "item": "American Eagle Rimfire Suppressor 22 LR",
+    "price": "\n$5.99\n",
+    "link": "/rimfire/american-eagle/american-eagle-rimfire-suppressor/11-AE22SUP1.html",
+    "specs": {
+      "Grain Weight:": "45",
+      "Muzzle Velocity:": "970",
+      "Bullet Style:": "CPRN",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Varmint & Predator Hornady V-Max 17 HMR",
+    "price": "\n$20.99\n",
+    "link": "/rimfire/premium-rimfire-varmint-predator/varmint-and-predator-hornady-v-max/11-P771.html",
+    "specs": {
+      "Grain Weight:": "17",
+      "Muzzle Velocity:": "2530",
+      "Bullet Style:": "V-Max®",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "5": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$4.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-510.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1240",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Small Game 22 WMR",
+    "price": "\n$19.99\n",
+    "link": "/rimfire/federal-small-game-and-target/game-shok/11-757.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Muzzle Velocity:": "1530",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "Varmint & Predator Speer TNT 17 HMR",
+    "price": "\n$20.99\n",
+    "link": "/rimfire/premium-rimfire-varmint-predator/varmint-and-predator-speer-tnt/11-P770.html",
+    "specs": {
+      "Grain Weight:": "17",
+      "Muzzle Velocity:": "2530",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "8": {
+    "item": "Champion Training - Rimfire 22 Long Rifle",
+    "price": "\n$81.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-729B800.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1200",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "800",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "Champion Training - Rimfire 22 WMR",
+    "price": "\n$18.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-737.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1880",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$30.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-AM22.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1200",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "325",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "Champion Training - Rimfire 22 LR",
+    "price": "\n$49.99\n",
+    "link": "/rimfire/champion/champion-training---rimfire/11-745.html",
+    "specs": {
+      "Grain Weight:": "36",
+      "Muzzle Velocity:": "1260",
+      "Bullet Style:": "Copper Plated Hollow Point",
+      "Package Quantity:": "525",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "12": {
+    "item": "Gold Medal Rimfire 22 LR",
+    "price": "\n$7.99\n",
+    "link": "/rimfire/gold-medal/gold-medal-rimfire/11-711B.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "1080",
+      "Bullet Style:": "Lead Round Nose",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "1": {
+    "item": "Champion Training 9mm Luger",
+    "price": "\n$23.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WM5199.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Champion Training 40 S&W",
+    "price": "\n$33.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WM5223.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "Champion Training 40 S&W",
+    "price": "\n$66.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WM52231.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "100",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Champion Training 9mm Luger",
+    "price": "\n$47.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WM51991.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "100",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "5": {
+    "item": "Champion Training 45 Auto",
+    "price": "\n$38.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WM5233.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Champion Training 45 Auto",
+    "price": "\n$155.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WM52332.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "200",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "Champion Training 40 S&W",
+    "price": "\n$136.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WM52232.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "200",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "8": {
+    "item": "Military Grade 9mm NATO",
+    "price": "\n$31.99\n",
+    "link": "/handgun/federal-target/military-grade/11-C9N882.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "Champion Training 45 Auto",
+    "price": "\n$75.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WM52331.html",
+    "specs": {
+      "Grain Weight:": "230",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "100",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "Champion Training 380 Auto",
+    "price": "\n$33.99\n",
+    "link": "/handgun/federal-target/champion-training/11-WMAE380AP.html",
+    "specs": {
+      "Grain Weight:": "95",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "Champion Training 9mm Luger",
+    "price": "\n$239.99\n",
+    "link": "/handgun/federal-target/champion-training/11-C9115A500.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "500"
+    }
+  },
+  "12": {
+    "item": "Champion Training 32 H&R Magnum",
+    "price": "\n$33.99\n",
+    "link": "/handgun/federal-target/champion-training/11-C32HRA.html",
+    "specs": {
+      "Grain Weight:": "95",
+      "Bullet Style:": "Semi-Wadcutter Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

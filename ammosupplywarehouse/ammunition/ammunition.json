@@ -1,0 +1,67 @@
+{
+  "1": {
+    "magazines": "Bulk Ammo",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=498_503"
+  },
+  "2": {
+    "magazines": "Handgun",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=498_501"
+  },
+  "3": {
+    "magazines": "Rifle",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=498_500"
+  },
+  "4": {
+    "magazines": "Rimfire",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=498_502"
+  },
+  "5": {
+    "magazines": "Shotgun",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=498_499"
+  },
+  "6": {
+    "magazines": "COMPETITION ONE STEEL 12 GAUGE AMMO",
+    "image": "bmz_cache/c/css-l_430103765_1jpg.image.200x200.jpg",
+    "price": "$163.99"
+  },
+  "7": {
+    "magazines": "GOLD MEDAL GRAND PAPER 12 GAUGE 2-3/4\" AMMO",
+    "image": "bmz_cache/c/css-l_105003132_1jpg.image.200x200.jpg",
+    "price": "$12.37"
+  },
+  "8": {
+    "magazines": "NITRO TURKEY 12 GAUGE EXTRA-HARD LEAD SHOT AMMO",
+    "image": "bmz_cache/c/css-l_105201853_1jpg.image.200x200.jpg",
+    "price": "$8.69"
+  },
+  "9": {
+    "magazines": "UMC 45 ACP AMMO",
+    "image": "bmz_cache/c/css-l_105201727_1jpg.image.200x200.jpg",
+    "price": "$30.38"
+  },
+  "10": {
+    "magazines": "WHITE RINO LITE 12 GAUGE AMMO",
+    "image": "bmz_cache/c/css-l_105002145-_4opyjpg.image.200x200.jpg",
+    "price": "$9.59"
+  },
+  "11": {
+    "magazines": "MINI-MAG HP AMMO 22 LONG RIFLE 36GR CPHP",
+    "image": "bmz_cache/c/css-l_430103865_1jpg.image.200x200.jpg",
+    "price": "$23.51"
+  },
+  "12": {
+    "magazines": "CORE-LOKT AMMO 308 WINCHESTER 180GR POINTED SP",
+    "image": "bmz_cache/c/css-l_430104076_1jpg.image.200x200.jpg",
+    "price": "$22.57"
+  },
+  "13": {
+    "magazines": "HEAVY DOVE & QUAIL STEEL 12 GAUGE AMMO",
+    "image": "bmz_cache/c/css-l_430103767_1jpg.image.200x200.jpg",
+    "price": "$100.11"
+  }
+}

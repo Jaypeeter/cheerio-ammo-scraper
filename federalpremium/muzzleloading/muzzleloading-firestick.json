@@ -1,0 +1,29 @@
+{
+  "1": {
+    "item": "FireStick 100",
+    "price": "\n$34.99\n",
+    "link": "/muzzleloading/firestick/11-PMZFS100T8.html",
+    "specs": {
+      "Package Quantity:": "10",
+      "Usage:": "Hunting"
+    }
+  },
+  "2": {
+    "item": "FireStick 80",
+    "price": "\n$34.99\n",
+    "link": "/muzzleloading/firestick/11-PMZFS80T8.html",
+    "specs": {
+      "Package Quantity:": "10",
+      "Usage:": "Hunting"
+    }
+  },
+  "3": {
+    "item": "FireStick 120",
+    "price": "\n$34.99\n",
+    "link": "/muzzleloading/firestick/11-PMZFS120T8.html",
+    "specs": {
+      "Package Quantity:": "10",
+      "Usage:": "Hunting"
+    }
+  }
+}

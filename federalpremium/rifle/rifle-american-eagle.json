@@ -1,0 +1,146 @@
+{
+  "1": {
+    "item": "American Eagle Rifle 308 Win",
+    "price": "\n$37.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE308D.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".408",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "American Eagle Rifle 300 Blackout",
+    "price": "\n$28.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE300BLK1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".406",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$19.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".269",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "American Eagle Rifle Suppressor 300 Blackout",
+    "price": "\n$33.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle-suppressor/11-AE300BLKSUP2.html",
+    "specs": {
+      "Grain Weight:": "220",
+      "Bullet Style:": "Open Tip Match",
+      "Ballistic Coefficient:": ".650",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "5": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$20.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223T75.html",
+    "specs": {
+      "Grain Weight:": "75",
+      "Bullet Style:": "Total Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".400",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "American Eagle Rifle 7.62x51mm NATO",
+    "price": "\n$30.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-XM80CL.html",
+    "specs": {
+      "Grain Weight:": "149",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".456",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$20.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223N.html",
+    "specs": {
+      "Grain Weight:": "62",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".307",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "8": {
+    "item": "American Eagle Rifle 30-06 Springfield",
+    "price": "\n$42.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE3006M1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".410",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "American Eagle Rifle 30-06 Springfield",
+    "price": "\n$42.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE3006N.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".408",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "American Eagle Rifle 224 Valkyrie",
+    "price": "\n$22.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE224VLK1.html",
+    "specs": {
+      "Grain Weight:": "75",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".400",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "American Eagle Rifle 6.5 Creedmoor",
+    "price": "\n$33.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE65CRD3.html",
+    "specs": {
+      "Grain Weight:": "120",
+      "Bullet Style:": "Total Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".406",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "12": {
+    "item": "American Eagle Varmint 22-250 Rem",
+    "price": "\n$34.99\n",
+    "link": "/rifle/american-eagle/american-eagle-varmint/11-AE22250G.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".204",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  }
+}

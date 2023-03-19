@@ -1,0 +1,67 @@
+{
+  "1": {
+    "magazines": "Bulk Ammo",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=105_106"
+  },
+  "2": {
+    "magazines": "Handgun",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=105_110"
+  },
+  "3": {
+    "magazines": "Rifle",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=105_109"
+  },
+  "4": {
+    "magazines": "Rimfire",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=105_147"
+  },
+  "5": {
+    "magazines": "Shotgun",
+    "image": "images/pixel_trans.gif",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=105_111"
+  },
+  "6": {
+    "magazines": "Winchester Ammo 12ga 2.75in sx-buck #00 (9plt Bufferd)",
+    "image": "bmz_cache/c/css-l_250210180_1jpg.image.200x200.jpg",
+    "price": "$5.99"
+  },
+  "7": {
+    "magazines": "Federal Grandslam 12Ga 3\"  4De 1 3/4\" Oz 4 10/Bx",
+    "image": "bmz_cache/c/css-l_250023285_1jpg.image.200x200.jpg",
+    "price": "$15.27"
+  },
+  "8": {
+    "magazines": "Remington Nitro-Steel HV Mag 12ga 3\" 1-3/8oz #2 25/bx",
+    "image": "bmz_cache/c/css-l_250207836_1jpg.image.200x200.jpg",
+    "price": "$21.89"
+  },
+  "9": {
+    "magazines": "Winchester Xpert HV Steel 28ga 2.75\" 5/8oz #7 25/bx",
+    "image": "bmz_cache/c/css-l_250209897_1jpg.image.200x200.jpg",
+    "price": "$18.13"
+  },
+  "10": {
+    "magazines": "REMINGTON UMC MEGA PACK 9MM 115GR MC 250/BX",
+    "image": "bmz_cache/c/css-l_250207767_1jpg.image.200x200.jpg",
+    "price": "$72.86"
+  },
+  "11": {
+    "magazines": "HEVI-Shot Magnum Blend 12ga 3.5\" 2-1/4oz #5,6,7 Shot 5/bx",
+    "image": "bmz_cache/c/css-l_250520010_1jpg.image.200x200.jpg",
+    "price": "$35.49"
+  },
+  "12": {
+    "magazines": "Winchester Drylok Super Steel Mag 12ga 2.75\" 1-1/4oz #4 25/b",
+    "image": "bmz_cache/c/css-l_250210231_1jpg.image.200x200.jpg",
+    "price": "$24.96"
+  },
+  "13": {
+    "magazines": "WINCHESTER SUPER-X XPERT HV STEEL 12GAUGE 2.75' 1OZ #7 25/BX (25",
+    "image": "bmz_cache/c/css-l_250209885_1jpg.image.200x200.jpg",
+    "price": "$10.04"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Apparel": {},
+  "Books & Videos": {
+    "1": {
+      "items": "11TH EDITION RELOADING HANDBOOK",
+      "image": "bmz_cache/c/css-l_100042555_1jpg.image.200x200.jpg",
+      "price": "$42.25"
+    },
+    "2": {
+      "items": "2023 HODGDON ANNUAL MANUAL",
+      "image": "bmz_cache/c/css-l_430103668_1jpg.image.200x200.jpg",
+      "price": "$10.80"
+    },
+    "3": {
+      "items": "FIREARMS RECORD BOOK",
+      "image": "bmz_cache/c/css-l_108006000_1jpg.image.200x200.jpg",
+      "price": "$4.47"
+    }
+  },
+  "ESG": {},
+  "Gun Parts, Tools, & Accessories": {},
+  "Holsters": {},
+  "Hunting Blinds": {},
+  "Range Gear": {},
+  "Storage Boxes": {},
+  "Targets, Throwers & Accessories": {}
+}

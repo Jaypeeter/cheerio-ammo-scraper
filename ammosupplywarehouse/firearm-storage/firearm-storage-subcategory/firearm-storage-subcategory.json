@@ -1,0 +1,488 @@
+{
+  "Gun Cases": {
+    "1": {
+      "items": "3-Gun Tactical Pistol Handgun Case",
+      "image": "bmz_cache/c/css-l_250033346_2jpg.image.200x200.jpg",
+      "price": "$27.00"
+    },
+    "2": {
+      "items": "42\" Tactical Rifle Hard Case Black",
+      "image": "bmz_cache/c/css-l_250032723_1jpg.image.200x200.jpg",
+      "price": "$51.22"
+    },
+    "3": {
+      "items": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047407_1jpg.image.200x200.jpg",
+      "price": "$134.39"
+    },
+    "4": {
+      "items": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+      "image": "images/no_picture.gif",
+      "price": "$134.39"
+    },
+    "5": {
+      "items": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047409_1jpg.image.200x200.jpg",
+      "price": "$134.39"
+    },
+    "6": {
+      "items": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047410_1jpg.image.200x200.jpg",
+      "price": "$134.39"
+    },
+    "7": {
+      "items": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047414_1jpg.image.200x200.jpg",
+      "price": "$138.59"
+    },
+    "8": {
+      "items": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047411_1jpg.image.200x200.jpg",
+      "price": "$138.59"
+    },
+    "9": {
+      "items": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+      "image": "images/no_picture.gif",
+      "price": "$138.59"
+    },
+    "10": {
+      "items": "BDT ELITE DOUBLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047413_1jpg.image.200x200.jpg",
+      "price": "$138.59"
+    },
+    "11": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047415_1jpg.image.200x200.jpg",
+      "price": "$116.54"
+    },
+    "12": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047416_2jpg.image.200x200.jpg",
+      "price": "$116.54"
+    },
+    "13": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047417_1jpg.image.200x200.jpg",
+      "price": "$116.54"
+    },
+    "14": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047418_1jpg.image.200x200.jpg",
+      "price": "$116.54"
+    },
+    "15": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047421_1jpg.image.200x200.jpg",
+      "price": "$121.79"
+    },
+    "16": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047422_1jpg.image.200x200.jpg",
+      "price": "$121.79"
+    },
+    "17": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047423_1jpg.image.200x200.jpg",
+      "price": "$130.19"
+    },
+    "18": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047419_1jpg.image.200x200.jpg",
+      "price": "$121.79"
+    },
+    "19": {
+      "items": "BDT ELITE SINGLE TACTICAL RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047420_2jpg.image.200x200.jpg",
+      "price": "$121.79"
+    },
+    "20": {
+      "items": "BDT TACTICAL DISCREET RIFLE BAG",
+      "image": "bmz_cache/c/css-l_100047406_2jpg.image.200x200.jpg",
+      "price": "$88.19"
+    },
+    "21": {
+      "items": "BDT TACTICAL LONG-RANGE RIFLE CASE",
+      "image": "bmz_cache/c/css-l_100047404_1jpg.image.200x200.jpg",
+      "price": "$117.59"
+    },
+    "22": {
+      "items": "BDT TACTICAL LONG-RANGE RIFLE CASE",
+      "image": "bmz_cache/c/css-l_100047405_1jpg.image.200x200.jpg",
+      "price": "$117.59"
+    },
+    "23": {
+      "items": "Bulldog Deluxe Rifle Case Black 48\"",
+      "image": "bmz_cache/c/css-l_250026543_1jpg.image.200x200.jpg",
+      "price": "$31.49"
+    },
+    "24": {
+      "items": "Bulldog Double Tactical Rifle Case Green 43 in",
+      "image": "bmz_cache/c/css-l_250026563_1jpg.image.200x200.jpg",
+      "price": "$138.59"
+    },
+    "25": {
+      "items": "Bulldog Extreme Case Black 35 in",
+      "image": "bmz_cache/c/css-l_250026554_1jpg.image.200x200.jpg",
+      "price": "$58.79"
+    },
+    "26": {
+      "items": "Bulldog Extreme Case Black 40 in",
+      "image": "bmz_cache/c/css-l_250026553_1jpg.image.200x200.jpg",
+      "price": "$58.79"
+    },
+    "27": {
+      "items": "BULLDOG PIT BULL RIFLE CASE 40\" BLACK",
+      "image": "bmz_cache/c/css-l_250026537_1jpg.image.200x200.jpg",
+      "price": "$22.04"
+    },
+    "28": {
+      "items": "BULLDOG PIT BULL RIFLE CASE 44\" BLACK",
+      "image": "bmz_cache/c/css-l_250026538_1jpg.image.200x200.jpg",
+      "price": "$22.04"
+    },
+    "29": {
+      "items": "BULLDOG PIT BULL RIFLE CASE 48\" BLACK",
+      "image": "bmz_cache/c/css-l_250026539_1jpg.image.200x200.jpg",
+      "price": "$22.04"
+    },
+    "30": {
+      "items": "Bulldog Pit Bull Rifle Case Green W/Tan Trim 52 in",
+      "image": "bmz_cache/c/css-l_250026541_1jpg.image.200x200.jpg",
+      "price": "$22.04"
+    },
+    "31": {
+      "items": "Bulldog Pit Bull Shotgun Case 52 in Black",
+      "image": "bmz_cache/c/css-l_250026540_1jpg.image.200x200.jpg",
+      "price": "$22.04"
+    },
+    "32": {
+      "items": "Bulldog Pit Bull Shotgun Case Green W/Tan Trim 52 in",
+      "image": "bmz_cache/c/css-l_250026542_1jpg.image.200x200.jpg",
+      "price": "$22.04"
+    }
+  },
+  "Safe Accessories": {
+    "1": {
+      "items": "AMMO CABINET",
+      "image": "bmz_cache/c/css-l_430102176_1jpg.image.200x200.jpg",
+      "price": "$577.86"
+    },
+    "2": {
+      "items": "AMMO TIN SIGN",
+      "image": "bmz_cache/c/css-l_250008913_1jpg.image.200x200.jpg",
+      "price": "$21.49"
+    },
+    "3": {
+      "items": "AUTOMATIC DEHUMIDIFIER",
+      "image": "bmz_cache/c/css-l_100041936_2jpg.image.200x200.jpg",
+      "price": "$89.80"
+    },
+    "4": {
+      "items": "CABLE GUN LOCK",
+      "image": "bmz_cache/c/css-l_100041949_2jpg.image.200x200.jpg",
+      "price": "$2.63"
+    },
+    "5": {
+      "items": "COMBINATION TRIGGER LOCK",
+      "image": "bmz_cache/c/css-l_100041946_2jpg.image.200x200.jpg",
+      "price": "$12.29"
+    },
+    "6": {
+      "items": "COMPACT AUTOMATIC DEHUMIDIFIER",
+      "image": "bmz_cache/c/css-l_100041937_2jpg.image.200x200.jpg",
+      "price": "$66.80"
+    },
+    "7": {
+      "items": "DEHUMIDIFIER BAGS",
+      "image": "bmz_cache/c/css-l_100045237_1jpg.image.200x200.jpg",
+      "price": "$9.30"
+    },
+    "8": {
+      "items": "DEHUMIDIFIER CANISTER",
+      "image": "bmz_cache/c/css-l_100045236_1jpg.image.200x200.jpg",
+      "price": "$31.04"
+    },
+    "9": {
+      "items": "DEHUMIDIFIER CANISTER",
+      "image": "bmz_cache/c/css-l_749018536_2jpg.image.200x200.jpg",
+      "price": "$19.77"
+    },
+    "10": {
+      "items": "DEHUMIDIFIER CANISTER",
+      "image": "bmz_cache/c/css-l_749018536_2jpg.image.200x200.jpg",
+      "price": "$19.77"
+    },
+    "11": {
+      "items": "DIGITAL HYGROMETER",
+      "image": "bmz_cache/c/css-l_100041934_2jpg.image.200x200.jpg",
+      "price": "$17.81"
+    },
+    "12": {
+      "items": "DIGITAL HYGROMETER",
+      "image": "bmz_cache/c/css-l_749018538_2jpg.image.200x200.jpg",
+      "price": "$17.35"
+    },
+    "13": {
+      "items": "ELECTRONIC GUN SAFE DEHUMIDIFIER ROD",
+      "image": "bmz_cache/c/css-l_749018537_2jpg.image.200x200.jpg",
+      "price": "$15.74"
+    },
+    "14": {
+      "items": "ELECTRONIC GUN SAFE DEHUMIDIFIER ROD",
+      "image": "bmz_cache/c/css-l_749018537_2jpg.image.200x200.jpg",
+      "price": "$15.74"
+    },
+    "15": {
+      "items": "FOAM MAGNET GUN REST",
+      "image": "bmz_cache/c/css-l_430100876_1jpg.image.200x200.jpg",
+      "price": "$10.44"
+    },
+    "16": {
+      "items": "GOLDENROD DEHUMIDIFIER",
+      "image": "bmz_cache/c/css-l_111000003_1jpg.image.200x200.jpg",
+      "price": "$35.41"
+    },
+    "17": {
+      "items": "GOLDENROD DEHUMIDIFIER",
+      "image": "bmz_cache/c/css-l_111000004_1jpg.image.200x200.jpg",
+      "price": "$44.49"
+    },
+    "18": {
+      "items": "GUNSAVER DEHUMIDIFIER ROD",
+      "image": "bmz_cache/c/css-l_111000002_1jpg.image.200x200.jpg",
+      "price": "$23.56"
+    },
+    "19": {
+      "items": "HANDGUN HANGERS",
+      "image": "bmz_cache/c/css-l_100026315_1jpg.image.200x200.jpg",
+      "price": "$12.18"
+    },
+    "20": {
+      "items": "KEYED TRIGGER LOCK",
+      "image": "bmz_cache/c/css-l_100041944_2jpg.image.200x200.jpg",
+      "price": "$8.15"
+    },
+    "21": {
+      "items": "KEYED TRIGGER LOCK",
+      "image": "bmz_cache/c/css-l_100041945_2jpg.image.200x200.jpg",
+      "price": "$20.57"
+    },
+    "22": {
+      "items": "LARGE CYLINDER DEHUMIDIFIER",
+      "image": "bmz_cache/c/css-l_100026331_1jpg.image.200x200.jpg",
+      "price": "$18.39"
+    },
+    "23": {
+      "items": "LED SAFE LIGHTS",
+      "image": "bmz_cache/c/css-l_100026325_1jpg.image.200x200.jpg",
+      "price": "$19.65"
+    },
+    "24": {
+      "items": "LOCK-N-LOAD LIGHT STRIP",
+      "image": "bmz_cache/c/css-l_749019500_1jpg.image.200x200.jpg",
+      "price": "$19.91"
+    },
+    "25": {
+      "items": "Lockdown Cordless 75 LED Vault Light",
+      "image": "bmz_cache/c/css-l_250056879_2jpg.image.200x200.jpg",
+      "price": "$15.74"
+    },
+    "26": {
+      "items": "MAGNETIC HOLDERS",
+      "image": "images/no_picture.gif",
+      "price": "$23.56"
+    },
+    "27": {
+      "items": "MAGNETIC HOLDERS",
+      "image": "bmz_cache/c/css-l_100045235_1jpg.image.200x200.jpg",
+      "price": "$13.67"
+    },
+    "28": {
+      "items": "MAGNETIC HOOKS",
+      "image": "bmz_cache/c/css-l_100045248_1jpg.image.200x200.jpg",
+      "price": "$12.06"
+    },
+    "29": {
+      "items": "MAGNETIC SAFE HOOKS",
+      "image": "bmz_cache/c/css-l_749018532_2jpg.image.200x200.jpg",
+      "price": "$28.39"
+    },
+    "30": {
+      "items": "MAGNUM HANGING BASKET",
+      "image": "bmz_cache/c/css-l_749018534_2jpg.image.200x200.jpg",
+      "price": "$17.81"
+    },
+    "31": {
+      "items": "MAGNUM MAGNET",
+      "image": "bmz_cache/c/css-l_100041947_1jpg.image.200x200.jpg",
+      "price": "$24.25"
+    },
+    "32": {
+      "items": "MEDIUM RECHARGEABLE DEHUMIDIFIER 110 VOLT",
+      "image": "bmz_cache/c/css-l_100026329_1jpg.image.200x200.jpg",
+      "price": "$16.55"
+    }
+  },
+  "Safes": {
+    "1": {
+      "items": "2 KEYED ALIKE LOCK BOXES",
+      "image": "bmz_cache/c/css-l_100026303_2jpg.image.200x200.jpg",
+      "price": "$49.67"
+    },
+    "2": {
+      "items": "2 KEYED ALIKE LOCK BOXES",
+      "image": "bmz_cache/c/css-l_100026305_2jpg.image.200x200.jpg",
+      "price": "$67.38"
+    },
+    "3": {
+      "items": "2-GUN KEYPAD VAULT",
+      "image": "bmz_cache/c/css-l_100026336_2jpg.image.200x200.jpg",
+      "price": "$107.40"
+    },
+    "4": {
+      "items": "2-GUN KEYPAD VAULT",
+      "image": "bmz_cache/c/css-l_749018524_2jpg.image.200x200.jpg",
+      "price": "$117.86"
+    },
+    "5": {
+      "items": "32X80 VAULT ROOM DOOR",
+      "image": "bmz_cache/c/css-l_100026335_1jpg.image.200x200.jpg",
+      "price": "$1,949.18"
+    },
+    "6": {
+      "items": "ALPHA ELITE LOCK BOX",
+      "image": "bmz_cache/c/css-l_749018526_2jpg.image.200x200.jpg",
+      "price": "$40.47"
+    },
+    "7": {
+      "items": "ALPHA ELITE LOCK BOX",
+      "image": "bmz_cache/c/css-l_749018526_2jpg.image.200x200.jpg",
+      "price": "$40.47"
+    },
+    "8": {
+      "items": "COMBINATION HANDGUN VAULT",
+      "image": "images/no_picture.gif",
+      "price": "$26.90"
+    },
+    "9": {
+      "items": "COMBINATION HANDGUN VAULT",
+      "image": "bmz_cache/c/css-l_100043647_3jpg.image.200x200.jpg",
+      "price": "$31.38"
+    },
+    "10": {
+      "items": "COMBINATION LOCK BOXES",
+      "image": "bmz_cache/c/css-l_100026307_1jpg.image.200x200.jpg",
+      "price": "$28.39"
+    },
+    "11": {
+      "items": "COMBINATION LOCK BOXES",
+      "image": "bmz_cache/c/css-l_100026308_1jpg.image.200x200.jpg",
+      "price": "$38.17"
+    },
+    "12": {
+      "items": "DROPBOX KEYPAD VAULT",
+      "image": "bmz_cache/c/css-l_100026337_1jpg.image.200x200.jpg",
+      "price": "$145.92"
+    },
+    "13": {
+      "items": "DUAL-LID LOCK BOX",
+      "image": "bmz_cache/c/css-l_430104320_1jpg.image.200x200.jpg",
+      "price": "$45.61"
+    },
+    "14": {
+      "items": "IN PLAIN SIGHT FIREARM CONCEALMENT SHELF",
+      "image": "bmz_cache/c/css-l_100041951_2jpg.image.200x200.jpg",
+      "price": "$82.21"
+    },
+    "15": {
+      "items": "IN PLAIN SIGHT FIREARM CONCEALMENT SHELF",
+      "image": "bmz_cache/c/css-l_100041952_2jpg.image.200x200.jpg",
+      "price": "$98.66"
+    },
+    "16": {
+      "items": "KEYED LOCK BOXES",
+      "image": "bmz_cache/c/css-l_100026300_1jpg.image.200x200.jpg",
+      "price": "$23.22"
+    },
+    "17": {
+      "items": "KEYED LOCK BOXES",
+      "image": "images/no_picture.gif",
+      "price": "$22.99"
+    },
+    "18": {
+      "items": "KEYED LOCK BOXES",
+      "image": "images/no_picture.gif",
+      "price": "$26.09"
+    },
+    "19": {
+      "items": "KEYPAD SAFE XL",
+      "image": "bmz_cache/c/css-l_749019496_1jpg.image.200x200.jpg",
+      "price": "$113.49"
+    },
+    "20": {
+      "items": "KEYPAD VAULT",
+      "image": "bmz_cache/c/css-l_749018525_2jpg.image.200x200.jpg",
+      "price": "$94.40"
+    },
+    "21": {
+      "items": "LOCK BOX",
+      "image": "bmz_cache/c/css-l_749018527_2jpg.image.200x200.jpg",
+      "price": "$25.29"
+    },
+    "22": {
+      "items": "LOCK BOX",
+      "image": "bmz_cache/c/css-l_749018528_2jpg.image.200x200.jpg",
+      "price": "$27.01"
+    },
+    "23": {
+      "items": "ONE-GUN KEYPAD VAULT",
+      "image": "bmz_cache/c/css-l_100045232_2jpg.image.200x200.jpg",
+      "price": "$104.52"
+    },
+    "24": {
+      "items": "ONE-GUN KEYPAD VAULT",
+      "image": "bmz_cache/c/css-l_100045245_1jpg.image.200x200.jpg",
+      "price": "$91.76"
+    },
+    "25": {
+      "items": "Personal safe w/key lock & security cable - Blk",
+      "image": "bmz_cache/c/css-l_250031925_1jpg.image.200x200.jpg",
+      "price": "$29.39"
+    },
+    "26": {
+      "items": "Personal safe w/steel combination lock & security cable - Blk",
+      "image": "bmz_cache/c/css-l_250031926_1jpg.image.200x200.jpg",
+      "price": "$31.49"
+    },
+    "27": {
+      "items": "PREMIUM VAULT DOORS",
+      "image": "images/no_picture.gif",
+      "price": "$2,261.87"
+    },
+    "28": {
+      "items": "PREMIUM VAULT DOORS",
+      "image": "images/no_picture.gif",
+      "price": "$2,261.87"
+    },
+    "29": {
+      "items": "RAPID SAFE 2700KP RFID-ENABLED",
+      "image": "bmz_cache/c/css-l_100031810_2jpg.image.200x200.jpg",
+      "price": "$200.89"
+    },
+    "30": {
+      "items": "RAPID SAFE 4800KP",
+      "image": "bmz_cache/c/css-l_749019041_2jpg.image.200x200.jpg",
+      "price": "$223.66"
+    },
+    "31": {
+      "items": "RAPID SAFE AR GUNLOCKER",
+      "image": "bmz_cache/c/css-l_100045231_2jpg.image.200x200.jpg",
+      "price": "$432.85"
+    },
+    "32": {
+      "items": "RAPID SAFE AR GUNLOCKER",
+      "image": "bmz_cache/c/css-l_100045231_2jpg.image.200x200.jpg",
+      "price": "$432.85"
+    }
+  }
+}

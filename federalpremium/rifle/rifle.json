@@ -1,0 +1,156 @@
+{
+  "1": {
+    "item": "Federal Champion Training Rifle 5.56x45mm",
+    "price": "\n$18.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-556A.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".222",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Terminal Ascent 300 Win Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/terminal-ascent/11-P300WTA1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".608",
+      "Ballistic Coefficient G7:": ".304",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "3": {
+    "item": "Terminal Ascent 6.5 Creedmoor",
+    "price": "\n$70.99\n",
+    "link": "/rifle/terminal-ascent/11-P65CRDTA1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".532",
+      "Ballistic Coefficient G7:": ".263",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "Terminal Ascent 6.5 PRC",
+    "price": "\n$82.99\n",
+    "link": "/rifle/terminal-ascent/11-P65PRCTA1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".532",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "American Eagle Rifle 308 Win",
+    "price": "\n$37.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE308D.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".408",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Terminal Ascent 30-06 Springfield",
+    "price": "\n$59.99\n",
+    "link": "/rifle/terminal-ascent/11-P3006TA1.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".520",
+      "Ballistic Coefficient G7:": ".258",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Barnes TSX 300 Win Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P300WP.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".453",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "8": {
+    "item": "Gold Medal Berger 300 Win Magnum",
+    "price": "\n$82.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM300WMBH1.html",
+    "specs": {
+      "Grain Weight:": "215",
+      "Muzzle Velocity:": "2850",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".691",
+      "Ballistic Coefficient G7:": ".354",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "Barnes TSX 308 Win",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P308V.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".369",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Varmint & Predator 22-250 Rem",
+    "price": "\n$35.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V22250VM2.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Muzzle Velocity:": "3670",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".255",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "11": {
+    "item": "Gold Medal Berger 6.5 Creedmoor",
+    "price": "\n$53.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM65CRDBH130.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "2875",
+      "Bullet Style:": "Berger AR Hybrid OTM",
+      "Ballistic Coefficient:": ".560",
+      "Ballistic Coefficient G7:": ".287",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "12": {
+    "item": "Gold Medal Berger 6.5 Creedmoor",
+    "price": "\n$51.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM65CRDBH2.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "2725",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".607",
+      "Ballistic Coefficient G7:": ".311",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

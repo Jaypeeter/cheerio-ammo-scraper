@@ -1,0 +1,146 @@
+{
+  "1": {
+    "item": "Safari Swift A-Frame 416 Rem Magnum",
+    "price": "\n$185.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P416RSA.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".367",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "2": {
+    "item": "Safari Swift A-Frame 500 Nitro Express",
+    "price": "\n$325.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P500NSA.html",
+    "specs": {
+      "Grain Weight:": "570",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".306",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "3": {
+    "item": "Safari Trophy Bonded Sledgehammer Solid 416 Rem Magnum",
+    "price": "\n$200.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-sledgehammer-solid/11-P416RT2.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Trophy Bonded Sledgehammer Solid",
+      "Ballistic Coefficient:": ".273",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "4": {
+    "item": "Safari Woodleigh Hydro Solid 9.3x74R",
+    "price": "\n$195.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P9374WH.html",
+    "specs": {
+      "Grain Weight:": "286",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "5": {
+    "item": "Safari Swift A-Frame 458 Win Magnum",
+    "price": "\n$198.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P458SA.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".361",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "6": {
+    "item": "Safari Barnes Triple-Shock X Bullet 500 Nitro Express",
+    "price": "\n$304.99\n",
+    "link": "/rifle/premium-safari/safari-barnes-triple-shock-x-bullet/11-P500NC.html",
+    "specs": {
+      "Grain Weight:": "570",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".369",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "7": {
+    "item": "Safari Swift A-Frame 416 Rigby",
+    "price": "\n$309.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P416SA.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".367",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "8": {
+    "item": "Safari Woodleigh Hydro Solid 500 Nitro Express",
+    "price": "\n$353.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P500NWH.html",
+    "specs": {
+      "Grain Weight:": "570",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "9": {
+    "item": "Safari Woodleigh Hydro Solid 458 Lott",
+    "price": "\n$277.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P458LWH.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "10": {
+    "item": "Safari Trophy Bonded Bear Claw 458 Lott",
+    "price": "\n$231.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-bear-claw/11-P458LT1.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Trophy Bonded Bear Claw",
+      "Ballistic Coefficient:": ".282",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "11": {
+    "item": "Safari Woodleigh Hydro Solid 370 Sako Magnum",
+    "price": "\n$167.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P370WH.html",
+    "specs": {
+      "Grain Weight:": "286",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "12": {
+    "item": "Safari Woodleigh Hydro Solid 9.3x62mm Mauser",
+    "price": "\n$167.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P9362WH.html",
+    "specs": {
+      "Grain Weight:": "286",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  }
+}

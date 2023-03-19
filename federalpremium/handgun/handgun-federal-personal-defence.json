@@ -1,0 +1,122 @@
+{
+  "1": {
+    "item": "Personal Defense Punch 9mm Luger",
+    "price": "\n$22.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-punch/11-PD9P1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "2": {
+    "item": "Personal Defense Punch 380 Auto",
+    "price": "\n$22.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-punch/11-PD380P1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "3": {
+    "item": "Personal Defense Punch 38 Special +P",
+    "price": "\n$27.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-punch/11-PD38P1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "4": {
+    "item": "Personal Defense Punch 45 Auto",
+    "price": "\n$30.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-punch/11-PD45P1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "5": {
+    "item": "Personal Defense Punch 40 S&W",
+    "price": "\n$28.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-punch/11-PD40P1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "6": {
+    "item": "Personal Defense Punch 44 S&W Spl",
+    "price": "\n$37.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-punch/11-PD44SP1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "7": {
+    "item": "Personal Defense Revolver 357 Magnum",
+    "price": "\n$38.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-revolver/11-C357E.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "8": {
+    "item": "Personal Defense Revolver 32 H&R Magnum",
+    "price": "\n$33.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-revolver/11-C32HRB.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "9": {
+    "item": "Personal Defense Revolver 357 Magnum",
+    "price": "\n$38.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-revolver/11-C357B.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  },
+  "10": {
+    "item": "Personal Defense Punch 10mm Auto",
+    "price": "\n$35.99\n",
+    "link": "/handgun/federal-personal-defense/personal-defense-punch/11-PD10P1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "1100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Package Quantity:": "20",
+      "Usage:": "Self-Defense"
+    }
+  }
+}

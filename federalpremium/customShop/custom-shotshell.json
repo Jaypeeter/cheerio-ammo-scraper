@@ -1,0 +1,83 @@
+{
+  "1": {
+    "item": "Custom Shotshell Rob Roberts 20 Gauge",
+    "price": "\n$96.99\n\n$119.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCST203RR.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  },
+  "2": {
+    "item": "Custom Shotshell TSS 10 Gauge",
+    "price": "\n$153.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCST1035.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  },
+  "3": {
+    "item": "Custom Shotshell TSS 16 Gauge",
+    "price": "\n$104.99\n\n$109.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCST16275.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  },
+  "4": {
+    "item": "Custom Shotshell Rob Roberts 12 Gauge",
+    "price": "\n$139.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCST123RR.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  },
+  "5": {
+    "item": "Custom Shotshell TSS 28 Gauge",
+    "price": "\n$93.99\n\n$96.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCST28275.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  },
+  "6": {
+    "item": "Custom Shotshell TSS 20 Gauge",
+    "price": "\n$96.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCST203.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  },
+  "7": {
+    "item": "Custom Shotshell Rob Roberts 28 Gauge",
+    "price": "\n$93.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCSWU28275RR.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  },
+  "8": {
+    "item": "Custom Shotshell TSS 410 Gauge",
+    "price": "\n$96.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCSWU4103.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  },
+  "9": {
+    "item": "Custom Shotshell TSS 12 Gauge",
+    "price": "\n$100.99\n\n$116.99\n",
+    "link": "/custom-shop/custom-shotshell/11-FCST12275.html",
+    "specs": {
+      "Type:": "Tungsten",
+      "Package Quantity:": "10"
+    }
+  }
+}

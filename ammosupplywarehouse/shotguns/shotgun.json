@@ -1,0 +1,42 @@
+{
+  "1": {
+    "magazines": "410 GAUGE",
+    "image": "images/410.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_95"
+  },
+  "2": {
+    "magazines": "10 GAUGE",
+    "image": "images/10b.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_278"
+  },
+  "3": {
+    "magazines": "12 GAUGE",
+    "image": "images/12.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_93"
+  },
+  "4": {
+    "magazines": "16 GAUGE",
+    "image": "images/shield 16 gauge.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_439"
+  },
+  "5": {
+    "magazines": "20 GAUGE",
+    "image": "images/20.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_94"
+  },
+  "6": {
+    "magazines": "28 GAUGE",
+    "image": "images/shield 28 gauge.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=3_440"
+  },
+  "7": {
+    "magazines": "FEDERAL TOP GUN #8 12 ga 1 oz. 2 3/4\" TGSH128 25 rnd/box",
+    "image": "bmz_cache/f/federal-top-gun-tgsh128-8-shotjpg.image.200x200.jpg",
+    "price": "$9.99"
+  },
+  "8": {
+    "magazines": "FEDERAL TOP GUN #8 12 ga 1 oz. 2 3/4\" TGSH128 250 rnd/case",
+    "image": "bmz_cache/f/federal-top-gun-tgsh128-8-shotjpg.image.200x200.jpg",
+    "price": "$94.99"
+  }
+}

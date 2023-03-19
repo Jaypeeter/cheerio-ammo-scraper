@@ -1,0 +1,134 @@
+{
+  "1": {
+    "item": "Solid Core 9mm Luger +P",
+    "price": "\n$38.99\n",
+    "link": "/handgun/premium-handgun-hunting/solid-core/11-P9SHC1.html",
+    "specs": {
+      "Grain Weight:": "147",
+      "Bullet Style:": "Solid",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Barnes Expander Handgun 357 Magnum",
+    "price": "\n$46.99\n",
+    "link": "/handgun/premium-handgun-hunting/barnes-expander-handgun/11-P357XB1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Barnes Expander",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Swift A-Frame 44 Rem Magnum",
+    "price": "\n$75.99\n",
+    "link": "/handgun/premium-handgun-hunting/swift-a-frame/11-P44SA.html",
+    "specs": {
+      "Grain Weight:": "280",
+      "Bullet Style:": "Swift A-Frame",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "Swift A-Frame 10mm Auto",
+    "price": "\n$65.99\n",
+    "link": "/handgun/premium-handgun-hunting/swift-a-frame/11-P10SA.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Bullet Style:": "Swift A-Frame",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Barnes Expander Handgun 44 Rem Magnum",
+    "price": "\n$62.99\n",
+    "link": "/handgun/premium-handgun-hunting/barnes-expander-handgun/11-P44XB1.html",
+    "specs": {
+      "Grain Weight:": "225",
+      "Bullet Style:": "Barnes Expander",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "6": {
+    "item": "Barnes Expander Handgun 454 Casull",
+    "price": "\n$71.99\n",
+    "link": "/handgun/premium-handgun-hunting/barnes-expander-handgun/11-P454XB1.html",
+    "specs": {
+      "Grain Weight:": "250",
+      "Bullet Style:": "Barnes Expander",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Swift A-Frame 357 Magnum",
+    "price": "\n$63.99\n",
+    "link": "/handgun/premium-handgun-hunting/swift-a-frame/11-P357SA.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Swift A-Frame",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Barnes Expander Handgun 500 S&W",
+    "price": "\n$95.99\n",
+    "link": "/handgun/premium-handgun-hunting/barnes-expander-handgun/11-P500XB1.html",
+    "specs": {
+      "Grain Weight:": "275",
+      "Bullet Style:": "Barnes Expander",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Swift A-Frame 460 S&W",
+    "price": "\n$100.99\n",
+    "link": "/handgun/premium-handgun-hunting/swift-a-frame/11-P460SA.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Bullet Style:": "Swift A-Frame",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Barnes Expander Handgun 460 S&W",
+    "price": "\n$96.99\n",
+    "link": "/handgun/premium-handgun-hunting/barnes-expander-handgun/11-P460XB1.html",
+    "specs": {
+      "Grain Weight:": "275",
+      "Bullet Style:": "Barnes Expander",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Swift A-Frame 454 Casull",
+    "price": "\n$77.99\n",
+    "link": "/handgun/premium-handgun-hunting/swift-a-frame/11-P454SA.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Bullet Style:": "Swift A-Frame",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Solid Core 40 S&W",
+    "price": "\n$39.99\n",
+    "link": "/handgun/premium-handgun-hunting/solid-core/11-P40SHC1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Bullet Style:": "Solid",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

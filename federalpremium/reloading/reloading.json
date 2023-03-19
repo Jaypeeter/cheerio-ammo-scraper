@@ -1,0 +1,144 @@
+{
+  "1": {
+    "item": "Podium Wad 12 Gauge",
+    "price": "\n$18.99\n",
+    "link": "/reloading/wads/podium-wad/11-12P18.html",
+    "specs": {
+      "Package Quantity:": "500",
+      "Usage:": "Reloading"
+    }
+  },
+  "2": {
+    "item": "Trophy Bonded Bear Claw Component Bullet .375",
+    "price": "\n$167.99\n",
+    "link": "/reloading/bullets/trophy-bonded-bear-claw-component-bullet/11-PB375TBBC300.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Bullet Style:": "Trophy Bonded Bear Claw Component Bullet",
+      "Ballistic Coefficient:": ".342",
+      "Diameter In:": "0.375",
+      "Package Quantity:": "25",
+      "Usage:": "Reloading"
+    }
+  },
+  "3": {
+    "item": "Podium Wad 12 Gauge",
+    "price": "\n$18.99\n",
+    "link": "/reloading/wads/podium-wad/11-12P1.html",
+    "specs": {
+      "Package Quantity:": "500",
+      "Usage:": "Reloading"
+    }
+  },
+  "4": {
+    "item": "Trophy Bonded Bear Claw Component Bullet .416",
+    "price": "\n$123.99\n",
+    "link": "/reloading/bullets/trophy-bonded-bear-claw-component-bullet/11-PB416TBBC400.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Trophy Bonded Bear Claw Component Bullet",
+      "Ballistic Coefficient:": ".373",
+      "Diameter In:": "0.416",
+      "Package Quantity:": "25",
+      "Usage:": "Reloading"
+    }
+  },
+  "5": {
+    "item": "Fusion Component Bullet .277",
+    "price": "\n$53.99\n",
+    "link": "/reloading/bullets/fusion-component-bullet/11-FB277F2.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".367",
+      "Diameter In:": "0.277",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "6": {
+    "item": "Fusion Component Bullet .284",
+    "price": "\n$61.99\n",
+    "link": "/reloading/bullets/fusion-component-bullet/11-FB284F3.html",
+    "specs": {
+      "Grain Weight:": "160",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".455",
+      "Diameter In:": "0.284",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "7": {
+    "item": "Fusion Component Bullet .308",
+    "price": "\n$34.99\n",
+    "link": "/reloading/bullets/fusion-component-bullet/11-FB308F4.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".483",
+      "Diameter In:": "0.308",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  },
+  "8": {
+    "item": "Hydra-Shok Component Bullet .40/10mm",
+    "price": "\n$22.99\n",
+    "link": "/reloading/bullets/hydra-shok-component-bullet/11-PB40HS165.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Hydra-Shok",
+      "Ballistic Coefficient:": ".150",
+      "Diameter In:": "0.4",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  },
+  "9": {
+    "item": "Trophy Bonded Tip Component Bullet .284",
+    "price": "\n$51.99\n",
+    "link": "/reloading/bullets/trophy-bonded-tip-component-bullet/11-PB284TT160.html",
+    "specs": {
+      "Grain Weight:": "160",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".520",
+      "Diameter In:": "0.284",
+      "Package Quantity:": "50",
+      "Usage:": "Reloading"
+    }
+  },
+  "10": {
+    "item": "Champion Centerfire Primer .155",
+    "price": "\n$10.99\n",
+    "link": "/reloading/primers/champion-centerfire-primer/11-155.html",
+    "specs": {
+      "Type:": "Large Magnum Pistol",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "11": {
+    "item": "Gold Medal Centerfire Primer .205",
+    "price": "\n$12.99\n",
+    "link": "/reloading/primers/gold-medal-centerfire-primer/11-GM205M.html",
+    "specs": {
+      "Type:": "Small Rifle Match",
+      "Bullet Style:": "Small",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  },
+  "12": {
+    "item": "Gold Medal Centerfire Primer .150",
+    "price": "\n$12.99\n",
+    "link": "/reloading/primers/gold-medal-centerfire-primer/11-GM150M.html",
+    "specs": {
+      "Type:": "Large Pistol Match",
+      "Bullet Style:": "Large",
+      "Package Quantity:": "100",
+      "Usage:": "Reloading"
+    }
+  }
+}

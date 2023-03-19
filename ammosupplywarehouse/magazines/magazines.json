@@ -1,0 +1,132 @@
+{
+  "1": {
+    "magazines": "1911",
+    "image": "images/shield 1911.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_96"
+  },
+  "2": {
+    "magazines": "GLOCK",
+    "image": "images/shield GLOCK.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_101"
+  },
+  "3": {
+    "magazines": "ROCK ISLAND TCM",
+    "image": "images/shield TCM.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_103"
+  },
+  "4": {
+    "magazines": "SMITH & WESSON",
+    "image": "images/SMITH & WESSON.jpg",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_467"
+  },
+  "5": {
+    "magazines": "SIG SAUER",
+    "image": "images/SIG copy.jpg",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_505"
+  },
+  "6": {
+    "magazines": "SPRINGFIELD",
+    "image": "images/shield XD.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_104"
+  },
+  "7": {
+    "magazines": "FN",
+    "image": "images/FN SHIELD.jpg",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_506"
+  },
+  "8": {
+    "magazines": "AR-15",
+    "image": "images/shield ar15.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_100"
+  },
+  "9": {
+    "magazines": "AR-10",
+    "image": "images/shield ar10.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_99"
+  },
+  "10": {
+    "magazines": "AK-47",
+    "image": "images/shield AK47.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_97"
+  },
+  "11": {
+    "magazines": "AK-74",
+    "image": "images/shield AK74.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_98"
+  },
+  "12": {
+    "magazines": "NATO AK",
+    "image": "images/NATO AK CALIBER SHIELD.jpg",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_480"
+  },
+  "13": {
+    "magazines": "OTHER",
+    "image": "images/shield OTHER MAGS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_102"
+  },
+  "14": {
+    "magazines": "Handgun Magazines",
+    "image": "images/HG MAGS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_165"
+  },
+  "15": {
+    "magazines": "Rifle Magazines",
+    "image": "images/RIFLE MAGS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_166"
+  },
+  "16": {
+    "magazines": "Shotgun Magazines & Tubes",
+    "image": "images/shield MAGS TUBES SG.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_163"
+  },
+  "17": {
+    "magazines": "Magazine Parts & Accessories",
+    "image": "images/shield MAG PARTS.png",
+    "url": "https://www.ammosupplywarehouse.com/index.php?main_page=index&cPath=9_202"
+  },
+  "18": {
+    "magazines": "SAVAGE A17 25-ROUND STEEL LIP MAGAZINE",
+    "image": "bmz_cache/c/css-l_120000061_1jpg.image.200x200.jpg",
+    "price": "$32.93"
+  },
+  "19": {
+    "magazines": "FNH FNX-45 Magazine 15rd, Blk",
+    "image": "bmz_cache/c/css-l_119000088_2jpg.image.200x200.jpg",
+    "price": "$58.05"
+  },
+  "20": {
+    "magazines": "FN FORTY NINE MAGAZINE - 9MM 10-ROUND",
+    "image": "bmz_cache/c/css-l_119000071_2jpg.image.200x200.jpg",
+    "price": "$40.50"
+  },
+  "21": {
+    "magazines": "FNH FNX-45 Magazine 15rd, Blk",
+    "image": "bmz_cache/c/css-l_119000088_2jpg.image.200x200.jpg",
+    "price": "$58.05"
+  },
+  "22": {
+    "magazines": "FN SCAR 17 20RD MAGAZINE 308 WINCHESTER",
+    "image": "bmz_cache/c/css-l_119-000-047_1jpg.image.200x200.jpg",
+    "price": "$59.40"
+  },
+  "23": {
+    "magazines": "FN SCAR 10RD MAGAZINE 308 WINCHESTER",
+    "image": "bmz_cache/c/css-l_119000091_2jpg.image.200x200.jpg",
+    "price": "$59.40"
+  },
+  "24": {
+    "magazines": "RUGER 10/22 25RD MAGAZINE 22LR",
+    "image": "bmz_cache/c/css-l_120000060_1jpg.image.200x200.jpg",
+    "price": "$27.39"
+  },
+  "25": {
+    "magazines": "FN SCAR 17 20RD MAGAZINE 308 WINCHESTER",
+    "image": "bmz_cache/c/css-l_119000048_1jpg.image.200x200.jpg",
+    "price": "$59.40"
+  },
+  "26": {
+    "magazines": "Rock Island 22 TCM 17 rd. Flat Base (5) PACK INCLUDES SHIPPING",
+    "image": "bmz_cache/t/tcm-mag-5-packjpg.image.200x200.JPG",
+    "price": "$169.99"
+  }
+}
