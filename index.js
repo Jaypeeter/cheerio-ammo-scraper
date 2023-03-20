@@ -2,7 +2,7 @@ const cheerio = require("cheerio");
 const axios = require("axios");
 const fs = require("fs");
 
-const url = `https://www.federalpremium.com/shotshell/`;
+const url = `https://www.federalpremium.com/rifle/`;
 
 // Gold Medal
 // HammerDown
@@ -75,7 +75,7 @@ getHTML().then((res) => {
     }
   });
 
-  fs.writeFile("shotshell.json", JSON.stringify(rifles, null, 2), (err) => {
+  fs.writeFile("rifle.json", JSON.stringify(rifles, null, 2), (err) => {
     if (err) throw err;
     console.log("file succesfully saved!");
   });

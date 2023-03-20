@@ -2,7 +2,7 @@ const fs = require("fs");
 const cheerio = require("cheerio");
 const axios = require("axios");
 
-fs.readFile("./ammunition.json", "utf8", async (err, jsonString) => {
+fs.readFile("./magazines.json", "utf8", async (err, jsonString) => {
   if (err) {
     console.log("File read failed:", err.message);
 
@@ -18,8 +18,6 @@ fs.readFile("./ammunition.json", "utf8", async (err, jsonString) => {
 
   for (let key of keys) {
     if (listOfData[key].hasOwnProperty("url")) {
-      //   console.log(listOfData[key].url);
-
       //Continue writing the code here based on the url
       const url = listOfData[key].url;
       console.log(url);
@@ -30,10 +28,9 @@ fs.readFile("./ammunition.json", "utf8", async (err, jsonString) => {
       }
 
       var res = await getHTML();
-      console.log(res);
+      // console.log(res);
 
       const $ = cheerio.load(res);
-      /*Handgun Ammo*/
       //Sub categories
       $(".product_list>li").each((i, guns) => {
         //   $("ul>.categoryListBoxContents").each((i, guns) => {
@@ -53,7 +50,7 @@ fs.readFile("./ammunition.json", "utf8", async (err, jsonString) => {
   }
 
   fs.writeFile(
-    `ammunition-subcategory.json`,
+    `magazines-subcategory.json`,
     JSON.stringify(everything, null, 2),
     (err) => {
       if (err) throw err;

@@ -1,1366 +1,44 @@
 {
   "Bluing Chemicals": {
     "1": {
-      "items": "ALUMINUM BLACK",
-      "image": "bmz_cache/c/css-l_167004170_1jpg.image.200x200.jpg",
-      "price": "$5.62"
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
     },
     "2": {
-      "items": "BC Perma Blue Paste Gun Clam-pack kit",
-      "image": "images/no_picture.gif",
-      "price": "$12.52"
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
     },
     "3": {
-      "items": "BRASS BLACK",
-      "image": "bmz_cache/c/css-l_167005200_1jpg.image.200x200.jpg",
-      "price": "$7.23"
-    },
-    "4": {
-      "items": "CLEANER-DEGREASER",
-      "image": "bmz_cache/c/css-l_167007110_1jpg.image.200x200.jpg",
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
       "price": "$3.90"
     },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
     "5": {
-      "items": "OXPHO-BLUE~",
-      "image": "bmz_cache/c/css-l_082-024-004_2jpg.image.200x200.jpg",
-      "price": "$10.99"
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
     },
     "6": {
-      "items": "OXPHO-BLUE~",
-      "image": "bmz_cache/c/css-l_082024032_1jpg.image.200x200.jpg",
-      "price": "$44.99"
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
     },
     "7": {
-      "items": "PERMA-BLUE",
-      "image": "bmz_cache/c/css-l_167001220_1jpg.image.200x200.jpg",
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
       "price": "$5.85"
     },
     "8": {
-      "items": "PLUM BROWN",
-      "image": "bmz_cache/c/css-l_167000002_1jpg.image.200x200.jpg",
-      "price": "$9.53"
-    },
-    "9": {
-      "items": "PLUM BROWN",
-      "image": "bmz_cache/c/css-l_167000027_1jpg.image.200x200.jpg",
-      "price": "$33.22"
-    },
-    "10": {
-      "items": "SUPER BLACK INSTANT TOUCH-UP PEN",
-      "image": "bmz_cache/c/css-l_167004190_1jpg.image.200x200.jpg",
-      "price": "$5.39"
-    },
-    "11": {
-      "items": "SUPER BLACK INSTANT TOUCH-UP PEN",
-      "image": "bmz_cache/c/css-l_167004190_1jpg.image.200x200.jpg",
-      "price": "$5.39"
-    },
-    "12": {
-      "items": "SUPER BLACK INSTANT TOUCH-UP PEN",
-      "image": "bmz_cache/c/css-l_167004180_1jpg.image.200x200.jpg",
-      "price": "$5.39"
-    },
-    "13": {
-      "items": "SUPER BLUE",
-      "image": "bmz_cache/c/css-l_167008200_1jpg.image.200x200.jpg",
-      "price": "$7.58"
-    },
-    "14": {
-      "items": "SUPER BLUE",
-      "image": "bmz_cache/c/css-l_167134320_1jpg.image.200x200.jpg",
-      "price": "$45.53"
-    }
-  },
-  "Bore Guides": {
-    "1": {
-      "items": "SINCLAIR O-RING ROD GUIDES FOR 25 TO 280 CAL",
-      "image": "bmz_cache/c/css-l_749002945_2jpg.image.200x200.jpg",
-      "price": "$18.04"
-    },
-    "2": {
-      "items": "SINCLAIR O-RING ROD GUIDES FOR 30 CAL TO 7MM ULTRA MAG",
-      "image": "bmz_cache/c/css-l_749002935_1jpg.image.200x200.jpg",
-      "price": "$17.24"
-    },
-    "3": {
-      "items": "SINCLAIR O-RING ROD GUIDES FOR 30 CALIBER TO 7MM BELTED MAG",
-      "image": "bmz_cache/c/css-l_749002944_2jpg.image.200x200.jpg",
-      "price": "$17.24"
-    },
-    "4": {
-      "items": "SPECIALTY CLEANING ROD GUIDES",
-      "image": "bmz_cache/c/css-l_749002979_2jpg.image.200x200.jpg",
-      "price": "$21.95"
-    },
-    "5": {
-      "items": "SPECIALTY CLEANING ROD GUIDES",
-      "image": "bmz_cache/c/css-l_749003068_1jpg.image.200x200.jpg",
-      "price": "$21.95"
-    }
-  },
-  "Boresnakes": {
-    "1": {
-      "items": "BORE BOSS HANDGUN KIT",
-      "image": "bmz_cache/c/css-l_100024980_1jpg.image.200x200.jpg",
-      "price": "$9.42"
-    },
-    "2": {
-      "items": "BORE BOSS HANDGUN KIT",
-      "image": "bmz_cache/c/css-l_100024981_1jpg.image.200x200.jpg",
-      "price": "$9.42"
-    },
-    "3": {
-      "items": "BORE BOSS HANDGUN KIT",
-      "image": "bmz_cache/c/css-l_100024982_1jpg.image.200x200.jpg",
-      "price": "$9.42"
-    },
-    "4": {
-      "items": "BORE BOSS RIFLE KIT",
-      "image": "bmz_cache/c/css-l_100024976_1jpg.image.200x200.jpg",
-      "price": "$9.42"
-    },
-    "5": {
-      "items": "BORE BOSS RIFLE KIT",
-      "image": "bmz_cache/c/css-l_100024977_1jpg.image.200x200.jpg",
-      "price": "$9.42"
-    },
-    "6": {
-      "items": "BORE BOSS RIFLE KIT",
-      "image": "bmz_cache/c/css-l_100024979_1jpg.image.200x200.jpg",
-      "price": "$9.42"
-    },
-    "7": {
-      "items": "BORE BOSS SHOTGUN KIT",
-      "image": "bmz_cache/c/css-l_100024983_1jpg.image.200x200.jpg",
-      "price": "$9.42"
-    },
-    "8": {
-      "items": "BORE WEEVIL 2.0",
-      "image": "bmz_cache/c/css-l_100048002_1jpg.image.200x200.jpg",
-      "price": "$10.34"
-    },
-    "9": {
-      "items": "GUN BOSS PRO HANDGUN CLEANING KIT",
-      "image": "bmz_cache/c/css-l_100024987_2jpg.image.200x200.jpg",
-      "price": "$23.45"
-    },
-    "10": {
-      "items": "GUN BOSS PRO PRECISION CLEANING TOOLS",
-      "image": "bmz_cache/c/css-l_100024988_2jpg.image.200x200.jpg",
-      "price": "$18.73"
-    },
-    "11": {
-      "items": "GUN BOSS PRO UNIVERSAL CLEANING KIT",
-      "image": "bmz_cache/c/css-l_100024989_2jpg.image.200x200.jpg",
-      "price": "$32.76"
-    },
-    "12": {
-      "items": "HANDGUN NOPE ROPE PULL THROUGH BORE CLEANING ROPES",
-      "image": "bmz_cache/c/css-l_100043654_1jpg.image.200x200.jpg",
-      "price": "$6.54"
-    },
-    "13": {
-      "items": "HANDGUN NOPE ROPE PULL THROUGH BORE CLEANING ROPES",
-      "image": "bmz_cache/c/css-l_100043655_1jpg.image.200x200.jpg",
-      "price": "$10.91"
-    },
-    "14": {
-      "items": "HANDGUN NOPE ROPE PULL THROUGH BORE CLEANING ROPES",
-      "image": "bmz_cache/c/css-l_100043656_1jpg.image.200x200.jpg",
-      "price": "$6.54"
-    },
-    "15": {
-      "items": "HANDGUN NOPE ROPE PULL THROUGH BORE CLEANING ROPES",
-      "image": "bmz_cache/c/css-l_100043657_1jpg.image.200x200.jpg",
-      "price": "$6.54"
-    },
-    "16": {
-      "items": "Hoppe's 1.2.3. Done. Cleaning Kit Pistol 9mm/38 Cal",
-      "image": "images/no_picture.gif",
-      "price": "$18.04"
-    },
-    "17": {
-      "items": "HOPPE'S 7MM, .270-.284 CALIBER RIFLE, VIPER",
-      "image": "images/no_picture.gif",
-      "price": "$14.86"
-    },
-    "18": {
-      "items": "HOPPE'S BORESNAKE 16 GAUGE SHOTGUN, CL",
-      "image": "bmz_cache/c/css-l_250010544_2jpg.image.200x200.jpg",
-      "price": "$9.99"
-    },
-    "19": {
-      "items": "KNOCKOUT 2-PASS GUN ROPE CLEANERS",
-      "image": "bmz_cache/c/css-l_100013199_1jpg.image.200x200.jpg",
-      "price": "$9.76"
-    },
-    "20": {
-      "items": "KNOCKOUT 2-PASS GUN ROPE CLEANERS",
-      "image": "bmz_cache/c/css-l_100013215_1jpg.image.200x200.jpg",
-      "price": "$9.76"
-    },
-    "21": {
-      "items": "KNOCKOUT 2-PASS GUN ROPE CLEANERS",
-      "image": "bmz_cache/c/css-l_100013222_1jpg.image.200x200.jpg",
-      "price": "$9.76"
-    },
-    "22": {
-      "items": "PISTOL BORE SNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028570_1jpg.image.200x200.jpg",
-      "price": "$8.61"
-    },
-    "23": {
-      "items": "PISTOL BORE SNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028572_5jpg.image.200x200.jpg",
-      "price": "$8.61"
-    },
-    "24": {
-      "items": "PISTOL BORE SNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028573_1jpg.image.200x200.jpg",
-      "price": "$8.61"
-    },
-    "25": {
-      "items": "PISTOL BORE SNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028574_1jpg.image.200x200.jpg",
-      "price": "$8.61"
-    },
-    "26": {
-      "items": "PISTOL VIPER BORESNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028554_1jpg.image.200x200.jpg",
-      "price": "$11.49"
-    },
-    "27": {
-      "items": "PISTOL VIPER BORESNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028555_1jpg.image.200x200.jpg",
-      "price": "$11.72"
-    },
-    "28": {
-      "items": "PISTOL VIPER BORESNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028556_1jpg.image.200x200.jpg",
-      "price": "$11.49"
-    },
-    "29": {
-      "items": "PISTOL VIPER BORESNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028558_1jpg.image.200x200.jpg",
-      "price": "$11.49"
-    },
-    "30": {
-      "items": "RIFLE BORESNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028576_1jpg.image.200x200.jpg",
-      "price": "$8.61"
-    },
-    "31": {
-      "items": "RIFLE BORESNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028577_1jpg.image.200x200.jpg",
-      "price": "$8.61"
-    },
-    "32": {
-      "items": "RIFLE BORESNAKE WITH DEN",
-      "image": "bmz_cache/c/css-l_100028578_1jpg.image.200x200.jpg",
-      "price": "$8.61"
-    }
-  },
-  "Brushes": {
-    "1": {
-      "items": ".17 CALIBER / .20 CALIBER PATCH HOLDER",
-      "image": "bmz_cache/c/css-l_250001335_1jpg.image.200x200.jpg",
-      "price": "$3.32"
-    },
-    "2": {
-      "items": ".22 CALIBER PISTOL BRUSH",
-      "image": "bmz_cache/c/css-l_250001360_1jpg.image.200x200.jpg",
-      "price": "$1.60"
-    },
-    "3": {
-      "items": ".30-.35 CALIBER MOP",
-      "image": "bmz_cache/c/css-l_250001490_1jpg.image.200x200.jpg",
-      "price": "$1.71"
-    },
-    "4": {
-      "items": ".38/.357 CALIBER PISTOL BRUSH",
-      "image": "bmz_cache/c/css-l_250001363_1jpg.image.200x200.jpg",
-      "price": "$1.60"
-    },
-    "5": {
-      "items": ".410 GAUGE SHOTGUN BRUSH",
-      "image": "images/no_picture.gif",
-      "price": "$2.06"
-    },
-    "6": {
-      "items": ".410 GAUGE. CHAMBER BRUSH",
-      "image": "bmz_cache/c/css-l_250001587_1jpg.image.200x200.jpg",
-      "price": "$11.43"
-    },
-    "7": {
-      "items": ".45 CALIBER PISTOL BRUSH",
-      "image": "bmz_cache/c/css-l_250001368_1jpg.image.200x200.jpg",
-      "price": "$1.60"
-    },
-    "8": {
-      "items": "10MM/.40 CALIBER PISTOL BRUSH",
-      "image": "bmz_cache/c/css-l_250001365_1jpg.image.200x200.jpg",
-      "price": "$1.60"
-    },
-    "9": {
-      "items": "16 GAUGE. CHAMBER BRUSH",
-      "image": "bmz_cache/c/css-l_250001584_1jpg.image.200x200.jpg",
-      "price": "$11.43"
-    },
-    "10": {
-      "items": "28 Ga. Chamber Brush",
-      "image": "images/no_picture.gif",
-      "price": "$11.43"
-    },
-    "11": {
-      "items": "44 Caliber Bronze Pistol Brush",
-      "image": "images/no_picture.gif",
-      "price": "$1.02"
-    },
-    "12": {
-      "items": "ANGLED CLEANING BRUSHES",
-      "image": "bmz_cache/c/css-l_167411080_1jpg.image.200x200.jpg",
-      "price": "$4.36"
-    },
-    "13": {
-      "items": "Bronze Bristle Cleaning Brush For .50-.54 Calibers",
-      "image": "bmz_cache/c/css-l_250001927_1jpg.image.200x200.jpg",
-      "price": "$5.74"
-    },
-    "14": {
-      "items": "BRUSH/SWAB SET",
-      "image": "bmz_cache/c/css-l_100047014_1jpg.image.200x200.jpg",
-      "price": "$3.21"
-    },
-    "15": {
-      "items": "CLEANING BRUSHES",
-      "image": "bmz_cache/c/css-l_100047010_1jpg.image.200x200.jpg",
-      "price": "$1.94"
-    },
-    "16": {
-      "items": "CLEANING BRUSHES",
-      "image": "bmz_cache/c/css-l_100047012_1jpg.image.200x200.jpg",
-      "price": "$1.94"
-    },
-    "17": {
-      "items": "CLEANING BRUSHES",
-      "image": "bmz_cache/c/css-l_100047013_1jpg.image.200x200.jpg",
-      "price": "$1.94"
-    },
-    "18": {
-      "items": "DUAL END NYLON CLEANING BRUSHES",
-      "image": "bmz_cache/c/css-l_100048003_1jpg.image.200x200.jpg",
-      "price": "$23.45"
-    },
-    "19": {
-      "items": "GUN BRUSH DOUBLE END - BRONZE",
-      "image": "bmz_cache/c/css-l_250001526_1jpg.image.200x200.jpg",
-      "price": "$2.86"
-    },
-    "20": {
-      "items": "GUN BRUSH DOUBLE END - NYLON",
-      "image": "bmz_cache/c/css-l_250001525_1jpg.image.200x200.jpg",
-      "price": "$2.63"
-    },
-    "21": {
-      "items": "Hoppe's .270/7mm PhosphorBronze Rifle Gun Cleaning Brush",
-      "image": "images/no_picture.gif",
-      "price": "$1.25"
-    },
-    "22": {
-      "items": "Hoppe's 16ga PhosphorBronze Shotgun Cleaning Brush",
-      "image": "images/no_picture.gif",
-      "price": "$1.60"
-    },
-    "23": {
-      "items": "Hoppe's 28ga PhosphorBronze Shotgun Cleaning Brush",
-      "image": "images/no_picture.gif",
-      "price": "$1.60"
-    },
-    "24": {
-      "items": "Hoppe's 6mm PH Bronze Brush",
-      "image": "images/no_picture.gif",
-      "price": "$1.25"
-    },
-    "25": {
-      "items": "Hoppe'S Rifle Chamber Brush, Ar, 5.56M",
-      "image": "images/no_picture.gif",
-      "price": "$2.86"
-    },
-    "26": {
-      "items": "HOPPE'S UTILITY BRUSH",
-      "image": "bmz_cache/c/css-l_699138000_1jpg.image.200x200.jpg",
-      "price": "$1.94"
-    },
-    "27": {
-      "items": "MILITARY STYLE AR10 .308 CHAMBER BRUSH",
-      "image": "bmz_cache/c/css-l_250001502_1jpg.image.200x200.jpg",
-      "price": "$4.36"
-    },
-    "28": {
-      "items": "PISTOL BRUSH",
-      "image": "bmz_cache/c/css-l_100046106_1jpg.image.200x200.jpg",
-      "price": "$1.37"
-    },
-    "29": {
-      "items": "PRE-SATURATED CLEANING PATCHES",
-      "image": "bmz_cache/c/css-l_100042150_2jpg.image.200x200.jpg",
-      "price": "$6.06"
-    },
-    "30": {
-      "items": "RIFLE & SHOTGUN BORE BRUSHES",
-      "image": "bmz_cache/c/css-l_699130012_1jpg.image.200x200.jpg",
-      "price": "$1.60"
-    },
-    "31": {
-      "items": "RIFLE & SHOTGUN BORE BRUSHES",
-      "image": "bmz_cache/c/css-l_699130012_1jpg.image.200x200.jpg",
-      "price": "$1.60"
-    },
-    "32": {
-      "items": "RIFLE & SHOTGUN BORE BRUSHES",
-      "image": "bmz_cache/c/css-l_699130022_1jpg.image.200x200.jpg",
-      "price": "$1.25"
-    }
-  },
-  "Cleaning Cloths": {
-    "1": {
-      "items": "B/C Silicone cloth",
-      "image": "bmz_cache/c/css-l_749000636_1jpg.image.200x200.jpg",
-      "price": "$3.55"
-    },
-    "2": {
-      "items": "METAL CARE CLOTH",
-      "image": "bmz_cache/c/css-l_250001613_1jpg.image.200x200.jpg",
-      "price": "$5.05"
-    },
-    "3": {
-      "items": "SILICONE CLEANING CLOTH",
-      "image": "bmz_cache/c/css-l_080000788_1jpg.image.200x200.jpg",
-      "price": "$11.99"
-    },
-    "4": {
-      "items": "SILICONE CLEANING CLOTH",
-      "image": "bmz_cache/c/css-l_080000821_2jpg.image.200x200.jpg",
-      "price": "$14.99"
-    },
-    "5": {
-      "items": "SILICONE CLOTH",
-      "image": "bmz_cache/c/css-l_250001612_1jpg.image.200x200.jpg",
-      "price": "$4.24"
-    }
-  },
-  "Cleaning Kits": {
-    "1": {
-      "items": ".30 CALIBER / 7.62MM/ AR10 TACTICAL BOX K",
-      "image": "bmz_cache/c/css-l_250001306_2jpg.image.200x200.jpg",
-      "price": "$44.95"
-    },
-    "2": {
-      "items": "AR-15 CLEANING KIT",
-      "image": "bmz_cache/c/css-l_100048004_1jpg.image.200x200.jpg",
-      "price": "$25.98"
-    },
-    "3": {
-      "items": "AR-15/308 AR LUG RECESS CLEANING TOOL",
-      "image": "bmz_cache/c/css-l_749003995_1jpg.image.200x200.jpg",
-      "price": "$23.68"
-    },
-    "4": {
-      "items": "BORESNAKE CLEANING KIT",
-      "image": "bmz_cache/c/css-l_699000034_1jpg.image.200x200.jpg",
-      "price": "$23.56"
-    },
-    "5": {
-      "items": "ESSENTIAL PISTOL CLEANING KIT 9MM, 40CAL, 45ACP",
-      "image": "bmz_cache/c/css-l_539000080_2jpg.image.200x200.jpg",
-      "price": "$19.55"
-    },
-    "6": {
-      "items": "FIELD CLEANING KIT",
-      "image": "bmz_cache/c/css-l_100047002_1jpg.image.200x200.jpg",
-      "price": "$34.95"
-    },
-    "7": {
-      "items": "HANDGUN CLEANING KIT",
-      "image": "bmz_cache/c/css-l_100048007_1jpg.image.200x200.jpg",
-      "price": "$22.07"
-    },
-    "8": {
-      "items": "HANDGUN, RIFLE & SHOTGUN CLEANING KITS",
-      "image": "bmz_cache/c/css-l_699002038_1jpg.image.200x200.jpg",
-      "price": "$12.18"
-    },
-    "9": {
-      "items": "HOPPE'S BLACK UNIVERSAL CLEANING KIT",
-      "image": "bmz_cache/c/css-l_100046096_1jpg.image.200x200.jpg",
-      "price": "$25.40"
-    },
-    "10": {
-      "items": "Hoppe's Kit Rifles & Shogun CL Kit Clamshell",
-      "image": "bmz_cache/c/css-l_250204462_2jpg.image.200x200.jpg",
-      "price": "$8.96"
-    },
-    "11": {
-      "items": "Hoppe's Pistol Cleaning Kit 22 Cal",
-      "image": "images/no_picture.gif",
-      "price": "$8.73"
-    },
-    "12": {
-      "items": "Hoppe's Pistol Cleaning Kit 38/357/9mm Clamshell",
-      "image": "bmz_cache/c/css-l_250010630_2jpg.image.200x200.jpg",
-      "price": "$8.15"
-    },
-    "13": {
-      "items": "Hoppe's Pistol Cleaning Kit 44/45 Clamshell",
-      "image": "images/no_picture.gif",
-      "price": "$9.19"
-    },
-    "14": {
-      "items": "Hoppe's Premium Cleaning Kit w/ Alum",
-      "image": "images/no_picture.gif",
-      "price": "$35.06"
-    },
-    "15": {
-      "items": "Hoppe's Rfile/Shotgun Cleaning Kit",
-      "image": "images/no_picture.gif",
-      "price": "$12.29"
-    },
-    "16": {
-      "items": "Hoppe's Rifle Cleaning Kit 22 Cal Clamshell",
-      "image": "images/no_picture.gif",
-      "price": "$8.73"
-    },
-    "17": {
-      "items": "Hoppe's Rifle Cleaning Kit 30-32 Cal, 8mm Clamshell",
-      "image": "images/no_picture.gif",
-      "price": "$8.96"
-    },
-    "18": {
-      "items": "Hoppe's Universal Pistol Cleaning Kit",
-      "image": "bmz_cache/c/css-l_250010632_2jpg.image.200x200.jpg",
-      "price": "$11.26"
-    },
-    "19": {
-      "items": "Hoppe's Universal Pistol Cleaning Kit Clamshell",
-      "image": "bmz_cache/c/css-l_250010633_2jpg.image.200x200.jpg",
-      "price": "$8.15"
-    },
-    "20": {
-      "items": "M&P COMPACT PISTOL CLEANING KIT",
-      "image": "bmz_cache/c/css-l_100042124_2jpg.image.200x200.jpg",
-      "price": "$22.64"
-    },
-    "21": {
-      "items": "PICK AND BRUSH SET",
-      "image": "bmz_cache/c/css-l_539000082_2jpg.image.200x200.jpg",
-      "price": "$3.67"
-    },
-    "22": {
-      "items": "PISTOL CLEANING KIT WITH ALUMINUM CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100046127_1jpg.image.200x200.jpg",
-      "price": "$8.96"
-    },
-    "23": {
-      "items": "PISTOL CLEANING KIT WITH ALUMINUM CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100046128_1jpg.image.200x200.jpg",
-      "price": "$8.96"
-    },
-    "24": {
-      "items": "PISTOL CLEANING KIT WITH ALUMINUM CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100046131_1jpg.image.200x200.jpg",
-      "price": "$12.78"
-    },
-    "25": {
-      "items": "PISTOL CLEANING KIT WITH BRASS CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100046119_1jpg.image.200x200.jpg",
-      "price": "$9.76"
-    },
-    "26": {
-      "items": "PISTOL CLEANING KIT WITH BRASS CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100046120_1jpg.image.200x200.jpg",
-      "price": "$9.76"
-    },
-    "27": {
-      "items": "PISTOL CLEANING KIT WITH BRASS CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100046121_1jpg.image.200x200.jpg",
-      "price": "$9.76"
-    },
-    "28": {
-      "items": "QRBP BREECH PLUG CLEAN OUT SYSTEM",
-      "image": "bmz_cache/c/css-l_100047022_1jpg.image.200x200.jpg",
-      "price": "$19.88"
-    },
-    "29": {
-      "items": "READY ROLL KIT BUCKET INSERT",
-      "image": "bmz_cache/c/css-l_100-046-099_1jpg.image.200x200.jpg",
-      "price": "$26.09"
-    },
-    "30": {
-      "items": "RIFLE CLEANING KIT",
-      "image": "bmz_cache/c/css-l_100048005_1jpg.image.200x200.jpg",
-      "price": "$25.98"
-    },
-    "31": {
-      "items": "RIFLE CLEANING KIT WITH ALUMINUM CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100046123_1jpg.image.200x200.jpg",
-      "price": "$10.91"
-    },
-    "32": {
-      "items": "RIFLE CLEANING KIT WITH ALUMINUM CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100046124_1jpg.image.200x200.jpg",
-      "price": "$10.91"
-    }
-  },
-  "Cleaning Mats": {
-    "1": {
-      "items": "AR-15 3D Cutaway Mat",
-      "image": "bmz_cache/c/css-l_250031140_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "2": {
-      "items": "LONG GUN MATS",
-      "image": "bmz_cache/c/css-l_100-015-989_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "3": {
-      "items": "LONG GUN MATS",
-      "image": "bmz_cache/c/css-l_100015986_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "4": {
-      "items": "LONG GUN MATS",
-      "image": "bmz_cache/c/css-l_100015988_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "5": {
-      "items": "LONG GUN MATS",
-      "image": "bmz_cache/c/css-l_100015990_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "6": {
-      "items": "LONG GUN MATS",
-      "image": "bmz_cache/c/css-l_100015991_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "7": {
-      "items": "LONG GUN MATS",
-      "image": "bmz_cache/c/css-l_100-015-994_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "8": {
-      "items": "LONG GUN MATS",
-      "image": "bmz_cache/c/css-l_100-015-995_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "9": {
-      "items": "LONG GUN MATS",
-      "image": "bmz_cache/c/css-l_100047172_1jpg.image.200x200.jpg",
-      "price": "$13.90"
-    },
-    "10": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100-015-997_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "11": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100-015-996_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "12": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100-015-999_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "13": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100016000_1jpg.image.200x200.jpg",
-      "price": "$8.15"
-    },
-    "14": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100016001_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "15": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100-016-002_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "16": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100-020-871_2gif.image.200x200.gif",
-      "price": "$7.69"
-    },
-    "17": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047173_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "18": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047174_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "19": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047175_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "20": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047176_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "21": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047177_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "22": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047178_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "23": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047179_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "24": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047180_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "25": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047181_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "26": {
-      "items": "PISTOL GUN MATS",
-      "image": "bmz_cache/c/css-l_100047182_1jpg.image.200x200.jpg",
-      "price": "$7.69"
-    },
-    "27": {
-      "items": "ULTRA 20 PISTOL CLEANING MAT",
-      "image": "bmz_cache/c/css-l_100038734_1jpg.image.200x200.jpg",
-      "price": "$10.22"
-    },
-    "28": {
-      "items": "ULTRA 20 PISTOL CLEANING MAT",
-      "image": "bmz_cache/c/css-l_100038735_1jpg.image.200x200.jpg",
-      "price": "$10.22"
-    },
-    "29": {
-      "items": "ULTRA 20 PISTOL CLEANING MAT",
-      "image": "bmz_cache/c/css-l_100038736_1jpg.image.200x200.jpg",
-      "price": "$10.22"
-    },
-    "30": {
-      "items": "ULTRA 20 PISTOL CLEANING MAT",
-      "image": "bmz_cache/c/css-l_100038738_1jpg.image.200x200.jpg",
-      "price": "$10.22"
-    },
-    "31": {
-      "items": "ULTRA 20 PISTOL CLEANING MAT",
-      "image": "bmz_cache/c/css-l_100047187_1jpg.image.200x200.jpg",
-      "price": "$10.22"
-    },
-    "32": {
-      "items": "ULTRA 20 PISTOL CLEANING MAT",
-      "image": "bmz_cache/c/css-l_100047188_1jpg.image.200x200.jpg",
-      "price": "$10.22"
-    }
-  },
-  "Cleaning Rod Accessories": {
-    "1": {
-      "items": "CLEANING JAGS",
-      "image": "bmz_cache/c/css-l_100047007_1jpg.image.200x200.jpg",
-      "price": "$3.55"
-    },
-    "2": {
-      "items": "CLEANING JAGS",
-      "image": "bmz_cache/c/css-l_100047008_1jpg.image.200x200.jpg",
-      "price": "$3.55"
-    },
-    "3": {
-      "items": "CLEANING JAGS",
-      "image": "bmz_cache/c/css-l_100047009_1jpg.image.200x200.jpg",
-      "price": "$3.55"
-    },
-    "4": {
-      "items": "CLEANING ROD JAGS",
-      "image": "bmz_cache/c/css-l_234800045_1jpg.image.200x200.jpg",
-      "price": "$2.52"
-    },
-    "5": {
-      "items": "CLEANING RODS",
-      "image": "bmz_cache/c/css-l_699353000_1jpg.image.200x200.jpg",
-      "price": "$4.70"
-    },
-    "6": {
-      "items": "CLEANING RODS",
-      "image": "bmz_cache/c/css-l_749004452_1jpg.image.200x200.jpg",
-      "price": "$24.71"
-    },
-    "7": {
-      "items": "COATED ROD ADAPTERS",
-      "image": "bmz_cache/c/css-l_234800117_2jpg.image.200x200.jpg",
-      "price": "$2.17"
-    },
-    "8": {
-      "items": "COATED ROD ADAPTERS",
-      "image": "bmz_cache/c/css-l_234800127_1jpg.image.200x200.jpg",
-      "price": "$1.94"
-    },
-    "9": {
-      "items": "COATED ROD ADAPTERS",
-      "image": "bmz_cache/c/css-l_234800223_2jpg.image.200x200.jpg",
-      "price": "$1.48"
-    },
-    "10": {
-      "items": "COATED ROD ADAPTERS",
-      "image": "bmz_cache/c/css-l_234800227_1jpg.image.200x200.jpg",
-      "price": "$1.48"
-    },
-    "11": {
-      "items": "GUN CLEANING PATCH CATCHER",
-      "image": "bmz_cache/c/css-l_100010864_2jpg.image.200x200.jpg",
-      "price": "$8.83"
-    },
-    "12": {
-      "items": "RAMROD ACCESSORY KIT",
-      "image": "bmz_cache/c/css-l_100042156_2jpg.image.200x200.jpg",
-      "price": "$10.14"
-    },
-    "13": {
-      "items": "SECURELOCK GUN VISE",
-      "image": "bmz_cache/c/css-l_100048020_1jpg.image.200x200.jpg",
-      "price": "$51.97"
-    },
-    "14": {
-      "items": "SHOTGUN JAG 16 GAUGE.",
-      "image": "bmz_cache/c/css-l_250001566_1jpg.image.200x200.jpg",
-      "price": "$2.66"
-    },
-    "15": {
-      "items": "SINGLE REPLACEMENT PELLET JAGS",
-      "image": "bmz_cache/c/css-l_100042084_1jpg.image.200x200.jpg",
-      "price": "$2.63"
-    },
-    "16": {
-      "items": "SINGLE REPLACEMENT PELLET JAGS",
-      "image": "bmz_cache/c/css-l_100042084_1jpg.image.200x200.jpg",
-      "price": "$2.63"
-    },
-    "17": {
-      "items": "SINGLE REPLACEMENT PELLET JAGS",
-      "image": "bmz_cache/c/css-l_100042085_1jpg.image.200x200.jpg",
-      "price": "$2.63"
-    },
-    "18": {
-      "items": "SINGLE REPLACEMENT PELLET JAGS",
-      "image": "bmz_cache/c/css-l_100042086_1jpg.image.200x200.jpg",
-      "price": "$2.63"
-    },
-    "19": {
-      "items": "SINGLE REPLACEMENT PELLET JAGS",
-      "image": "bmz_cache/c/css-l_100042087_1jpg.image.200x200.jpg",
-      "price": "$2.63"
-    },
-    "20": {
-      "items": "SINGLE REPLACEMENT PELLET JAGS",
-      "image": "bmz_cache/c/css-l_100042088_1jpg.image.200x200.jpg",
-      "price": "$2.63"
-    },
-    "21": {
-      "items": "SPEAR TIP .35 CALIBER JAG",
-      "image": "bmz_cache/c/css-l_250001383_1jpg.image.200x200.jpg",
-      "price": "$2.69"
-    },
-    "22": {
-      "items": "SPEAR TIP .416 CALIBER JAG",
-      "image": "bmz_cache/c/css-l_250001388_1jpg.image.200x200.jpg",
-      "price": "$2.67"
-    },
-    "23": {
-      "items": "Tipton Patch Catcher",
-      "image": "bmz_cache/c/css-l_250201160_1jpg.image.200x200.jpg",
-      "price": "$8.27"
-    }
-  },
-  "Cleaning Rods": {
-    "1": {
-      "items": "\"LOOP\" RIFLE & PISTOL ROD",
-      "image": "bmz_cache/c/css-l_234000009_2jpg.image.200x200.jpg",
-      "price": "$8.96"
-    },
-    "2": {
-      "items": "1-PIECE COATED RIFLE CLEANING RODS",
-      "image": "bmz_cache/c/css-l_100007975_2jpg.image.200x200.jpg",
-      "price": "$69.56"
-    },
-    "3": {
-      "items": "36   COATED RIFLE ROD .270 CALIBER & UP",
-      "image": "bmz_cache/c/css-l_250001444_1jpg.image.200x200.jpg",
-      "price": "$46.10"
-    },
-    "4": {
-      "items": "8   COATED PISTOL ROD .270 CALIBER & UP",
-      "image": "bmz_cache/c/css-l_250001440_1jpg.image.200x200.jpg",
-      "price": "$29.20"
-    },
-    "5": {
-      "items": "ADJUSTABLE ROD GUIDES",
-      "image": "bmz_cache/c/css-l_234012003_1jpg.image.200x200.jpg",
-      "price": "$14.02"
-    },
-    "6": {
-      "items": "BRASS RODS",
-      "image": "bmz_cache/c/css-l_234522036_1jpg.image.200x200.jpg",
-      "price": "$19.08"
-    },
-    "7": {
-      "items": "CLEANING RODS",
-      "image": "bmz_cache/c/css-l_699350022_2jpg.image.200x200.jpg",
-      "price": "$5.51"
-    },
-    "8": {
-      "items": "COATED RODS",
-      "image": "bmz_cache/c/css-l_234222012_2jpg.image.200x200.jpg",
-      "price": "$18.39"
-    },
-    "9": {
-      "items": "COATED STEEL CLEANING RODS",
-      "image": "bmz_cache/c/css-l_100046101_1jpg.image.200x200.jpg",
-      "price": "$12.52"
-    },
-    "10": {
-      "items": "COATED STEEL CLEANING RODS",
-      "image": "bmz_cache/c/css-l_100046102_1jpg.image.200x200.jpg",
-      "price": "$13.10"
-    },
-    "11": {
-      "items": "CVA 50 CALIBER MUZZLELOADER PALMSAVER RAMROD",
-      "image": "bmz_cache/c/css-l_100047032_1jpg.image.200x200.jpg",
-      "price": "$22.07"
-    },
-    "12": {
-      "items": "CVA 50 CALIBER MUZZLELOADER PALMSAVER RAMROD",
-      "image": "bmz_cache/c/css-l_100047032_1jpg.image.200x200.jpg",
-      "price": "$22.07"
-    },
-    "13": {
-      "items": "CVA 50 CALIBER MUZZLELOADER PALMSAVER RAMROD",
-      "image": "bmz_cache/c/css-l_100047036_1jpg.image.200x200.jpg",
-      "price": "$22.07"
-    },
-    "14": {
-      "items": "DELUXE CARBON FIBER CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100030455_1jpg.image.200x200.jpg",
-      "price": "$30.58"
-    },
-    "15": {
-      "items": "Hoppes Elite 1 Pc Carbon Fiber Cleaning Rod .22 Rifle 36In",
-      "image": "bmz_cache/c/css-l_250027269_1jpg.image.200x200.jpg",
-      "price": "$31.50"
-    },
-    "16": {
-      "items": "KNUCKLE SAVER BULLET STARTER",
-      "image": "bmz_cache/c/css-l_100047004_1jpg.image.200x200.jpg",
-      "price": "$18.16"
-    },
-    "17": {
-      "items": "ONE-PIECE SHOTGUN RODS",
-      "image": "bmz_cache/c/css-l_234300001_1jpg.image.200x200.jpg",
-      "price": "$20.46"
-    },
-    "18": {
-      "items": "SHOTGUN RIG \"BORE RUNNER\" 2-PC CLEANING ROD",
-      "image": "bmz_cache/c/css-l_100044540_1jpg.image.200x200.jpg",
-      "price": "$10.34"
-    }
-  },
-  "Cleaning Systems": {},
-  "Gun Vices": {
-    "1": {
-      "items": "GUN VISE",
-      "image": "bmz_cache/c/css-l_100012230_2jpg.image.200x200.jpg",
-      "price": "$44.61"
-    }
-  },
-  "Oils & Lubricants": {
-    "1": {
-      "items": "ALL-WEATHER~ HIGH-TECH GREASE",
-      "image": "bmz_cache/c/css-l_934010010_1jpg.image.200x200.jpg",
-      "price": "$5.74"
-    },
-    "2": {
-      "items": "Ballistol Wipes 10 Wipes/Box",
-      "image": "bmz_cache/c/css-l_250021697w_6_3jpg.image.200x200.jpg",
-      "price": "$5.39"
-    },
-    "3": {
-      "items": "BARRICADE",
-      "image": "bmz_cache/c/css-l_167-000-790_3jpg.image.200x200.jpg",
-      "price": "$10.80"
-    },
-    "4": {
-      "items": "BARRICADE",
-      "image": "bmz_cache/c/css-l_167016400_1jpg.image.200x200.jpg",
-      "price": "$6.54"
-    },
-    "5": {
-      "items": "BORE CLEANER",
-      "image": "bmz_cache/c/css-l_768240170_1jpg.image.200x200.jpg",
-      "price": "$7.99"
-    },
-    "6": {
-      "items": "BREAK-FREE CLP",
-      "image": "bmz_cache/c/css-l_102100003_1jpg.image.200x200.jpg",
-      "price": "$10.26"
-    },
-    "7": {
-      "items": "BREAK-FREE CLP",
-      "image": "bmz_cache/c/css-l_102-100-004_2gif.image.200x200.gif",
-      "price": "$8.89"
-    },
-    "8": {
-      "items": "CLP",
-      "image": "bmz_cache/c/css-l_100042103_2jpg.image.200x200.jpg",
-      "price": "$8.50"
-    },
-    "9": {
-      "items": "EXTREME DUTY BORE SOLVENT",
-      "image": "bmz_cache/c/css-l_100017503_1jpg.image.200x200.jpg",
-      "price": "$5.97"
-    },
-    "10": {
-      "items": "EXTREME DUTY CLP",
-      "image": "bmz_cache/c/css-l_100017508_1jpg.image.200x200.jpg",
-      "price": "$6.43"
-    },
-    "11": {
-      "items": "EXTREME DUTY GUN GREASE",
-      "image": "bmz_cache/c/css-l_100017501_1jpg.image.200x200.jpg",
-      "price": "$8.84"
-    },
-    "12": {
-      "items": "EXTREME DUTY GUN OIL",
-      "image": "bmz_cache/c/css-l_100-015-896_2jpg.image.200x200.jpg",
-      "price": "$12.75"
-    },
-    "13": {
-      "items": "Extreme Duty Gun Oil 1oz 12 Pack",
-      "image": "bmz_cache/c/css-l_250021762_1jpg.image.200x200.jpg",
-      "price": "$96.24"
-    },
-    "14": {
-      "items": "FP-10 LUBRICANT",
-      "image": "bmz_cache/c/css-l_934-110-004_2jpg.image.200x200.jpg",
-      "price": "$7.46"
-    },
-    "15": {
-      "items": "FROGLUBE WEAPON CARE SYSTEM PACK",
-      "image": "bmz_cache/c/css-l_250031132_1jpg.image.200x200.jpg",
-      "price": "$21.75"
-    },
-    "16": {
-      "items": "GUN OIL",
-      "image": "bmz_cache/c/css-l_100046107_1jpg.image.200x200.jpg",
-      "price": "$2.06"
-    },
-    "17": {
-      "items": "GUN TREATMENT",
-      "image": "bmz_cache/c/css-l_100033171_1jpg.image.200x200.jpg",
-      "price": "$8.92"
-    },
-    "18": {
-      "items": "GUN TREATMENT",
-      "image": "bmz_cache/c/css-l_100033172_1jpg.image.200x200.jpg",
-      "price": "$13.87"
-    },
-    "19": {
-      "items": "Hoppe's 4 oz. Aerosol Gun Lube",
-      "image": "images/no_picture.gif",
-      "price": "$4.13"
-    },
-    "20": {
-      "items": "Hoppe's 4oz Aerosol Can Mdl",
-      "image": "bmz_cache/c/css-l_250204455_1jpg.image.200x200.jpg",
-      "price": "$4.70"
-    },
-    "21": {
-      "items": "Hoppe's Lubricating Oil 14.9 ml",
-      "image": "bmz_cache/c/css-l_250204421_1jpg.image.200x200.jpg",
-      "price": "$4.59"
-    },
-    "22": {
-      "items": "KROIL",
-      "image": "bmz_cache/c/css-l_471000001_1jpg.image.200x200.jpg",
-      "price": "$19.88"
-    },
-    "23": {
-      "items": "MIL. SPEC. CLP",
-      "image": "images/no_picture.gif",
-      "price": "$7.83"
-    },
-    "24": {
-      "items": "MULTI-PURPOSE GUN OIL",
-      "image": "bmz_cache/c/css-l_982000001_1jpg.image.200x200.jpg",
-      "price": "$5.39"
-    },
-    "25": {
-      "items": "MULTI-PURPOSE GUN OIL",
-      "image": "bmz_cache/c/css-l_982000002_2jpg.image.200x200.jpg",
-      "price": "$10.79"
-    },
-    "26": {
-      "items": "MULTI-PURPOSE GUN OIL",
-      "image": "bmz_cache/c/css-l_982000004_2jpg.image.200x200.jpg",
-      "price": "$8.99"
-    },
-    "27": {
-      "items": "OIL WIPES",
-      "image": "bmz_cache/c/css-l_768183840_2jpg.image.200x200.jpg",
-      "price": "$9.80"
-    },
-    "28": {
-      "items": "OIL WIPES",
-      "image": "bmz_cache/c/css-l_768184110_2jpg.image.200x200.jpg",
-      "price": "$8.40"
-    },
-    "29": {
-      "items": "POWDER BLAST",
-      "image": "bmz_cache/c/css-l_100004401_1jpg.image.200x200.jpg",
-      "price": "$10.94"
-    },
-    "30": {
-      "items": "Rem Brite Bore 6 oz Can",
-      "image": "images/no_picture.gif",
-      "price": "$6.24"
-    },
-    "31": {
-      "items": "Rem Oil 2oz Bottle",
-      "image": "bmz_cache/c/css-l_250028242_1jpg.image.200x200.jpg",
-      "price": "$3.40"
-    },
-    "32": {
-      "items": "REM? GUN GREASE",
-      "image": "bmz_cache/c/css-l_768001874_1jpg.image.200x200.jpg",
-      "price": "$4.47"
-    }
-  },
-  "Patches & Mops": {
-    "1": {
-      "items": ".22 CALIBER MOP",
-      "image": "bmz_cache/c/css-l_250001488_1jpg.image.200x200.jpg",
-      "price": "$1.71"
-    },
-    "2": {
-      "items": ".22-.270 CALIBER 1   RD. 300CT. PATCHES",
-      "image": "bmz_cache/c/css-l_250001394_1jpg.image.200x200.jpg",
-      "price": "$7.00"
-    },
-    "3": {
-      "items": ".24-.27 CALIBER MOP",
-      "image": "bmz_cache/c/css-l_250001489_1jpg.image.200x200.jpg",
-      "price": "$1.71"
-    },
-    "4": {
-      "items": ".270-.38 CAL. 100CT. PATCHES",
-      "image": "images/no_picture.gif",
-      "price": "$3.32"
-    },
-    "5": {
-      "items": ".35-.40 CALIBER MOP",
-      "image": "bmz_cache/c/css-l_250001491_1jpg.image.200x200.jpg",
-      "price": "$1.71"
-    },
-    "6": {
-      "items": ".38-.45 CAL./20-.410GA. 100CT. PATCHES",
-      "image": "images/no_picture.gif",
-      "price": "$4.13"
-    },
-    "7": {
-      "items": ".38-.45 CALIBER/20-.410GAUGE. 21/4   SQ. 250",
-      "image": "bmz_cache/c/css-l_250001407_1jpg.image.200x200.jpg",
-      "price": "$7.12"
-    },
-    "8": {
-      "items": ".40-.45 CAL. MOP",
-      "image": "bmz_cache/c/css-l_250001492_1jpg.image.200x200.jpg",
-      "price": "$1.71"
-    },
-    "9": {
-      "items": "\"PARKER HALE\" STYLE JAGS",
-      "image": "bmz_cache/c/css-l_234810030_1jpg.image.200x200.jpg",
-      "price": "$3.55"
-    },
-    "10": {
-      "items": "1-3/4\" Square Patches-500/Bag",
-      "image": "images/no_picture.gif",
-      "price": "$8.38"
-    },
-    "11": {
-      "items": "1-3/8\" Square Patches-1000/Bag",
-      "image": "images/no_picture.gif",
-      "price": "$12.75"
-    },
-    "12": {
-      "items": "2-3/4\" Round Patches-100/Bag",
-      "image": "images/no_picture.gif",
-      "price": "$4.82"
-    },
-    "13": {
-      "items": "2\" Square Patches-500/Bag",
-      "image": "images/no_picture.gif",
-      "price": "$9.99"
-    },
-    "14": {
-      "items": "3\" Square Patches-250/Bag",
-      "image": "images/no_picture.gif",
-      "price": "$13.56"
-    },
-    "15": {
-      "items": "3/4\" Square Patches-1000/Bag",
-      "image": "images/no_picture.gif",
-      "price": "$10.57"
-    },
-    "16": {
-      "items": "3/4\" Square Patches-250/Bag",
-      "image": "images/no_picture.gif",
-      "price": "$2.63"
-    },
-    "17": {
-      "items": "9-PIECE FIREARM KIT",
-      "image": "bmz_cache/c/css-l_100015138_2jpg.image.200x200.jpg",
-      "price": "$4.01"
-    },
-    "18": {
-      "items": "AR-15 STAR CHAMBER CLEANING PADS 20PK",
-      "image": "bmz_cache/c/css-l_100024973_1jpg.image.200x200.jpg",
-      "price": "$12.18"
-    },
-    "19": {
-      "items": "BARREL BLASTER RUST PREVENT PATCHES",
-      "image": "bmz_cache/c/css-l_100047031_1jpg.image.200x200.jpg",
-      "price": "$6.31"
-    },
-    "20": {
-      "items": "BARREL BLASTER RUST PREVENT PATCHES",
-      "image": "bmz_cache/c/css-l_100047031_1jpg.image.200x200.jpg",
-      "price": "$6.31"
-    },
-    "21": {
-      "items": "COMPLETE PISTOL PELLET KIT",
-      "image": "bmz_cache/c/css-l_100042083_2jpg.image.200x200.jpg",
-      "price": "$32.07"
-    },
-    "22": {
-      "items": "COMPLETE PISTOL POWER SWAB KIT",
-      "image": "bmz_cache/c/css-l_100042096_2jpg.image.200x200.jpg",
-      "price": "$23.68"
-    },
-    "23": {
-      "items": "COTTON BULK PATCHES",
-      "image": "bmz_cache/c/css-l_100046110_1jpg.image.200x200.jpg",
-      "price": "$2.86"
-    },
-    "24": {
-      "items": "COTTON BULK PATCHES",
-      "image": "bmz_cache/c/css-l_100046111_1jpg.image.200x200.jpg",
-      "price": "$3.55"
-    },
-    "25": {
-      "items": "COTTON BULK PATCHES",
-      "image": "bmz_cache/c/css-l_100046112_1jpg.image.200x200.jpg",
-      "price": "$3.32"
-    },
-    "26": {
-      "items": "COTTON BULK PATCHES",
-      "image": "bmz_cache/c/css-l_100046113_1jpg.image.200x200.jpg",
-      "price": "$5.16"
-    },
-    "27": {
-      "items": "FELT CLEANING PELLETS",
-      "image": "bmz_cache/c/css-l_100042070_2jpg.image.200x200.jpg",
-      "price": "$9.19"
-    },
-    "28": {
-      "items": "FELT CLEANING PELLETS",
-      "image": "bmz_cache/c/css-l_100042071_2jpg.image.200x200.jpg",
-      "price": "$9.19"
-    },
-    "29": {
-      "items": "FELT CLEANING PELLETS",
-      "image": "bmz_cache/c/css-l_100042072_2jpg.image.200x200.jpg",
-      "price": "$9.19"
-    },
-    "30": {
-      "items": "FELT CLEANING PELLETS",
-      "image": "bmz_cache/c/css-l_100042073_2jpg.image.200x200.jpg",
-      "price": "$9.19"
-    },
-    "31": {
-      "items": "FELT CLEANING PELLETS",
-      "image": "bmz_cache/c/css-l_100042074_2jpg.image.200x200.jpg",
-      "price": "$9.19"
-    },
-    "32": {
-      "items": "FELT CLEANING PELLETS",
-      "image": "bmz_cache/c/css-l_100042075_2jpg.image.200x200.jpg",
-      "price": "$9.19"
-    }
-  },
-  "Polishing Compounds, Tools, & Accessories": {
-    "1": {
-      "items": "ONE SHOT CLEANERS & LUBES",
-      "image": "bmz_cache/c/css-l_749012870_2jpg.image.200x200.jpg",
-      "price": "$11.81"
-    }
-  },
-  "Solvents & Degreasers": {
-    "1": {
-      "items": "BARREL BLASTER RUST PREVENT SPRAY",
-      "image": "bmz_cache/c/css-l_100047024_1jpg.image.200x200.jpg",
-      "price": "$7.35"
-    },
-    "2": {
-      "items": "BARREL BLASTER WONDER GEL SOLVENT",
-      "image": "bmz_cache/c/css-l_100047026_1jpg.image.200x200.jpg",
-      "price": "$10.80"
-    },
-    "3": {
-      "items": "BARRICADE",
-      "image": "bmz_cache/c/css-l_167-016-800_2jpg.image.200x200.jpg",
-      "price": "$5.97"
-    },
-    "4": {
-      "items": "BARRICADE RUST PROTECTION FOR FIREARMS",
-      "image": "bmz_cache/c/css-l_749001027_1jpg.image.200x200.jpg",
-      "price": "$6.66"
-    },
-    "5": {
-      "items": "BENCH REST-9 COPPER SOLVENT",
-      "image": "bmz_cache/c/css-l_699904004_1jpg.image.200x200.jpg",
-      "price": "$6.89"
-    },
-    "6": {
-      "items": "Blackhorn 209 Solvent",
-      "image": "bmz_cache/c/css-l_250000011_1jpg.image.200x200.jpg",
-      "price": "$12.75"
-    },
-    "7": {
-      "items": "BLUE & RUST REMOVER",
-      "image": "bmz_cache/c/css-l_167006100_1jpg.image.200x200.jpg",
-      "price": "$3.90"
-    },
-    "8": {
-      "items": "BLUE & RUST REMOVER",
-      "image": "bmz_cache/c/css-l_167006100_1jpg.image.200x200.jpg",
-      "price": "$3.90"
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
     },
     "9": {
       "items": "BULLET LUBE",
@@ -1393,89 +71,2357 @@
       "price": "$6.97"
     },
     "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
       "items": "GUN SCRUBBER",
       "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
       "price": "$7.81"
     },
-    "16": {
+    "17": {
       "items": "GUN SCRUBBER",
       "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
       "price": "$7.35"
     },
-    "17": {
+    "18": {
       "items": "Hoppe's 10ga Shotgun Cleaner",
       "image": "images/no_picture.gif",
       "price": "$12.63"
     },
-    "18": {
+    "19": {
       "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
       "image": "images/no_picture.gif",
       "price": "$6.77"
     },
-    "19": {
+    "20": {
       "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
       "image": "images/no_picture.gif",
       "price": "$7.12"
     },
-    "20": {
+    "21": {
       "items": "Hoppe's No. 9 Solvent 4oz Bottle",
       "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
       "price": "$4.13"
     },
-    "21": {
+    "22": {
       "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
       "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
       "price": "$4.99"
     },
-    "22": {
+    "23": {
       "items": "LEAD REMOVER CLOTH",
       "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
       "price": "$6.89"
     },
-    "23": {
+    "24": {
       "items": "MONTANA X-TREME? GUN GREASE",
       "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
       "price": "$7.35"
     },
-    "24": {
+    "25": {
       "items": "NO. 9 FOAMING BORE CLEANER",
       "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
       "price": "$10.57"
     },
-    "25": {
+    "26": {
       "items": "NO.9 GUN BORE CLEANER",
       "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
       "price": "$8.84"
     },
-    "26": {
+    "27": {
       "items": "NO.9 GUN BORE CLEANER",
       "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
       "price": "$4.13"
     },
-    "27": {
+    "28": {
       "items": "NUMBER 13 BORE CLEANER",
       "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
       "price": "$4.88"
     },
-    "28": {
+    "29": {
       "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
       "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
       "price": "$10.29"
     },
-    "29": {
+    "30": {
       "items": "Rem Action Cleaner 4oz. Aerosol",
       "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
       "price": "$4.60"
     },
-    "30": {
+    "31": {
       "items": "REM? ACTION CLEANER & DEGREASER",
       "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
       "price": "$5.95"
     },
-    "31": {
+    "32": {
       "items": "SHOOTER'S CHOICE BORE CLEANER",
       "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
       "price": "$9.07"
+    }
+  },
+  "Bore Guides": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Boresnakes": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Brushes": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Cleaning Cloths": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Cleaning Kits": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Cleaning Mats": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Cleaning Rod Accessories": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Cleaning Rods": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Cleaning Systems": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Gun Vices": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Oils & Lubricants": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Patches & Mops": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Polishing Compounds, Tools, & Accessories": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
+    }
+  },
+  "Solvents & Degreasers": {
+    "1": {
+      "items": "ACRAGLAS GEL~",
+      "image": "bmz_cache/c/css-l_081017117_1jpg.image.200x200.jpg",
+      "price": "$26.99"
+    },
+    "2": {
+      "items": "ACRAGLAS~",
+      "image": "bmz_cache/c/css-l_081005030_1jpg.image.200x200.jpg",
+      "price": "$24.99"
+    },
+    "3": {
+      "items": "BC Walnut Wood Stain 3oz",
+      "image": "bmz_cache/c/css-l_250201450_1jpg.image.200x200.jpg",
+      "price": "$3.90"
+    },
+    "4": {
+      "items": "Lyman Turbo Brite Brass Polish 5oz",
+      "image": "bmz_cache/c/css-l_250205092_1jpg.image.200x200.jpg",
+      "price": "$8.22"
+    },
+    "5": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "6": {
+      "items": "STOCKMAKER'S HANDSCREWS",
+      "image": "bmz_cache/c/css-l_319416700_1jpg.image.200x200.jpg",
+      "price": "$16.32"
+    },
+    "7": {
+      "items": "TRU-OIL STOCK FINISH",
+      "image": "bmz_cache/c/css-l_167009220_1jpg.image.200x200.jpg",
+      "price": "$5.85"
+    },
+    "8": {
+      "items": "TRUOIL STOCK FINISH KIT",
+      "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
+      "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
     },
     "32": {
       "items": "SHOOTER'S CHOICE BORE CLEANER",
@@ -1523,6 +2469,126 @@
       "items": "TRUOIL STOCK FINISH KIT",
       "image": "bmz_cache/c/css-l_167-121-000_2jpg.image.200x200.jpg",
       "price": "$15.05"
+    },
+    "9": {
+      "items": "BULLET LUBE",
+      "image": "bmz_cache/c/css-l_100010160_1jpg.image.200x200.jpg",
+      "price": "$8.12"
+    },
+    "10": {
+      "items": "CRUD CUTTER",
+      "image": "bmz_cache/c/css-l_100046108_1jpg.image.200x200.jpg",
+      "price": "$7.46"
+    },
+    "11": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000028_1jpg.image.200x200.jpg",
+      "price": "$14.13"
+    },
+    "12": {
+      "items": "CU+2 COPPER REMOVER",
+      "image": "bmz_cache/c/css-l_509000029_1jpg.image.200x200.jpg",
+      "price": "$28.74"
+    },
+    "13": {
+      "items": "D-LEAD CLEANERS",
+      "image": "bmz_cache/c/css-l_100002193_1jpg.image.200x200.jpg",
+      "price": "$4.36"
+    },
+    "14": {
+      "items": "FrogLube Solvent Spray 1oz",
+      "image": "bmz_cache/c/css-l_250031922_1jpg.image.200x200.jpg",
+      "price": "$6.97"
+    },
+    "15": {
+      "items": "GUN CLEANER",
+      "image": "bmz_cache/c/css-l_945700004_1jpg.image.200x200.jpg",
+      "price": "$8.27"
+    },
+    "16": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000022_2jpg.image.200x200.jpg",
+      "price": "$7.81"
+    },
+    "17": {
+      "items": "GUN SCRUBBER",
+      "image": "bmz_cache/c/css-l_167000021_4jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "18": {
+      "items": "Hoppe's 10ga Shotgun Cleaner",
+      "image": "images/no_picture.gif",
+      "price": "$12.63"
+    },
+    "19": {
+      "items": "Hoppe's 4 oz. Benchrest 9 Copper Solvent",
+      "image": "images/no_picture.gif",
+      "price": "$6.77"
+    },
+    "20": {
+      "items": "Hoppe'S Black Cleaner Aerosol Black 4Oz With Straw, Can",
+      "image": "images/no_picture.gif",
+      "price": "$7.12"
+    },
+    "21": {
+      "items": "Hoppe's No. 9 Solvent 4oz Bottle",
+      "image": "bmz_cache/c/css-l_250204432_1jpg.image.200x200.jpg",
+      "price": "$4.13"
+    },
+    "22": {
+      "items": "J-B~ NON-EMBEDDING BORE CLEANING COMPOUND",
+      "image": "bmz_cache/c/css-l_083065025_1jpg.image.200x200.jpg",
+      "price": "$4.99"
+    },
+    "23": {
+      "items": "LEAD REMOVER CLOTH",
+      "image": "bmz_cache/c/css-l_167-000-060_1jpg.image.200x200.jpg",
+      "price": "$6.89"
+    },
+    "24": {
+      "items": "MONTANA X-TREME? GUN GREASE",
+      "image": "bmz_cache/c/css-l_100-001-578_2jpg.image.200x200.jpg",
+      "price": "$7.35"
+    },
+    "25": {
+      "items": "NO. 9 FOAMING BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100046095_2jpg.image.200x200.jpg",
+      "price": "$10.57"
+    },
+    "26": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-902-016_2gif.image.200x200.gif",
+      "price": "$8.84"
+    },
+    "27": {
+      "items": "NO.9 GUN BORE CLEANER",
+      "image": "bmz_cache/c/css-l_699-000-005_2gif.image.200x200.gif",
+      "price": "$4.13"
+    },
+    "28": {
+      "items": "NUMBER 13 BORE CLEANER",
+      "image": "bmz_cache/c/css-l_100042148_1jpg.image.200x200.jpg",
+      "price": "$4.88"
+    },
+    "29": {
+      "items": "ONE SHOT CLEANER AND DRY LUBE - 5 OZ. AEROSOL",
+      "image": "bmz_cache/c/css-l_749001143_2jpg.image.200x200.jpg",
+      "price": "$10.29"
+    },
+    "30": {
+      "items": "Rem Action Cleaner 4oz. Aerosol",
+      "image": "bmz_cache/c/css-l_250027007_1jpg.image.200x200.jpg",
+      "price": "$4.60"
+    },
+    "31": {
+      "items": "REM? ACTION CLEANER & DEGREASER",
+      "image": "bmz_cache/c/css-l_768183980_1jpg.image.200x200.jpg",
+      "price": "$5.95"
+    },
+    "32": {
+      "items": "SHOOTER'S CHOICE BORE CLEANER",
+      "image": "bmz_cache/c/css-l_934-007-004_3gif.image.200x200.gif",
+      "price": "$9.07"
     }
   }
 }
