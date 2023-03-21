@@ -1,0 +1,149 @@
+{
+  "1": {
+    "item": "Non-Typical 6.5 Creedmoor",
+    "price": "\n$37.99\n",
+    "link": "/rifle/non-typical/non-typical/11-65CDT1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".439",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Varmint & Predator Nosler Ballistic Tip 220 Swift",
+    "price": "\n$41.99\n",
+    "link": "/rifle/varmint-and-predator/nosler-ballistic-tip/11-P220B.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".221",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "3": {
+    "item": "Sierra GameKing Boat-Tail SP 7mm Rem Magnum",
+    "price": "\n$57.99\n",
+    "link": "/rifle/premium-centerfire-rifle/sierra-gameking-boat-tail-sp/11-P7RE.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Sierra Gameking Boat-Tail Soft Point",
+      "Ballistic Coefficient:": ".458",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "Safari Swift A-Frame 470 Nitro Express",
+    "price": "\n$309.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P470SA.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".364",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "5": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$97.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223BLX.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "100",
+      "Ballistic Coefficient:": ".269",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Varmint & Predator 308 Win",
+    "price": "\n$76.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE308130VP.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "3050",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".263",
+      "Package Quantity:": "40",
+      "Usage:": "Varmint"
+    }
+  },
+  "7": {
+    "item": "Nosler Partition 270 Win Short Magnum",
+    "price": "\n$71.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P270WSMC.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".466",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Nosler AccuBond 30-06 Springfield",
+    "price": "\n$55.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-accubond/11-P3006A3.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Nosler Accubond",
+      "Ballistic Coefficient:": ".435",
+      "Ballistic Coefficient G7:": ".208",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Power-Shok Rifle 7mm Rem Magnum",
+    "price": "\n$50.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-7RB.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Muzzle Velocity:": "2860",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".429",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Nosler Partition 6mm Rem",
+    "price": "\n$45.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P6C.html",
+    "specs": {
+      "Grain Weight:": "100",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".384",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "11": {
+    "item": "Nosler AccuBond 338 Win Magnum",
+    "price": "\n$87.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-accubond/11-P338A1.html",
+    "specs": {
+      "Grain Weight:": "225",
+      "Bullet Style:": "Nosler Accubond",
+      "Ballistic Coefficient:": ".550",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Nosler Partition 308 Win",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P308E.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".474",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

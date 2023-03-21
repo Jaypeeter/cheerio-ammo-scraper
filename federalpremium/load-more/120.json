@@ -1,0 +1,149 @@
+{
+  "1": {
+    "item": "Non-Typical 450 Bushmaster",
+    "price": "\n$51.99\n",
+    "link": "/rifle/non-typical/non-typical/11-450BMDT1.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".225",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Nosler Ballistic Tip Hunting 243 Win",
+    "price": "\n$45.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-ballistic-tip-hunting/11-P243J.html",
+    "specs": {
+      "Grain Weight:": "95",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".378",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Safari Barnes Triple-Shock X Bullet 500 Nitro Express",
+    "price": "\n$304.99\n",
+    "link": "/rifle/premium-safari/safari-barnes-triple-shock-x-bullet/11-P500NC.html",
+    "specs": {
+      "Grain Weight:": "570",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".369",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "4": {
+    "item": "Safari Swift A-Frame 416 Rigby",
+    "price": "\n$309.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P416SA.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".367",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "5": {
+    "item": "Power-Shok Copper Rifle 308 Win",
+    "price": "\n$50.99\n",
+    "link": "/rifle/power-shok/power-shok-copper-rifle/11-308150LFA.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Copper HP",
+      "Ballistic Coefficient:": ".278",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 450 Bushmaster",
+    "price": "\n$64.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-450BMB.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Muzzle Velocity:": "1900",
+      "Bullet Style:": "Soft Point",
+      "Ballistic Coefficient:": ".225",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Power-Shok Rifle 375 H&H Magnum",
+    "price": "\n$110.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-375A.html",
+    "specs": {
+      "Grain Weight:": "270",
+      "Muzzle Velocity:": "2690",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".323",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Safari Woodleigh Hydro Solid 500 Nitro Express",
+    "price": "\n$353.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P500NWH.html",
+    "specs": {
+      "Grain Weight:": "570",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "9": {
+    "item": "Safari Woodleigh Hydro Solid 458 Lott",
+    "price": "\n$277.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P458LWH.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "10": {
+    "item": "Safari Trophy Bonded Bear Claw 458 Lott",
+    "price": "\n$231.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-bear-claw/11-P458LT1.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Trophy Bonded Bear Claw",
+      "Ballistic Coefficient:": ".282",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "11": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$18.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223M.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".269",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "12": {
+    "item": "Fusion Rifle 375 H&H Magnum",
+    "price": "\n$85.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F375FS1.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Muzzle Velocity:": "2440",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".340",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  }
+}

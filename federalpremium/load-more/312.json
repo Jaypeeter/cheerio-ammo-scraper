@@ -1,0 +1,152 @@
+{
+  "1": {
+    "item": "Trophy Bonded Tip 300 Win Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P300WTT2.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".450",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "American Eagle Rifle 7.62x51mm NATO",
+    "price": "\n$40.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-A76251M1A.html",
+    "specs": {
+      "Grain Weight:": "168",
+      "Bullet Style:": "Open Tip Match",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".460",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$97.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223BLF.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "100",
+      "Ballistic Coefficient:": ".269",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Power-Shok Rifle 303 British",
+    "price": "\n$66.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-303B.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2690",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".356",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Power-Shok Rifle 30-30 Win",
+    "price": "\n$32.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-3030C.html",
+    "specs": {
+      "Grain Weight:": "125",
+      "Muzzle Velocity:": "2570",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".171",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 30 Carbine",
+    "price": "\n$44.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-30CA.html",
+    "specs": {
+      "Grain Weight:": "110",
+      "Muzzle Velocity:": "1990",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".165",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Power-Shok Rifle 270 Win Short Magnum",
+    "price": "\n$66.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-270WSME.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "3250",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".367",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Nosler AccuBond 25-06 Rem",
+    "price": "\n$48.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-accubond/11-P2506A1.html",
+    "specs": {
+      "Grain Weight:": "110",
+      "Bullet Style:": "Nosler Accubond",
+      "Ballistic Coefficient:": ".418",
+      "Ballistic Coefficient G7:": ".208",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "9": {
+    "item": "Nosler Partition 7mm Rem Magnum",
+    "price": "\n$75.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P7RG.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".434",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Trophy Bonded Tip 270 Win Short Magnum",
+    "price": "\n$71.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P270WSMTT1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".440",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "11": {
+    "item": "Nosler Ballistic Tip Hunting 7mm Rem Magnum",
+    "price": "\n$60.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-ballistic-tip-hunting/11-P7RH.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".495",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "Berger Hybrid Hunter 280 Ackley Improved",
+    "price": "\n$64.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P280AIBCH1.html",
+    "specs": {
+      "Grain Weight:": "168",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".566",
+      "Ballistic Coefficient G7:": ".290",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

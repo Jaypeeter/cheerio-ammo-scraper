@@ -1,0 +1,150 @@
+{
+  "1": {
+    "item": "Nosler Partition 300 Win Magnum",
+    "price": "\n$75.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P300WK.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".409",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Nosler Partition 300 Win Short Magnum",
+    "price": "\n$79.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P300WSME.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".411",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "3": {
+    "item": "Nosler Ballistic Tip Hunting 30-06 Springfield",
+    "price": "\n$49.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-ballistic-tip-hunting/11-P3006Q.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".475",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Nosler Ballistic Tip Hunting 25-06 Rem",
+    "price": "\n$51.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-ballistic-tip-hunting/11-P2506D.html",
+    "specs": {
+      "Grain Weight:": "100",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".394",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Varmint & Predator Nosler Ballistic Tip 25-06 Remington",
+    "price": "\n$47.99\n",
+    "link": "/rifle/varmint-and-predator/nosler-ballistic-tip/11-P2506G.html",
+    "specs": {
+      "Grain Weight:": "85",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".329",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "6": {
+    "item": "Berger Hybrid Hunter 7mm Rem Magnum",
+    "price": "\n$64.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P7RBCH1.html",
+    "specs": {
+      "Grain Weight:": "168",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".566",
+      "Ballistic Coefficient G7:": ".290",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Terminal Ascent 300 Win Short Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/terminal-ascent/11-P300WSMTA1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".608",
+      "Ballistic Coefficient G7:": ".304",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "8": {
+    "item": "American Eagle Rifle 5.56x45mm",
+    "price": "\n$97.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-XM193BLX.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "100",
+      "Ballistic Coefficient:": ".246",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "Power-Shok Rifle 7.62x39mm Soviet",
+    "price": "\n$39.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-76239B.html",
+    "specs": {
+      "Grain Weight:": "123",
+      "Muzzle Velocity:": "2350",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".274",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "10": {
+    "item": "Power-Shok Rifle 300 Win Short Magnum",
+    "price": "\n$68.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-300WSMC.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2980",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".385",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Trophy Copper 300 Win Magnum",
+    "price": "\n$72.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P300WTC2.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Muzzle Velocity:": "3050",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".503",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "American Eagle Rifle 6.5 Grendel",
+    "price": "\n$90.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE65GDL90VP.html",
+    "specs": {
+      "Grain Weight:": "90",
+      "Package Quantity:": "50",
+      "Ballistic Coefficient:": ".260",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

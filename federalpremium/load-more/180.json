@@ -1,0 +1,151 @@
+{
+  "1": {
+    "item": "Nosler Ballistic Tip Hunting 260 Rem",
+    "price": "\n$51.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-ballistic-tip-hunting/11-P260B.html",
+    "specs": {
+      "Grain Weight:": "120",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".417",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Varmint & Predator Nosler Ballistic Tip 243 Win",
+    "price": "\n$45.99\n\n",
+    "link": "/rifle/varmint-and-predator/nosler-ballistic-tip/11-P243H.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".276",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "3": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$19.99\n\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223JX.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".269",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Fusion Rifle 6.5x55 Swedish Mauser",
+    "price": "\n$56.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F6555FS2.html",
+    "specs": {
+      "Grain Weight:": "156",
+      "Muzzle Velocity:": "2500",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".489",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Varmint & Predator 224 Valkyrie",
+    "price": "\n$30.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V224VLKVM60.html",
+    "specs": {
+      "Grain Weight:": "60",
+      "Muzzle Velocity:": "3300",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".265",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 32 Win Special",
+    "price": "\n$58.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-32A.html",
+    "specs": {
+      "Grain Weight:": "170",
+      "Muzzle Velocity:": "2250",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".240",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Safari Swift A-Frame 9.3x62mm Mauser",
+    "price": "\n$138.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P9362SA.html",
+    "specs": {
+      "Grain Weight:": "286",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".385",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "8": {
+    "item": "Power-Shok Rifle 350 Legend",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-350LA.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2100",
+      "Bullet Style:": "Soft Point",
+      "Ballistic Coefficient:": ".245",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "9": {
+    "item": "Fusion Rifle 280 Rem",
+    "price": "\n$58.99\n ",
+    "link": "/rifle/fusion/fusion-rifle/11-F280FS1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "2990",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".485",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "10": {
+    "item": "Non-Typical 350 Legend",
+    "price": "\n$34.99\n",
+    "link": "/rifle/non-typical/non-typical/11-350LDT1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".245",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Trophy Bonded Tip 7mm-08 Rem",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P708TT2.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".430",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "Trophy Bonded Tip 300 Win Short Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P300WSMTT2.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".450",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

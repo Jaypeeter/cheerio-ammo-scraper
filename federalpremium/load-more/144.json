@@ -1,0 +1,155 @@
+{
+  "1": {
+    "item": "Gold Medal Berger 6mm Creedmoor",
+    "price": "\n$52.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM6CRDLRHT1.html",
+    "specs": {
+      "Grain Weight:": "109",
+      "Muzzle Velocity:": "2975",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".568",
+      "Ballistic Coefficient G7:": ".292",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Safari Woodleigh Hydro Solid 458 Win Magnum",
+    "price": "\n$220.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P458WH.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "3": {
+    "item": "Gold Medal Sierra MatchKing 7.62x51mm NATO",
+    "price": "\n$57.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM762M2.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".505",
+      "Ballistic Coefficient G7:": ".250",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Safari Trophy Bonded Sledgehammer Solid 458 Win Magnum",
+    "price": "\n$218.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-sledgehammer-solid/11-P458T3.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Trophy Bonded Sledgehammer Solid",
+      "Ballistic Coefficient:": ".328",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "5": {
+    "item": "Gold Medal Berger 300 Norma Mag",
+    "price": "\n$150.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM300NMBH1.html",
+    "specs": {
+      "Grain Weight:": "215",
+      "Muzzle Velocity:": "3000",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".691",
+      "Ballistic Coefficient G7:": ".354",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Safari Swift A-Frame 370 Sako Magnum",
+    "price": "\n$153.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P370SA.html",
+    "specs": {
+      "Grain Weight:": "286",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".385",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "7": {
+    "item": "Safari Trophy Bonded Sledgehammer Solid 416 Rigby",
+    "price": "\n$314.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-sledgehammer-solid/11-P416T2.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Trophy Bonded Sledgehammer Solid",
+      "Ballistic Coefficient:": ".273",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "8": {
+    "item": "Non-Typical 30-06 Springfield",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-3006DT180.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".385",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Varmint & Predator 223 Rem",
+    "price": "\n$30.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V223VM53.html",
+    "specs": {
+      "Grain Weight:": "53",
+      "Muzzle Velocity:": "3400",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".290",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "10": {
+    "item": "Gold Medal Sierra MatchKing 260 Rem",
+    "price": "\n$39.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM260M.html",
+    "specs": {
+      "Grain Weight:": "142",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".611",
+      "Ballistic Coefficient G7:": ".302",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "11": {
+    "item": "Gold Medal Sierra MatchKing 223 Rem",
+    "price": "\n$37.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM223M3.html",
+    "specs": {
+      "Grain Weight:": "77",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".372",
+      "Ballistic Coefficient G7:": ".188",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "12": {
+    "item": "Varmint & Predator 5.56x45mm",
+    "price": "\n$15.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE556G.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Muzzle Velocity:": "3100",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".204",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  }
+}

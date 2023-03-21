@@ -1,0 +1,156 @@
+{
+  "1": {
+    "item": "Fusion Rifle 308 Win",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F308FS2.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Muzzle Velocity:": "2700",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".446",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Fusion Rifle 30-06 Springfield",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F3006FS3.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2700",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".498",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Power-Shok Rifle 243 Win",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-243AS.html",
+    "specs": {
+      "Grain Weight:": "80",
+      "Muzzle Velocity:": "3330",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".365",
+      "Package Quantity:": "20",
+      "Usage:": "Small Game"
+    }
+  },
+  "4": {
+    "item": "Trophy Copper 7mm Rem Magnum",
+    "price": "\n$67.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P7RTC2.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "3150",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".489",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "Gold Medal Berger 224 Valkyrie",
+    "price": "\n$45.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM224VLKBH2.html",
+    "specs": {
+      "Grain Weight:": "80.5",
+      "Muzzle Velocity:": "2925",
+      "Bullet Style:": "Berger BT Target",
+      "Ballistic Coefficient:": ".441",
+      "Ballistic Coefficient G7:": ".226",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Fusion Rifle 450 Bushmaster",
+    "price": "\n$63.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F450BMFS1.html",
+    "specs": {
+      "Grain Weight:": "260",
+      "Muzzle Velocity:": "2200",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".180",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Fusion Rifle 308 Win",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F308FS1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2820",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".414",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Terminal Ascent 270 Win",
+    "price": "\n$62.99\n",
+    "link": "/rifle/terminal-ascent/11-P270TA1.html",
+    "specs": {
+      "Grain Weight:": "136",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".493",
+      "Ballistic Coefficient G7:": ".247",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$20.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223N.html",
+    "specs": {
+      "Grain Weight:": "62",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".307",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "Trophy Copper 270 Win",
+    "price": "\n$56.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P270TC1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "3060",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".459",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "11": {
+    "item": "Barnes TSX 308 Win",
+    "price": "\n$56.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P308H.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".398",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Non-Typical 308 Win",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-308DT180.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".382",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

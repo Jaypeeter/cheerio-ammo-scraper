@@ -1,0 +1,155 @@
+{
+  "1": {
+    "item": "Buckmaster Bonded 270 Win",
+    "price": "\n$43.99\n",
+    "link": "/rifle/buckmaster-bonded/11-BMB270SP130.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "BuckMasters Bonded Soft Point",
+      "Ballistic Coefficient:": ".400",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "HammerDown Rifle 30-30 Win",
+    "price": "\n$39.99\n",
+    "link": "/rifle/hammerdown/11-LG30301.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2390",
+      "Bullet Style:": "Bonded Soft Point",
+      "Ballistic Coefficient:": ".268",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Terminal Ascent 28 Nosler",
+    "price": "\n$108.99\n",
+    "link": "/rifle/terminal-ascent/11-P28NTA1.html",
+    "specs": {
+      "Grain Weight:": "155",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".586",
+      "Ballistic Coefficient G7:": ".300",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "Trophy Copper 6.5 PRC",
+    "price": "\n$82.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P65PRCTC1.html",
+    "specs": {
+      "Grain Weight:": "120",
+      "Muzzle Velocity:": "3050",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".497",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "Power-Shok Rifle 30-06 Springfield",
+    "price": "\n$40.79\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-3006HS.html",
+    "specs": {
+      "Grain Weight:": "220",
+      "Muzzle Velocity:": "2400",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".293",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 7mm Rem Magnum",
+    "price": "\n$50.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-7RA.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "3110",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".408",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Power-Shok Rifle 7mm-08 Rem",
+    "price": "\n$45.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-708CS.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2650",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".408",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Power-Shok Rifle 35 Rem",
+    "price": "\n$60.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-35A.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "2080",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".192",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "9": {
+    "item": "Fusion Rifle 35 Whelen",
+    "price": "\n$57.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F35FS1.html",
+    "specs": {
+      "Grain Weight:": "200",
+      "Muzzle Velocity:": "2800",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".343",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "10": {
+    "item": "Varmint & Predator 223 Rem",
+    "price": "\n$30.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V223VM40.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "3800",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".200",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "11": {
+    "item": "Trophy Bonded Tip 270 Win Short Magnum",
+    "price": "\n$71.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P270WSMTT3.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".455",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "Trophy Bonded Tip 7mm Win Short Magnum",
+    "price": "\n$58.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P7WSMTT1.html",
+    "specs": {
+      "Grain Weight:": "160",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".520",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

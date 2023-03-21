@@ -1,0 +1,157 @@
+{
+  "1": {
+    "item": "Varmint & Predator 6.5 Creedmoor",
+    "price": "\n$35.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V65CRDVM95.html",
+    "specs": {
+      "Grain Weight:": "95",
+      "Muzzle Velocity:": "3300",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".365",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "2": {
+    "item": "Gold Medal Sierra MatchKing 223 Rem",
+    "price": "\n$37.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM223M.html",
+    "specs": {
+      "Grain Weight:": "69",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".301",
+      "Ballistic Coefficient G7:": ".165",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "Power-Shok Rifle 243 Win",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-243B.html",
+    "specs": {
+      "Grain Weight:": "100",
+      "Muzzle Velocity:": "2960",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".355",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Gold Medal Sierra MatchKing 6.5 Creedmoor",
+    "price": "\n$47.99\n",
+    "link": "/rifle/gold-medal/gold-medal-sierra-matchking/11-GM65CRD1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Sierra Matchking Boat-Tail Hollow Point",
+      "Ballistic Coefficient:": ".535",
+      "Ballistic Coefficient G7:": ".261",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "5": {
+    "item": "American Eagle Rifle 7.62x51mm NATO",
+    "price": "\n$30.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-XM80CL.html",
+    "specs": {
+      "Grain Weight:": "149",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".456",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Gold Medal Berger 308 Win",
+    "price": "\n$48.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM308BH185.html",
+    "specs": {
+      "Grain Weight:": "185",
+      "Muzzle Velocity:": "2600",
+      "Bullet Style:": "Berger Jugernaught OTM",
+      "Ballistic Coefficient:": ".552",
+      "Ballistic Coefficient G7:": ".283",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "Power-Shok Rifle 375 H&H Magnum",
+    "price": "\n$110.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-375B.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Muzzle Velocity:": "2530",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".323",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "8": {
+    "item": "Gold Medal Berger 223 Rem",
+    "price": "\n$39.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM223BH73.html",
+    "specs": {
+      "Grain Weight:": "73",
+      "Muzzle Velocity:": "2800",
+      "Bullet Style:": "Berger BT Target",
+      "Ballistic Coefficient:": ".348",
+      "Ballistic Coefficient G7:": ".178",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "9": {
+    "item": "Fusion Rifle 270 Win",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F270FS1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "3050",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".400",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "10": {
+    "item": "Nosler Partition 308 Win",
+    "price": "\n$58.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P308S.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".387",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Fusion Rifle 223 Rem",
+    "price": "\n$38.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F223FS1.html",
+    "specs": {
+      "Grain Weight:": "62",
+      "Muzzle Velocity:": "3000",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".310",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "American Eagle Rifle 30-06 Springfield",
+    "price": "\n$42.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE3006M1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".410",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "1": {
+    "item": "Power-Shok Copper Rifle 243 Win",
+    "price": "\n$47.99\n",
+    "link": "/rifle/power-shok/power-shok-copper-rifle/11-24385LFA.html",
+    "specs": {
+      "Grain Weight:": "85",
+      "Bullet Style:": "Copper HP",
+      "Ballistic Coefficient:": ".233",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Trophy Bonded Tip 300 H&H Magnum",
+    "price": "\n$119.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P300HTT1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".500",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "3": {
+    "item": "Trophy Bonded Tip 270 Win",
+    "price": "\n$55.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P270TT3.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".455",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "American Eagle Rifle 30 Carbine",
+    "price": "\n$57.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE30CB.html",
+    "specs": {
+      "Grain Weight:": "110",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "50",
+      "Ballistic Coefficient:": ".165",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "5": {
+    "item": "Fusion MSR 6.8 SPC",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-msr/11-F68MSR1.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".378",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 222 Rem",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-222A.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Muzzle Velocity:": "3140",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".184",
+      "Package Quantity:": "20",
+      "Usage:": "Small Game"
+    }
+  },
+  "7": {
+    "item": "Sierra GameKing Boat-Tail SP 30-06 Springfield",
+    "price": "\n$44.99\n",
+    "link": "/rifle/premium-centerfire-rifle/sierra-gameking-boat-tail-sp/11-P3006G.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Sierra Gameking Boat-Tail Soft Point",
+      "Ballistic Coefficient:": ".380",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Trophy Copper 270 Win Short Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P270WSMTC1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "3280",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".459",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Barnes TSX 7mm-08 Rem",
+    "price": "\n$58.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P708C.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".394",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "10": {
+    "item": "Trophy Bonded Tip 300 Weatherby Magnum",
+    "price": "\n$75.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P300WBTT1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".500",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Nosler Partition 375 H&H Magnum",
+    "price": "\n$107.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P375F.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".398",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Nosler Partition 30-06 Springfield",
+    "price": "\n$58.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P3006AD.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".409",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

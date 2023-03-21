@@ -1,0 +1,151 @@
+{
+  "1": {
+    "item": "American Eagle Rifle 6.5 Creedmoor",
+    "price": "\n$37.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE65CRD4.html",
+    "specs": {
+      "Grain Weight:": "123",
+      "Bullet Style:": "Open Tip Match",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".443",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "Berger Hybrid Hunter 270 Win Short Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P270WSMBCH1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".528",
+      "Ballistic Coefficient G7:": ".271",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Fusion Rifle 300 Win Short Magnum",
+    "price": "\n$68.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F300WSMFS1.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Muzzle Velocity:": "3100",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".451",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Barnes TSX 224 Valkyrie",
+    "price": "\n$50.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P224VLKBTSX1.html",
+    "specs": {
+      "Grain Weight:": "78",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".383",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Nosler Ballistic Tip Hunting 30-06 Springfield",
+    "price": "\n$49.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-ballistic-tip-hunting/11-P3006P.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".434",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Fusion Rifle 350 Legend",
+    "price": "\n$39.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F350LFS1.html",
+    "specs": {
+      "Grain Weight:": "160",
+      "Muzzle Velocity:": "2300",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".259",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Fusion Rifle 300 Win Short Magnum",
+    "price": "\n$68.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F300WSMFS3.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "3250",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".410",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Terminal Ascent 7mm Rem Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/terminal-ascent/11-P7RTA1.html",
+    "specs": {
+      "Grain Weight:": "155",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".586",
+      "Ballistic Coefficient G7:": ".300",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Sierra GameKing Boat-Tail SP 308 Win",
+    "price": "\n$46.99\n",
+    "link": "/rifle/premium-centerfire-rifle/sierra-gameking-boat-tail-sp/11-P308C.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Sierra Gameking Boat-Tail Soft Point",
+      "Ballistic Coefficient:": ".404",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Nosler Partition 338 Rem Ultra Magnum",
+    "price": "\n$91.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P338RUMA.html",
+    "specs": {
+      "Grain Weight:": "210",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".400",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Nosler Partition 338 Win Magnum",
+    "price": "\n$79.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P338B2.html",
+    "specs": {
+      "Grain Weight:": "250",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".473",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Nosler Ballistic Tip Hunting 270 Win Short Magnum",
+    "price": "\n$69.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-ballistic-tip-hunting/11-P270WSMB.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".433",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

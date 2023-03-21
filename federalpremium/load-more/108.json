@@ -1,0 +1,154 @@
+{
+  "1": {
+    "item": "Power-Shok Rifle 7mm Mauser",
+    "price": "\n$65.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-7B.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "2660",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".426",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Varmint & Predator 223 Rem",
+    "price": "\n$156.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V223VM53B.html",
+    "specs": {
+      "Grain Weight:": "53",
+      "Muzzle Velocity:": "3400",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".290",
+      "Package Quantity:": "100",
+      "Usage:": "Varmint"
+    }
+  },
+  "3": {
+    "item": "Fusion MSR 223 Rem",
+    "price": "\n$38.99\n",
+    "link": "/rifle/fusion/fusion-msr/11-F223MSR1.html",
+    "specs": {
+      "Grain Weight:": "62",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".310",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Fusion Rifle 6.5 PRC",
+    "price": "\n$74.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F65PRCFS1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "2925",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".439",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Swift Scirocco II 308 Win",
+    "price": "\n$67.99\n",
+    "link": "/rifle/premium-centerfire-rifle/swift-scirocco-ii/11-P308SS1.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Swift Scirocco",
+      "Ballistic Coefficient:": ".470",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Non-Typical 270 Win",
+    "price": "\n$27.99\n",
+    "link": "/rifle/non-typical/non-typical/11-270DT130.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".372",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Power-Shok Rifle 30-30 Win",
+    "price": "\n$31.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-3030B.html",
+    "specs": {
+      "Grain Weight:": "170",
+      "Muzzle Velocity:": "2200",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".254",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Power-Shok Rifle 223 Rem",
+    "price": "\n$26.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-223A.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Muzzle Velocity:": "3240",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".222",
+      "Package Quantity:": "20",
+      "Usage:": "Small Game"
+    }
+  },
+  "9": {
+    "item": "Gold Medal Berger 6mm Creedmoor",
+    "price": "\n$52.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM6CRDBH1.html",
+    "specs": {
+      "Grain Weight:": "105",
+      "Muzzle Velocity:": "3025",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".536",
+      "Ballistic Coefficient G7:": ".275",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "Fusion Rifle 30-30 Win",
+    "price": "\n$36.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F3030FS2.html",
+    "specs": {
+      "Grain Weight:": "170",
+      "Muzzle Velocity:": "2200",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".313",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "11": {
+    "item": "Safari Woodleigh Hydro Solid 9.3x74R",
+    "price": "\n$195.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P9374WH.html",
+    "specs": {
+      "Grain Weight:": "286",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "12": {
+    "item": "Safari Swift A-Frame 458 Win Magnum",
+    "price": "\n$198.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P458SA.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".361",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  }
+}

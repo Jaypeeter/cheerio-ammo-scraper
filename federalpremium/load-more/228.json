@@ -1,0 +1,151 @@
+{
+  "1": {
+    "item": "Nosler AccuBond 300 Win Short Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-accubond/11-P300WSMA1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Nosler Accubond",
+      "Ballistic Coefficient:": ".507",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Trophy Copper 6.5 Creedmoor",
+    "price": "\n$60.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P65CRDTC1.html",
+    "specs": {
+      "Grain Weight:": "120",
+      "Muzzle Velocity:": "2875",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".497",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Trophy Copper 30-06 Springfield",
+    "price": "\n$57.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P3006TC1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2700",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".523",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "Nosler Partition 30-30 Win",
+    "price": "\n$49.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P3030D.html",
+    "specs": {
+      "Grain Weight:": "170",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".254",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "Nosler Partition 270 Win",
+    "price": "\n$61.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P270E.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".466",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Trophy Bonded Bear Claw 375 H&H Magnum",
+    "price": "\n$132.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-bear-claw/11-P375T4.html",
+    "specs": {
+      "Grain Weight:": "250",
+      "Bullet Style:": "Trophy Bonded Bear Claw",
+      "Ballistic Coefficient:": ".340",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Nosler Ballistic Tip Hunting 308 Win",
+    "price": "\n$48.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-ballistic-tip-hunting/11-P308F.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".435",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Berger Hybrid Hunter 30-06 Springfield",
+    "price": "\n$51.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P3006BCH1.html",
+    "specs": {
+      "Grain Weight:": "168",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".489",
+      "Ballistic Coefficient G7:": ".251",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "9": {
+    "item": "Varmint & Predator 22 Hornet",
+    "price": "\n$79.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE22H35TVP.html",
+    "specs": {
+      "Grain Weight:": "35",
+      "Muzzle Velocity:": "3000",
+      "Bullet Style:": "Tipped Varmint",
+      "Ballistic Coefficient:": ".109",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "10": {
+    "item": "Varmint & Predator 22-250 Rem",
+    "price": "\n$83.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE2225050VP.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Muzzle Velocity:": "3850",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".204",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "11": {
+    "item": "Buckmaster Bonded 300 Win Short Magnum",
+    "price": "\n$67.99\n\n",
+    "link": "/rifle/buckmaster-bonded/11-BMB300WSMSP180.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "BuckMasters Bonded Soft Point",
+      "Ballistic Coefficient:": ".484",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Buckmaster Bonded 308 Win",
+    "price": "\n$43.99\n",
+    "link": "/rifle/buckmaster-bonded/11-BMB308SP165.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "BuckMasters Bonded Soft Point",
+      "Ballistic Coefficient:": ".446",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

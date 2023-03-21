@@ -1,0 +1,153 @@
+{
+  "1": {
+    "item": "Barnes TSX 308 Win",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P308V.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".369",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Varmint & Predator 243 Win",
+    "price": "\n$32.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V243VM75.html",
+    "specs": {
+      "Grain Weight:": "75",
+      "Muzzle Velocity:": "3425",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".330",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "3": {
+    "item": "American Eagle Rifle 223 Rem",
+    "price": "\n$20.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE223T75.html",
+    "specs": {
+      "Grain Weight:": "75",
+      "Bullet Style:": "Total Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".400",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Swift Scirocco II 300 Win Magnum",
+    "price": "\n$74.99\n",
+    "link": "/rifle/premium-centerfire-rifle/swift-scirocco-ii/11-P300WSS1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Swift Scirocco",
+      "Ballistic Coefficient:": ".520",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Safari Swift A-Frame 416 Rem Magnum",
+    "price": "\n$185.99\n",
+    "link": "/rifle/premium-safari/safari-swift-a-frame/11-P416RSA.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Swift A-Frame",
+      "Ballistic Coefficient:": ".367",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 30-30 Win",
+    "price": "\n$31.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-3030A.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2390",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".218",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Berger Hybrid Hunter 270 Win",
+    "price": "\n$50.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P270BCH1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".528",
+      "Ballistic Coefficient G7:": ".271",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "8": {
+    "item": "Barnes TSX 30-06 Springfield",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P3006AF.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".398",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "9": {
+    "item": "Berger Hybrid Hunter 308 Win",
+    "price": "\n$51.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P308BCH1.html",
+    "specs": {
+      "Grain Weight:": "168",
+      "Bullet Style:": "Berger",
+      "Ballistic Coefficient:": ".489",
+      "Ballistic Coefficient G7:": ".251",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Berger Hybrid Hunter 6.5 Creedmoor",
+    "price": "\n$59.99\n",
+    "link": "/rifle/premium-centerfire-rifle/berger-hybrid-hunter/11-P65CRDBCH1.html",
+    "specs": {
+      "Grain Weight:": "135",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".584",
+      "Ballistic Coefficient G7:": ".303",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "11": {
+    "item": "Barnes TSX 243 Win",
+    "price": "\n$52.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P243K.html",
+    "specs": {
+      "Grain Weight:": "85",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".333",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "Gold Medal Berger 300 Win Magnum",
+    "price": "\n$82.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM300WMBH1.html",
+    "specs": {
+      "Grain Weight:": "215",
+      "Muzzle Velocity:": "2850",
+      "Bullet Style:": "Berger Hybrid",
+      "Ballistic Coefficient:": ".691",
+      "Ballistic Coefficient G7:": ".354",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

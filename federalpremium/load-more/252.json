@@ -1,0 +1,152 @@
+{
+  "1": {
+    "item": "Varmint & Predator 6.8 SPC",
+    "price": "\n$76.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-AE6890VP.html",
+    "specs": {
+      "Grain Weight:": "90",
+      "Muzzle Velocity:": "2990",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".275",
+      "Package Quantity:": "50",
+      "Usage:": "Predator"
+    }
+  },
+  "2": {
+    "item": "Power-Shok Copper Rifle 270 Win",
+    "price": "\n$50.99\n",
+    "link": "/rifle/power-shok/power-shok-copper-rifle/11-270130LFA.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Copper HP",
+      "Ballistic Coefficient:": ".287",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Trophy Bonded Tip 30-06 Springfield",
+    "price": "\n$55.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P3006TT1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".500",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "4": {
+    "item": "American Eagle Rifle 6.5 Creedmoor",
+    "price": "\n$37.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE65CRD2.html",
+    "specs": {
+      "Grain Weight:": "120",
+      "Bullet Style:": "Open Tip Match",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".421",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "5": {
+    "item": "American Eagle Rifle 6.5 Grendel",
+    "price": "\n$45.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE65GDL1.html",
+    "specs": {
+      "Grain Weight:": "120",
+      "Bullet Style:": "Open Tip Match",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".421",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 22-250 Rem",
+    "price": "\n$39.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-22250A.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Muzzle Velocity:": "3650",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".208",
+      "Package Quantity:": "20",
+      "Usage:": "Small Game"
+    }
+  },
+  "7": {
+    "item": "Safari Trophy Bonded Bear Claw 416 Rem Magnum",
+    "price": "\n$182.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-bear-claw/11-P416RT1.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Trophy Bonded Bear Claw",
+      "Ballistic Coefficient:": ".373",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "8": {
+    "item": "Safari Trophy Bonded Sledgehammer Solid 470 Nitro Express",
+    "price": "\n$310.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-sledgehammer-solid/11-P470T2.html",
+    "specs": {
+      "Grain Weight:": "500",
+      "Bullet Style:": "Trophy Bonded Sledgehammer Solid",
+      "Ballistic Coefficient:": ".280",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "9": {
+    "item": "Nosler AccuBond 300 Rem Ultra Magnum",
+    "price": "\n$98.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-accubond/11-P300RUMA1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Nosler Accubond",
+      "Ballistic Coefficient:": ".507",
+      "Ballistic Coefficient G7:": ".254",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Nosler AccuBond 270 Win Short Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-accubond/11-P270WSMA1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Nosler Accubond",
+      "Ballistic Coefficient:": ".435",
+      "Ballistic Coefficient G7:": ".207",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Trophy Copper 300 Win Magnum",
+    "price": "\n$72.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P300WTC1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2960",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".523",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Trophy Copper 30-30 Win",
+    "price": "\n$51.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P3030TC1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2300",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".222",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

@@ -1,1271 +1,2756 @@
 {
   "1911": {
     "1": {
-      "items": "Rock Island Armory 22 TCM 9mm 38 super Single Stack Mag 10 rnd",
-      "image": "bmz_cache/r/ria-22tcmjpg.image.200x200.JPG",
-      "price": "$44.99$44.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "Rock Island Armory 9 mm 1911 DOUBLE Stack Magazine 17 rnd",
-      "image": "bmz_cache/r/ria-91718-9mm-17-rnd-magjpg.image.200x200.jpg",
-      "price": "$37.99$37.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "Rock Island Armory 9 mm 1911 Single Stack Magazine 8 rnd",
-      "image": "bmz_cache/r/ria-6503-8-rnd-9mm-magjpg.image.200x200.jpg",
-      "price": "$21.99$21.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "4": {
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
+    },
+    "5": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "6": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "7": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "8": {
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "GLOCK": {
     "1": {
-      "items": "AMEND2 9mm Magazine for Glock G17 18 rnd.",
-      "image": "bmz_cache/a/amend-2-g17-magjpg.image.200x200.jpg",
-      "price": "$14.99$14.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "AMEND2 9mm Magazine for Glock G19 15 rnd.",
-      "image": "bmz_cache/a/amend-2-g19-magjpg.image.200x200.jpg",
-      "price": "$14.49$14.49 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "AMEND2 Stick Magazine for ALL GLOCK 9mm 34 rnd.",
-      "image": "bmz_cache/a/amend-2-9mm-stick-magjpg.image.200x200.jpg",
-      "price": "$21.99$21.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "ETS GEN 2 Stick Magazine for ALL GLOCK 9mm 32 rnd. ORANGE",
-      "image": "bmz_cache/e/ets-32-rnd-glock-stick-mag-orangejpg.image.200x200.jpg",
-      "price": "$22.99$22.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "ETS Stick Magazine for ALL GLOCK 10mm 20 rnd. Smoke",
-      "image": "bmz_cache/e/ets10mm20rdjpg.image.200x200.jpg",
-      "price": "$20.99$20.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "ETS Stick Magazine for ALL GLOCK 10mm 30 rnd. Smoke",
-      "image": "bmz_cache/e/ets10mm30rdjpg.image.200x200.jpg",
-      "price": "$22.99$22.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "ETS Stick Magazine for ALL GLOCK 40 S&W 30 rnd. Smoke",
-      "image": "bmz_cache/4/40cal-30rnd-etsjpg.image.199x200.JPG",
-      "price": "$20.99$20.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "ETS Stick Magazine for ALL GLOCK 45 ACP 30 rnd. Smoke",
-      "image": "bmz_cache/4/45acp-30rnd-etsjpg.image.200x200.JPG",
-      "price": "$22.99$22.99 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
     },
     "9": {
-      "items": "ETS Stick Magazine for ALL GLOCK 9mm 17 rnd. Smoke",
-      "image": "bmz_cache/e/ets17rdjpg.image.200x200.jpg",
-      "price": "$16.99$16.99 Add to Cart  Details "
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "10": {
-      "items": "ETS Stick Magazine for ALL GLOCK 9mm 22 rnd. Smoke",
-      "image": "bmz_cache/e/ets-22-rnd-smokejpg.image.200x200.jpg",
-      "price": "$20.99$20.99 Add to Cart  Details "
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
     },
     "11": {
-      "items": "ETS Stick Magazine for ALL GLOCK 9mm 31 rnd. Smoke",
-      "image": "bmz_cache/9/9mm-31rnd-etsjpg.image.200x200.JPG",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "12": {
-      "items": "ETS Stick Magazine for ALL GLOCK 9mm 40 rnd. Smoke",
-      "image": "bmz_cache/9/9mm-40rnd-etsjpg.image.200x199.JPG",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
     },
     "13": {
-      "items": "ETS Stick Magazine for GLOCK 42 .380 12 rnd. Smoke",
-      "image": "bmz_cache/e/ets380acp12rdjpg.image.200x200.jpg",
-      "price": "$20.99$20.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "14": {
-      "items": "ETS Stick Magazine for GLOCK 43X 9mm 19 rnd. Smoke",
-      "image": "bmz_cache/e/ets43x19rdjpg.image.200x200.jpg",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "15": {
-      "items": "FACTORY Glock 17 / 34 / 19X Magazine 9mm Gen 5 17 rnd. COYOTE",
-      "image": "bmz_cache/4/47487-glockjpg.image.200x200.JPG",
-      "price": "$26.99$26.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "16": {
-      "items": "FACTORY Glock 17 / 34 19X (+2) Magazine 9mm Gen 5 19 rnd. Coyote",
-      "image": "bmz_cache/g/g19x-2-19-rnd-coyotejpg.image.200x200.jpg",
-      "price": "$32.99$32.99 Add to Cart  Details "
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "17": {
-      "items": "FACTORY Glock 17 / 34 Magazine 9mm Gen 4 17 rnd.",
-      "image": "bmz_cache/g/g17gen2magjpg.image.200x200.jpg",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
     },
     "18": {
-      "items": "FACTORY Glock 17 / 34 Magazine 9mm Gen 4 33 rnd.",
-      "image": "bmz_cache/g/g17-33-rndjpg.image.200x200.JPG",
-      "price": "$35.99$35.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "19": {
-      "items": "FACTORY Glock 17 / 34 Magazine Black 9mm ORANGE FOLLOWER 33 rnd",
-      "image": "bmz_cache/b/black-glock-33-rnd-orangejpg.image.200x200.jpg",
-      "price": "$35.99$35.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "20": {
-      "items": "FACTORY Glock 17 / 34 Magazine FDE 9mm ORANGE FOLLOWER 33 rnd.",
-      "image": "bmz_cache/g/g1733fdejpg.image.191x200.jpg",
-      "price": "$35.99$35.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
     },
     "21": {
-      "items": "FACTORY Glock 17 / 34 Magazine OD 9mm ORANGE FOLLOWER 33 rnd.",
-      "image": "bmz_cache/g/glock33odjpg.image.200x200.jpg",
-      "price": "$36.99$36.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
     },
     "22": {
-      "items": "FACTORY Glock 17 Magazine 9mm Gen 5 FDE 17 rnd.",
-      "image": "bmz_cache/g/g17fde2jpg.image.200x200.jpg",
-      "price": "$26.99$26.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
     },
     "23": {
-      "items": "FACTORY Glock 17 Magazine 9mm Gen 5 OD 17 rnd.",
-      "image": "bmz_cache/g/g17odjpg.image.200x200.jpg",
-      "price": "$26.99$26.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "24": {
-      "items": "FACTORY Glock 19 Magazine 9mm Gen 4 BLACK 15 rnd.",
-      "image": "bmz_cache/g/g19gen42magjpg.image.200x200.jpg",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "25": {
-      "items": "FACTORY Glock 19 Magazine 9mm Gen 5 FDE 15 rnd.",
-      "image": "bmz_cache/g/g19-15rnd-fdejpg.image.200x200.jpg",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "26": {
-      "items": "FACTORY Glock 19 Magazine 9mm Gen 5 OD 15 rnd.",
-      "image": "bmz_cache/g/glock-g19-od-magjpg.image.200x200.jpg",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "27": {
-      "items": "FACTORY Glock 19X Magazine 9mm Gen 5 17 rnd. Coyote",
-      "image": "bmz_cache/g/glock-19x-17rndjpg.image.200x200.JPG",
-      "price": "$25.99$25.99 Add to Cart  Details "
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
     },
     "28": {
-      "items": "FACTORY Glock 20 Magazine 10mm Gen 4 15 rnd.",
-      "image": "bmz_cache/g/g20gen4magjpg.image.200x200.jpg",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
     },
     "29": {
-      "items": "FACTORY Glock 21 / 41 Magazine 45 ACP Gen 4 13 rnd.",
-      "image": "bmz_cache/g/glock-21jpg.image.200x200.JPG",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "30": {
-      "items": "FACTORY Glock 22 Magazine 40 S&W Gen 4 22 rnd.",
-      "image": "bmz_cache/g/glock-22jpg.image.200x200.JPG",
-      "price": "$34.99$34.99 Add to Cart  Details "
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
     },
     "31": {
-      "items": "FACTORY Glock 22/35 Magazine 40 S&W Gen 4 15 rnd.",
-      "image": "bmz_cache/g/glock-22-35jpg.image.199x200.JPG",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
     },
     "32": {
-      "items": "FACTORY Glock 23 Magazine 40 S&W Gen 4 13 rnd.",
-      "image": "bmz_cache/g/g23gen42magjpg.image.200x200.jpg",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "ROCK ISLAND TCM": {
     "1": {
-      "items": "Rock Island 22 TCM 17 rd. Flat Base (5) PACK INCLUDES SHIPPING",
-      "image": "bmz_cache/t/tcm-mag-5-packjpg.image.200x200.JPG",
-      "price": "$169.99$169.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "Rock Island Armory 22 TCM 9mm 38 super Single Stack Mag 10 rnd",
-      "image": "bmz_cache/r/ria-22tcmjpg.image.200x200.JPG",
-      "price": "$44.99$44.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "Rock Island Armory Armscor 22 TCM 9 mm Magazine 10 rnd FLAT BASE",
-      "image": "bmz_cache/t/tcm-10-rnd-mag-w-flat-basejpg.image.200x200.jpg",
-      "price": "$34.99$34.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "Rock Island Armory Armscor 22 TCM 9 mm Magazine 17 rnd FLAT BASE",
-      "image": "bmz_cache/t/tcm-17-rnd-mag-w-flat-basejpg.image.196x200.jpg",
-      "price": "$34.99$34.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "Rock Island Armory Armscor 22 TCM 9 mm Magazine 17 rnd w/BASEPAD",
-      "image": "bmz_cache/t/tcm-17-rnd-mag-w-baseplatejpg.image.200x200.jpg",
-      "price": "$39.99$39.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "6": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "7": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "8": {
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "SMITH & WESSON": {
     "1": {
-      "items": "ETS Stick Magazine for S&W M&P 9mm 21 rnd. Smoke",
-      "image": "images/ETS S&W 21 RND SMOKE.jpg",
-      "price": "$17.99$17.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "ETS Stick Magazine for S&W M&P 9mm 30 rnd. Smoke",
-      "image": "bmz_cache/e/ets9mmsw30jpg.image.200x200.jpg",
-      "price": "$17.99$17.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "ETS Stick Magazine for S&W M&P 9mm 40 rnd. Smoke",
-      "image": "bmz_cache/e/etssw940rdjpg.image.200x200.jpg",
-      "price": "$22.99$22.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "Smith & Wesson M&P 15-22 22 LR magazine 25 rnd. BLACK",
-      "image": "images/M&P 15-22 SW.JPG",
-      "price": "$22.99$22.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "Smith & Wesson M&P 2.0 Compact 9mm Magazine 15 rnd.",
-      "image": "images/M&P 9 Compact.JPG",
-      "price": "$38.99$38.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "Smith & Wesson M&P 9mm Magazine 17 rnd.",
-      "image": "images/M&P 9 full size.JPG",
-      "price": "$34.99$34.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "Smith & Wesson M&P Shield PLUS 9mm Magazine 13 rnd.",
-      "image": "bmz_cache/s/shieldplus9mmjpg.image.200x200.jpg",
-      "price": "$38.99$38.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "Smith & Wesson SD9/SD9VE 9mm Magazine 16 rnd.",
-      "image": "bmz_cache/s/sw9ve16rdmagjpg.image.200x200.jpg",
-      "price": "$38.99$38.99 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "SIG SAUER": {
     "1": {
-      "items": "ETS Stick Magazine for SIG P320 9mm 21 rnd. Smoke",
-      "image": "bmz_cache/e/etsp320sig21rdjpg.image.200x200.jpg",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "SIG P320 9mm Stick Magazine #8900576 30 rnds. BLACK",
-      "image": "bmz_cache/s/sig-p320-30-rnd-stick-magjpg.image.200x200.jpg",
-      "price": "$54.99$54.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "SIG P320 9mm Stick Magazine #MAG-MOD-F-9-21 21 rnds. BLACK",
-      "image": "bmz_cache/s/sig-p320-21-rnd-magjpg.image.200x200.jpg",
-      "price": "$49.99$49.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "SIG P320 9mm Stick Magazine #MAG-MOD-F-9-21-COY 21 rnds. COYOTE",
-      "image": "bmz_cache/s/sig-mag-mod-f-9-21-coy-copyjpg.image.200x200.jpg",
-      "price": "$49.99$49.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "SIG P320 P250 9mm Magazine 17 rnd. BLACK",
-      "image": "bmz_cache/s/sig-p250-p320-17-rnd-magjpg.image.200x200.jpg",
-      "price": "$44.99$44.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "6": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "7": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "8": {
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "SPRINGFIELD": {
     "1": {
-      "items": "Springfield Armory XD 40 S&W Magazine 12 rnds.",
-      "image": "bmz_cache/x/xd-40jpg.image.200x200.JPG",
-      "price": "$22.99$22.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "Springfield Armory XD 45 ACP Magazine 13 rnds.",
-      "image": "bmz_cache/x/xd-45jpg.image.200x200.JPG",
-      "price": "$25.99$25.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "Springfield Armory XD 9mm Magazine 16 rnds.",
-      "image": "bmz_cache/x/xd16rd9mmjpg.image.200x200.jpg",
-      "price": "$23.99$23.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "Springfield Armory XD XDM ELITE 9mm Magazine 35 rnds.",
-      "image": "bmz_cache/s/springfield-xd-9mm-elite-35-rnd-magjpg.image.200x200.jpg",
-      "price": "$49.99$49.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
+    },
+    "5": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "6": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "7": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "8": {
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "FN": {
     "1": {
-      "items": "FACTORY FN 16S SCAR LIGHT MAGAZINE AR15 M4 30 rnd BLACK",
-      "image": "bmz_cache/f/fn-scar-light-ar-mag-blackjpg.image.200x200.jpg",
-      "price": "$34.99$34.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "FACTORY FN 16S SCAR LIGHT MAGAZINE AR15 M4 30 rnd FDE",
-      "image": "bmz_cache/f/fn-scar-light-ar-mag-fdejpg.image.200x200.jpg",
-      "price": "$34.99$34.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "FACTORY FN 509 509C EXT BASE MAGAZINE 9mm 12 rnd BLACK",
-      "image": "bmz_cache/f/fn-509c-12-rnd-ext-base-mag-blkjpg.image.200x200.jpg",
-      "price": "$48.99$48.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "FACTORY FN 509 509C EXT BASE MAGAZINE 9mm 12 rnd FDE",
-      "image": "bmz_cache/f/fn-509c-12-rnd-ext-base-mag-fdejpg.image.200x200.jpg",
-      "price": "$48.99$48.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "FACTORY FN 509 509C MAGAZINE 9mm 15 rnd BLACK",
-      "image": "bmz_cache/f/fn-509c-15-rnd-mag-blackjpg.image.200x200.jpg",
-      "price": "$48.99$48.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "FACTORY FN 509 509C MAGAZINE 9mm 15 rnd FDE",
-      "image": "bmz_cache/f/fn-509c-15-rnd-mag-fdejpg.image.200x200.jpg",
-      "price": "$48.99$48.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "FACTORY FN 509 509CC EDGE MAGAZINE 9mm 15 rnd GREY",
-      "image": "bmz_cache/f/fn-509c-cc-edge-15-rnd-greyjpg.image.200x200.jpg",
-      "price": "$71.99$71.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "FACTORY FN PS90/P90 MAGAZINE 5.7x28 30 rnd SMOKE",
-      "image": "bmz_cache/f/fn-ps90-30-rnd-mag-smokejpg.image.200x200.jpg",
-      "price": "$44.99$44.99 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
     },
     "9": {
-      "items": "FACTORY FN PS90/P90 MAGAZINE 5.7x28 50 rnd",
-      "image": "bmz_cache/f/fn-57-magazinejpg.image.200x200.JPG",
-      "price": "$39.99$39.99 Add to Cart  Details "
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "AR-15": {
     "1": {
-      "items": "AMEND 2 AR-15 M4 Magazine Black 30 rnd. 10 PACK SHIPPED",
-      "image": "bmz_cache/a/amend-2-mags-bannerjpg.image.200x200.jpg",
-      "price": "$114.99$114.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "AMEND 2 AR-15 M4 Magazine Black 30 rnd. w/Red Follower MOD 2",
-      "image": "bmz_cache/a/amend2-mod-2-ar-blackjpg.image.200x200.JPG",
-      "price": "$12.49$12.49 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "AMEND 2 AR-15 M4 Magazine FDE 30 rnd. MOD 2",
-      "image": "bmz_cache/a/amend-2-mod-2-fdejpg.image.200x200.jpg",
-      "price": "$12.49$12.49 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "AMEND 2 AR-15 M4 Magazine Gray 30 rnd. MOD 2",
-      "image": "bmz_cache/a/amend-2-mod-2-greyjpg.image.200x200.jpg",
-      "price": "$12.49$12.49 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "ATI SCHMEISSER GEN 2 MLE AR-15 M4 Mag 60 rnd. BLACK WINDOWED",
-      "image": "bmz_cache/a/ati60windowjpg.image.200x200.jpg",
-      "price": "$54.99$54.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "ATI SCHMEISSER GEN 2 MLE AR-15 M4 Magazine 60 rnd. BLACK",
-      "image": "bmz_cache/s/s60blk-atijpg.image.200x200.JPG",
-      "price": "$50.99$50.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "Brownell's AR 15 M4 Magazine 30 rnd. TAN w/Stainless Spring",
-      "image": "bmz_cache/b/b-tanjpg.image.200x200.JPG",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "Brownell's AR 15 Magazine 30 rnd. SS Spring Magpul follower GREY",
-      "image": "bmz_cache/b/brownells-ar-mag-ss-springjpg.image.200x200.jpg",
-      "price": "$15.99$15.99 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
     },
     "9": {
-      "items": "Duramag SPEED AR15 556 223 300 BLK MAGAZINE 30 rnd GREY/BLACK",
-      "image": "bmz_cache/d/duramag-aluminumjpg.image.200x200.jpg",
-      "price": "$14.99$14.99 Add to Cart  Details "
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "10": {
-      "items": "Duramag SPEED AR15 556 223 300 BLK MAGAZINE 30 rnd GREY/GREY",
-      "image": "bmz_cache/d/duramag-aluminumjpg.image.200x200.jpg",
-      "price": "$14.99$14.99 Add to Cart  Details "
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
     },
     "11": {
-      "items": "FACTORY FN 16S SCAR LIGHT MAGAZINE AR15 M4 30 rnd BLACK",
-      "image": "bmz_cache/f/fn-scar-light-ar-mag-blackjpg.image.200x200.jpg",
-      "price": "$34.99$34.99 Add to Cart  Details "
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "12": {
-      "items": "FACTORY FN 16S SCAR LIGHT MAGAZINE AR15 M4 30 rnd FDE",
-      "image": "bmz_cache/f/fn-scar-light-ar-mag-fdejpg.image.200x200.jpg",
-      "price": "$34.99$34.99 Add to Cart  Details "
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
     },
     "13": {
-      "items": "KCI Dual Drum Magazine GEN 2 AR15 M4 223 / 556 100 rnd.",
-      "image": "bmz_cache/k/kci-ar-drums-100-rndsjpg.image.200x200.jpg",
-      "price": "$149.99$149.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "14": {
-      "items": "LANCER AR-15 M4 Magazine 30 rnd. L5AWM OPAQUE FDE",
-      "image": "bmz_cache/l/lancer-ar-opaque-fdejpg.image.200x200.jpg",
-      "price": "$15.99$15.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "15": {
-      "items": "LANCER AR-15 M4 Magazine 30 rnd. L5AWM TRANSLUCENT RED",
-      "image": "bmz_cache/l/lancer-trans-redjpg.image.200x200.jpg",
-      "price": "$18.99$18.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "16": {
-      "items": "Magpul AR 300 AAC BLACKOUT M3 Black 30 Round Non Window",
-      "image": "bmz_cache/p/pmag-300-blackjpg.image.200x200.jpg",
-      "price": "$14.99$14.99 Add to Cart  Details "
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "17": {
-      "items": "Magpul AR15 M4 Magazine M3 Black 30 rnd.  WINDOWED",
-      "image": "bmz_cache/m/magpul-m3-windowedjpg.image.200x200.jpg",
-      "price": "$15.49$15.49 Add to Cart  Details "
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
     },
     "18": {
-      "items": "Magpul AR15 M4 Magazine M3 Black 30 rnd. NO WINDOW",
-      "image": "bmz_cache/p/pmag-m3-blk-nonjpg.image.200x179.JPG",
-      "price": "$14.99$14.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "19": {
-      "items": "Magpul AR15 M4 Magazine M3 Black 40 rnd. NO WINDOW",
-      "image": "bmz_cache/p/pmag-40jpg.image.200x200.JPG",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "20": {
-      "items": "Magpul AR15 M4 Magazine M3 COYOTE 30 rnd. NO WINDOW",
-      "image": "bmz_cache/m/mag557-mctjpg.image.200x200.JPG",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
     },
     "21": {
-      "items": "Magpul AR15 M4 Magazine M3 Coyote 30 rnd. WINDOWED",
-      "image": "bmz_cache/m/magpul-coyote-30-rnd-windowjpg.image.200x200.jpg",
-      "price": "$14.99$14.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
     },
     "22": {
-      "items": "Magpul M2 AR15 Magazine Black 30 rnd. NO WINDOW 10 PAK SHIPPED",
-      "image": "bmz_cache/m/magpul-m2-10-packjpg.image.200x200.JPG",
-      "price": "$124.49$124.49 Add to Cart  Details "
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
     },
     "23": {
-      "items": "Magpul MOE AR15 M4 Magazine M2 Black 30 rnd. NO WINDOW",
-      "image": "bmz_cache/p/pmag-m2-black-nonjpg.image.200x176.JPG",
-      "price": "$13.49$13.49 Add to Cart  Details "
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "24": {
-      "items": "Magpul MOE AR15 M4 Magazine M2 Black 30 rnd. WINDOW",
-      "image": "bmz_cache/p/pmag-m2-window-blackjpg.image.200x200.JPG",
-      "price": "$14.49$14.49 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "25": {
-      "items": "MAGPUL MOE AR15 M4 TREMIS SUREGRIP HANDGRIP MAG539 BLACK",
-      "image": "bmz_cache/m/magpul-539-party-grip-blkjpg.image.150x200.jpg",
-      "price": "$49.99$49.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "26": {
-      "items": "MAGPUL MOE AR15 M4 TREMIS SUREGRIP HANDGRIP MAG539 FDE",
-      "image": "bmz_cache/m/magpul-539-party-grip-fdejpg.image.200x200.jpg",
-      "price": "$49.99$49.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "27": {
-      "items": "Magpul PCC ONLY 9mm D50 GL9-PCC DRUM Magazine Black 50 rnd.",
-      "image": "bmz_cache/m/magpul-9mm-pcc-drumjpg.image.200x200.jpg",
-      "price": "$124.99$124.99 Add to Cart  Details "
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
     },
     "28": {
-      "items": "Magpul PMAG AR15 M4 D-60 DRUM Magazine Black 60 rnd.",
-      "image": "bmz_cache/d/d60-magpuljpg.image.200x200.jpg",
-      "price": "$114.99$114.99 Add to Cart  Details "
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
     },
     "29": {
-      "items": "MFT AR-15 M4 Magazine 223 556 Black/Red 30 rnd. POINT BREAK",
-      "image": "bmz_cache/u/utah-2-bodhijpg.image.200x200.jpg",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "30": {
-      "items": "MFT AR-15 M4 Magazine 223 556 Black/Red 30 rnd. WOLVERINES",
-      "image": "bmz_cache/m/mft-wolverines-magazinejpg.image.200x200.jpg",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
     },
     "31": {
-      "items": "OKAY IND SUREFEED AR15 Magazine 223/556/300 BLK 30 rnd. BLACK",
-      "image": "bmz_cache/s/surefeed-oem-blackjpg.image.200x200.jpg",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
     },
     "32": {
-      "items": "Podavach AK 47/74 AR 15 MAGAZINE SPEED LOADER - NATURAL",
-      "image": "bmz_cache/p/podavach-naturaljpg.image.200x200.jpg",
-      "price": "$62.99$62.99 Add to Cart  Details "
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "AR-10": {
     "1": {
-      "items": "LANCER AR-10 308 Magazine 25 rnd. L7AWM OPAQUE BLACK",
-      "image": "bmz_cache/l/lancer-308-25-opaque-blkjpg.image.200x200.JPG",
-      "price": "$40.99$40.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "LANCER AR-10 308 Magazine 25 rnd. L7AWM Opaque FDE",
-      "image": "images/no_picture.gif",
-      "price": "$42.99$42.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "LANCER AR-10 308 Magazine 25 rnd. L7AWM TRANSLUCENT SMOKE",
-      "image": "bmz_cache/l/lancer-308-magsjpg.image.200x200.jpg",
-      "price": "$44.99$44.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "Magpul AR10 308 D-50 DRUM 50 rd. M3 LR/SR Black",
-      "image": "bmz_cache/m/magpul-308-d50-drumjpg.image.200x200.JPG",
-      "price": "$124.99$124.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "Magpul AR10 308 Magazine 10 rd. M3 Black NON WINDOWED",
-      "image": "bmz_cache/2/290-blk-magpuljpg.image.200x200.JPG",
-      "price": "$16.99$16.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "Magpul AR10 308 Magazine 20 rd. M3 Black NON WINDOWED",
-      "image": "bmz_cache/p/pmag-308jpg.image.200x200.JPG",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "Magpul AR10 308 Magazine 25 rd. M3 Black M118LR WINDOWED",
-      "image": "bmz_cache/m/m118lr-magpuljpg.image.200x200.JPG",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "Magpul AR10 308 Magazine 25 rd. M3 Black WINDOWED",
-      "image": "bmz_cache/m/magpul-ar10-25-rnd-windowjpg.image.200x200.JPG",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
     },
     "9": {
-      "items": "Podavach AR 10 308 MAGAZINE SPEED LOADER - BLACK",
-      "image": "bmz_cache/a/ar-10-black-podavachjpg.image.200x200.jpg",
-      "price": "$59.99$59.99 Add to Cart  Details "
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "10": {
-      "items": "Podavach AR 10 308 MAGAZINE SPEED LOADER - NATURAL",
-      "image": "bmz_cache/p/podavach-ar10-naturaljpg.image.200x200.jpg",
-      "price": "$59.99$59.99 Add to Cart  Details "
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "AK-47": {
     "1": {
-      "items": "BULGARIAN NOS SLABSIDE AK AKM 762x39 Magazine 30 rnd. OD GREEN",
-      "image": "bmz_cache/o/od-bulgy-ak-magsjpg.image.200x200.jpg",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "CIRCLE 10 BULGARIAN AK AKM 762x39 Magazine 30 rnd. BLACK",
-      "image": "bmz_cache/c/circle-10-762-ak-magjpg.image.200x200.jpg",
-      "price": "$59.99$59.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "CIRCLE 10 BULGARIAN AK AKM 762x39 Magazine 30 rnd. RARE!! PLUM",
-      "image": "bmz_cache/p/plum-circle-10-magsjpg.image.200x200.jpg",
-      "price": "$99.99$99.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "CIRCLE 10 BULGARIAN AK AKM 762x39 Magazine 30 rnd. RARE!!! GREY",
-      "image": "bmz_cache/g/grey-circle-10-magsjpg.image.200x200.jpg",
-      "price": "$114.99$114.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "CIRCLE 10 BULGARIAN AK AKM 762x39 Magazine 40 rnd. BLACK",
-      "image": "bmz_cache/c/circle-10-762x39-40-rnd-magjpg.image.200x200.jpg",
-      "price": "$99.99$99.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "MAGPUL MOE AK AKM AK47 AK74 TREMIS SUREGRIP HANDGRIP MAG523 PLUM",
-      "image": "bmz_cache/m/magpul-moe-fde-plum-grip-tremisjpg.image.200x200.jpg",
-      "price": "$49.99$49.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "Magpul PMAG AK Magazine M3 30 rnd. Black NON WINDOWED",
-      "image": "bmz_cache/a/ak-pmag-m3jpg.image.200x200.JPG",
-      "price": "$24.99$24.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "Magpul PMAG AK Magazine MOE M2 30 rnd. Black NON WINDOWED",
-      "image": "bmz_cache/a/ak-pmagjpg.image.200x200.JPG",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
     },
     "9": {
-      "items": "ORIGINAL POLISH Surplus STEEL AK AKM Magazine 30 rnd. Grade NOS",
-      "image": "bmz_cache/p/polish-akm-magsjpg.image.200x200.jpg",
-      "price": "$39.99$39.99 Add to Cart  Details "
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "10": {
-      "items": "ORIGINAL Russian AK AK47 AK74 STOCK SET Grade A - SOVIET RED",
-      "image": "bmz_cache/r/russian-stock-set-w-grip-soviet-redjpg.image.200x200.jpg",
-      "price": "$274.99$274.99 Add to Cart  Details "
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
     },
     "11": {
-      "items": "ORIGINAL Russian IZZY BAKELITE AK AKM Magazine 30 rnd. Grade NOS",
-      "image": "bmz_cache/i/izzy-nos-bakesjpg.image.200x200.jpg",
-      "price": "$129.99$129.99 Add to Cart  Details "
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "12": {
-      "items": "ORIGINAL Russian IZZY BAKELITE AK AKM Magazine 30 rnd. UNSORTED",
-      "image": "bmz_cache/i/izzy-nos-bakesjpg.image.200x200.jpg",
-      "price": "$109.99$109.99 Add to Cart  Details "
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
     },
     "13": {
-      "items": "ORIGINAL Russian IZZY SLABSIDE AK AKM Magazine 30 rnd. UNSORTED",
-      "image": "bmz_cache/i/izzy-slabsjpg.image.200x200.jpg",
-      "price": "$149.99$149.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "14": {
-      "items": "ORIGINAL Russian IZZY STEEL AK AKM Magazine 30 rnd. Grade NOS",
-      "image": "bmz_cache/s/spinestamp-russianjpg.image.200x200.jpg",
-      "price": "$109.99  $94.99Save: 14% off$109.99 $94.99Save: 14% off Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "15": {
-      "items": "ORIGINAL Russian MOLOT STEEL RPK AK Magazine 40 rnd. Grade NOS",
-      "image": "bmz_cache/m/molot40rpkjpg.image.183x200.jpg",
-      "price": "$109.99  $99.99Save: 9% off$109.99 $99.99Save: 9% off Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "16": {
-      "items": "ORIGINAL Russian TULA STEEL AK AKM Magazine 30 rnd. Grade NOS",
-      "image": "bmz_cache/s/spinestamp-russianjpg.image.200x200.jpg",
-      "price": "$119.99  $99.99Save: 17% off$119.99 $99.99Save: 17% off Add to Cart  Details "
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "17": {
-      "items": "Podavach AK 47/74 AR 15 MAGAZINE SPEED LOADER - NATURAL",
-      "image": "bmz_cache/p/podavach-naturaljpg.image.200x200.jpg",
-      "price": "$62.99$62.99 Add to Cart  Details "
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
     },
     "18": {
-      "items": "Podavach AK 47/74 AR 15 MAGAZINE SPEED LOADER - WALNUT",
-      "image": "bmz_cache/p/podavach-walnutjpg.image.200x200.jpg",
-      "price": "$62.99$62.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "19": {
-      "items": "US PALM AK AKM AK47 AK74 HANDGRIP GR085 Black",
-      "image": "bmz_cache/u/us-palm-ak-grip-blackjpg.image.200x200.jpg",
-      "price": "$17.95$17.95 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "20": {
-      "items": "US PALM AK AKM AK47 AK74 TREMIS SUREGRIP MODIFIED HANDGRIP Black",
-      "image": "bmz_cache/t/tremis-us-palm-ak-gripjpg.image.197x200.jpg",
-      "price": "$49.99$49.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
     },
     "21": {
-      "items": "US Palm AK AKM AK47 Magazine 30 rnd. AK30R MA944A FDE",
-      "image": "bmz_cache/u/uspalm944ajpg.image.198x200.JPG",
-      "price": "$14.99$14.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
     },
     "22": {
-      "items": "US Palm AK AKM AK47 Magazine 30 rnd. AK30R TRANSLUCENT FDE",
-      "image": "bmz_cache/u/us-palm-ak30r-fde-transjpg.image.200x200.jpg",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
     },
     "23": {
-      "items": "US Palm AK AKM AK47 Magazine 30 rnd. STEEL LOCK AK30 MA692A BLK",
-      "image": "bmz_cache/m/ma692a-uspalmjpg.image.200x200.JPG",
-      "price": "$20.99$20.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "24": {
-      "items": "US Palm AK AKM AK47 Magazine 30 rnd. STEEL LOCK AK30 MA693A FDE",
-      "image": "bmz_cache/m/ma693ajpg.image.200x200.jpg",
-      "price": "$20.99$20.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "25": {
-      "items": "US Palm AK AKM AK47 Magazine 30 rnd. STEEL LOCK MA1196A BANANA",
-      "image": "bmz_cache/m/ma1196a-us-palmjpg.image.200x200.JPG",
-      "price": "$31.99$31.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "AK-74": {
     "1": {
-      "items": "CIRCLE 10 BULGARIAN AKM 545x39 Magazine 30 rnd. BLACK",
-      "image": "bmz_cache/c/circle-10-545-magjpg.image.200x200.jpg",
-      "price": "$51.99$51.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "CIRCLE 10 BULGARIAN AKM 545x39 Magazine 45 rnd. BLACK",
-      "image": "bmz_cache/c/circle-10-545-45-rnd-magjpg.image.200x200.jpg",
-      "price": "$99.99$99.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "KCI AK-74 5.45x39 Dual Drum magazine 95 rnd.",
-      "image": "bmz_cache/a/ak-74-dual-drumjpg.image.200x200.JPG",
-      "price": "$99.99  $88.99Save: 11% off$99.99 $88.99Save: 11% off Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "Magpul PMAG AK 74 Magazine MOE 30 rnd. Black NON WINDOWED",
-      "image": "bmz_cache/m/magpul-ak74jpg.image.162x200.JPG",
-      "price": "$12.99$12.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "ORIGINAL BULGARIAN AK74 NOS rifle length PULLED BARREL 545x39",
-      "image": "bmz_cache/b/bulgy-barreljpg.image.200x200.jpg",
-      "price": "$349.99$349.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "POD ARMS Gen 1.5 556 CONVERSION FOLLOWER AK74 NATO AK",
-      "image": "bmz_cache/p/podarmsjpg.image.200x200.jpg",
-      "price": "$17.99$17.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "Podavach AK 47/74 AR 15 MAGAZINE SPEED LOADER - NATURAL",
-      "image": "bmz_cache/p/podavach-naturaljpg.image.200x200.jpg",
-      "price": "$62.99$62.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "Podavach AK 47/74 AR 15 MAGAZINE SPEED LOADER - WALNUT",
-      "image": "bmz_cache/p/podavach-walnutjpg.image.200x200.jpg",
-      "price": "$62.99$62.99 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "NATO AK": {
     "1": {
-      "items": "CIRCLE 10 BULGARIAN NATO AK 556 Magazine 30 rnd. BLACK",
-      "image": "bmz_cache/c/circle-10-nato-ak-magjpg.image.200x200.jpg",
-      "price": "$54.99$54.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "ORIGINAL ZASTAVA NATO 5.56 AK ZPAP M85 Magazine 30 rnd.",
-      "image": "bmz_cache/z/zastava-556-magsjpg.image.200x200.jpg",
-      "price": "$29.99$29.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "POD ARMS Gen 1.5 556 CONVERSION FOLLOWER AK74 NATO AK",
-      "image": "bmz_cache/p/podarmsjpg.image.200x200.jpg",
-      "price": "$17.99$17.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "4": {
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
+    },
+    "5": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "6": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "7": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "8": {
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "OTHER": {
     "1": {
-      "items": "PRO MAG 10/22 22 LR Polymer Drum Magazine 55 rnd. Smoke",
-      "image": "bmz_cache/c/css-promag55drumjpg.image.200x200.jpg",
-      "price": "$69.99$69.99 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "Rock Island Armory ARMSCOR VR82 20 ga. Magazine 20 rnd.",
-      "image": "bmz_cache/r/ria-vr82-20-ga-20-rnd-magjpg.image.200x200.jpg",
-      "price": "$48.99$48.99 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "Rock Island Armory VR60 VR80 VRBP VRPA 12 ga. Magazine 9 rnd.",
-      "image": "bmz_cache/r/ria-42363-12-ga-9-rnd-magjpg.image.200x200.jpg",
-      "price": "$54.99$54.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "RUGER FACTORY 10/22 .22LR BX-25 25 rnd. Black",
-      "image": "bmz_cache/c/css-rugerbx25magjpg.image.200x200.jpg",
-      "price": "$28.99$28.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "RUGER FACTORY 10/22 .22LR BX-25 25 rnd. Black VALUE 2-PACK",
-      "image": "bmz_cache/c/css-rugerbx25x2magsjpg.image.200x200.jpg",
-      "price": "$45.99$45.99 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "6": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "7": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "8": {
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "Handgun Magazines": {
     "1": {
-      "items": "10MM MAGAZINES FOR GLOCK~",
-      "image": "bmz_cache/c/css-l_100040425_2jpg.image.200x200.jpg",
-      "price": "$17.94$17.94 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "10MM MAGAZINES FOR GLOCK~",
-      "image": "bmz_cache/c/css-l_100040428_2jpg.image.200x200.jpg",
-      "price": "$17.94$17.94 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "12-Round 9mm Magazine for G2C",
-      "image": "bmz_cache/c/css-l_250031223_2jpg.image.200x200.jpg",
-      "price": "$34.01$34.01 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "17 ROUND MAGAZINE 9MM FOR GLOCK~ 17, 19, 26",
-      "image": "bmz_cache/c/css-l_100027922_2jpg.image.200x200.jpg",
-      "price": "$12.99$12.99 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "1911 22LR MAGAZINES",
-      "image": "bmz_cache/c/css-l_100014565_2jpg.image.200x200.jpg",
-      "price": "$40.62$40.62 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "1911 22LR MAGAZINES",
-      "image": "images/no_picture.gif",
-      "price": "$40.62$40.62 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "1911 45ACP WILSON-ROGERS MAGAZINES",
-      "image": "bmz_cache/c/css-l_965047001_2jpg.image.200x200.jpg",
-      "price": "$43.77$43.77 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "1911 45ACP WILSON-ROGERS MAGAZINES",
-      "image": "bmz_cache/c/css-l_965047480_1jpg.image.200x200.jpg",
-      "price": "$43.58$43.58 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
     },
     "9": {
-      "items": "1911 8RD 45ACP ELITE TACTICAL MAGAZINES",
-      "image": "bmz_cache/c/css-l_965000050_1jpg.image.200x200.jpg",
-      "price": "$34.95$34.95 Add to Cart  Details "
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "10": {
-      "items": "1911 9RD 40S&W WILSON-ROGERS MAGAZINE",
-      "image": "bmz_cache/c/css-l_965000103_1jpg.image.200x200.jpg",
-      "price": "$37.95$37.95 Add to Cart  Details "
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
     },
     "11": {
-      "items": "1911 ELITE TACTICAL MAGAZINE",
-      "image": "bmz_cache/c/css-l_965000233_2jpg.image.200x200.jpg",
-      "price": "$42.69$42.69 Add to Cart  Details "
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "12": {
-      "items": "1911 FULL-SIZE MAGAZINE 45ACP LO-PROFILE",
-      "image": "bmz_cache/c/css-l_965000241_1jpg.image.200x200.jpg",
-      "price": "$40.78$40.78 Add to Cart  Details "
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
     },
     "13": {
-      "items": "26RD MAGAZINE 45 AUTO FOR GLOCK~ 21",
-      "image": "bmz_cache/c/css-l_100027926_1jpg.image.200x200.jpg",
-      "price": "$18.24$18.24 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "14": {
-      "items": "509 CC EDGE 9MM LUGER MAGAZINES",
-      "image": "bmz_cache/c/css-l_430102741_1jpg.image.200x200.jpg",
-      "price": "$86.40$86.40 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "15": {
-      "items": "509 CC EDGE 9MM LUGER MAGAZINES",
-      "image": "bmz_cache/c/css-l_430102743_1jpg.image.200x200.jpg",
-      "price": "$86.40$86.40 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "16": {
-      "items": "7-Round 9mm Magazine for G2S",
-      "image": "bmz_cache/c/css-l_250031225_2jpg.image.200x200.jpg",
-      "price": "$34.01$34.01 Add to Cart  Details "
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "17": {
-      "items": "AMEND2 A2 GLOCK 17 10 ROUND ONLY MAGAZ",
-      "image": "images/no_picture.gif",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
     },
     "18": {
-      "items": "AMEND2 A2 GLOCK 19 10 ROUND ONLY MAGAZ",
-      "image": "images/no_picture.gif",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "19": {
-      "items": "Amend2 Glock 22 Black Magazine 15rd",
-      "image": "images/no_picture.gif",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "20": {
-      "items": "Amend2 Glock 23 Black Magazine 13rd",
-      "image": "bmz_cache/c/css-l_250022929_2jpg.image.200x200.jpg",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
     },
     "21": {
-      "items": "Amend2 Glock 43 6 Round Black Magazine",
-      "image": "bmz_cache/c/css-l_250022933_1jpg.image.200x200.jpg",
-      "price": "$13.99$13.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
     },
     "22": {
-      "items": "Bersa 40S&W D.A. Matte - 6 Round Magazine",
-      "image": "bmz_cache/c/css-l_250031031_1jpg.image.200x200.jpg",
-      "price": "$51.42$51.42 Add to Cart  Details "
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
     },
     "23": {
-      "items": "C.A.M. RIFLE UNIVERSAL LOADER",
-      "image": "bmz_cache/c/css-l_100034248_2jpg.image.200x200.jpg",
-      "price": "$25.10$25.10 Add to Cart  Details "
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "24": {
-      "items": "CLIP XD 9MM SUBCOM 16RD",
-      "image": "images/no_picture.gif",
-      "price": "$37.38$37.38 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "25": {
-      "items": "CZ75/85 .40 CAL MAGAZINE",
-      "image": "bmz_cache/c/css-l_131000057_2jpg.image.200x200.jpg",
-      "price": "$58.98$58.98 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "26": {
-      "items": "EDC X9 9MM MAGAZINE",
-      "image": "bmz_cache/c/css-l_250020159_2jpg.image.200x200.jpg",
-      "price": "$42.00$42.00 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "27": {
-      "items": "EDC X9 9MM MAGAZINE",
-      "image": "bmz_cache/c/css-l_965000361_2jpg.image.200x200.jpg",
-      "price": "$46.76$46.76 Add to Cart  Details "
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
     },
     "28": {
-      "items": "FN 509~COMPACT MAGAZINES",
-      "image": "bmz_cache/c/css-l_100045255_2jpg.image.200x200.jpg",
-      "price": "$54.00$54.00 Add to Cart  Details "
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
     },
     "29": {
-      "items": "FN 509~COMPACT MAGAZINES",
-      "image": "bmz_cache/c/css-l_100045256_2jpg.image.200x200.jpg",
-      "price": "$54.00$54.00 Add to Cart  Details "
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "30": {
-      "items": "FN 509M 9mm Mag 15RD BLK",
-      "image": "images/no_picture.gif",
-      "price": "$54.00$54.00 Add to Cart  Details "
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
     },
     "31": {
-      "items": "FN FORTY NINE MAGAZINE - 9MM 10-ROUND",
-      "image": "bmz_cache/c/css-l_119000071_2jpg.image.200x200.jpg",
-      "price": "$40.50$40.50 Add to Cart  Details "
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
     },
     "32": {
-      "items": "GEN 5 MAGAZINE",
-      "image": "bmz_cache/c/css-l_100026291_2jpg.image.200x200.jpg",
-      "price": "$23.21$23.21 Add to Cart  Details "
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "Rifle Magazines": {
     "1": {
-      "items": "10/30 AR/M4 GEN M3 PMAG",
-      "image": "bmz_cache/c/css-l_100075150_2jpg.image.200x200.jpg",
-      "price": "$17.05$17.05 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "10/30 AR/M4 GEN M3 PMAG",
-      "image": "bmz_cache/c/css-l_100075150_2jpg.image.200x200.jpg",
-      "price": "$17.05$17.05 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
     },
     "3": {
-      "items": "20 AR 300B GEN M3 PMAG",
-      "image": "bmz_cache/c/css-l_100075149_2jpg.image.200x200.jpg",
-      "price": "$15.15$15.15 Add to Cart  Details "
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "4": {
-      "items": "93/90 RIFLE MAGAZINE 22WMR STAINLESS",
-      "image": "images/no_picture.gif",
-      "price": "$24.02$24.02 Add to Cart  Details "
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
     },
     "5": {
-      "items": "AI-STYLE POLYMER MAGAZINES .30 CALIBER",
-      "image": "bmz_cache/c/css-l_780001425_2jpg.image.200x200.jpg",
-      "price": "$33.47$33.47 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "6": {
-      "items": "AI-STYLE POLYMER MAGAZINES .30 CALIBER",
-      "image": "bmz_cache/c/css-l_780001426_2jpg.image.200x200.jpg",
-      "price": "$33.47$33.47 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "7": {
-      "items": "AICS SHORT ACTION PMAG 10 5.56AC",
-      "image": "bmz_cache/c/css-l_100043954_2jpg.image.200x200.jpg",
-      "price": "$37.95$37.95 Add to Cart  Details "
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "8": {
-      "items": "AK-47 10RD PMAG GEN M2 MOE MAGAZINE 7.62X39",
-      "image": "bmz_cache/c/css-l_100018408_2jpg.image.200x200.jpg",
-      "price": "$15.15$15.15 Add to Cart  Details "
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
     },
     "9": {
-      "items": "AK-47 AK30R MAGAZINES 7.62X39",
-      "image": "bmz_cache/c/css-l_100-041-544_4jpg.image.200x200.jpg",
-      "price": "$14.84$14.84 Add to Cart  Details "
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "10": {
-      "items": "AK-74 95RD DRUM MAGAZINE 5.45X39MM",
-      "image": "bmz_cache/c/css-l_100027932_2jpg.image.200x200.jpg",
-      "price": "$92.07$92.07 Add to Cart  Details "
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
     },
     "11": {
-      "items": "AK/AKM 20RD PMAG GEN M2 MOE MAGAZINE 7.62X39",
-      "image": "bmz_cache/c/css-l_100018821_2jpg.image.200x200.jpg",
-      "price": "$15.15$15.15 Add to Cart  Details "
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "12": {
-      "items": "Amend2 20rd Magazine 5.56x45 Black",
-      "image": "bmz_cache/c/css-l_250056885_1jpg.image.200x200.jpg",
-      "price": "$10.99$10.99 Add to Cart  Details "
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
     },
     "13": {
-      "items": "Amend2 AR-15 20rd Magazine Mod2 FDE",
-      "image": "bmz_cache/c/css-l_250057673_1jpg.image.200x200.jpg",
-      "price": "$10.99$10.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "14": {
-      "items": "Amend2 AR-15 20rd Magazine Mod2 ODG",
-      "image": "bmz_cache/c/css-l_250057674_1jpg.image.200x200.jpg",
-      "price": "$10.99$10.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "15": {
-      "items": "Amend2 AR-15 30 Round Magazine Mod2 ODG",
-      "image": "bmz_cache/c/css-l_250057743_1jpg.image.200x200.jpg",
-      "price": "$10.99$10.99 Add to Cart  Details "
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
     },
     "16": {
-      "items": "AMEND2 AR-15 MOD2 10-RD MAGAZINES",
-      "image": "bmz_cache/c/css-l_100043830_2jpg.image.200x200.jpg",
-      "price": "$10.99$10.99 Add to Cart  Details "
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "17": {
-      "items": "AR .308 MAGAZINE PMAG 25 M118 LR/SR GEN M3 WINDOW",
-      "image": "bmz_cache/c/css-l_100016530_2jpg.image.200x200.jpg",
-      "price": "$23.70$23.70 Add to Cart  Details "
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
     },
     "18": {
-      "items": "AR 308 L7AWM BLACK 20-RD MAGAZINES",
-      "image": "bmz_cache/c/css-l_100022883_2jpg.image.200x200.jpg",
-      "price": "$45.99$45.99 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "19": {
-      "items": "AR 308 MAGAZINES",
-      "image": "bmz_cache/c/css-l_100022696_2jpg.image.200x200.jpg",
-      "price": "$22.94$22.94 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
     },
     "20": {
-      "items": "AR-15 10RD PMAG GEN M3 MAGAZINE 223/5.56",
-      "image": "bmz_cache/c/css-l_100011418_1jpg.image.200x200.jpg",
-      "price": "$14.20$14.20 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
     },
     "21": {
-      "items": "AR-15 20RD PMAG GEN M3 MAGAZINE 223/5.56",
-      "image": "bmz_cache/c/css-l_100-011-413_1jpg.image.200x200.jpg",
-      "price": "$14.20$14.20 Add to Cart  Details "
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
     },
     "22": {
-      "items": "AR-15 25-RD STRAIGHT BODY STEEL MAGAZINE",
-      "image": "bmz_cache/c/css-l_078000466_2jpg.image.200x200.jpg",
-      "price": "$73.86$73.86 Add to Cart  Details "
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
     },
     "23": {
-      "items": "AR-15 300 BLK PMAG 30 GEN M3 MAGAZINE",
-      "image": "bmz_cache/c/css-l_100-023-566_1jpg.image.200x200.jpg",
-      "price": "$15.15$15.15 Add to Cart  Details "
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "24": {
-      "items": "AR-15 30RD L5AWM OPAQUE BLACK MAGAZINE 223/5.56",
-      "image": "bmz_cache/c/css-l_100009395_1jpg.image.200x200.jpg",
-      "price": "$16.99$16.99 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "25": {
-      "items": "AR-15 30RD PMAG GEN M2 MOE WINDOW MAGAZINE 223/5.56",
-      "image": "bmz_cache/c/css-l_100003144_2jpg.image.200x200.jpg",
-      "price": "$15.15$15.15 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "26": {
-      "items": "AR-15 30RD PMAG GEN M3 WINDOW MAGAZINE 223/5.56",
-      "image": "bmz_cache/c/css-l_100011219_2jpg.image.200x200.jpg",
-      "price": "$17.05$17.05 Add to Cart  Details "
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
     },
     "27": {
-      "items": "AR-15 5.56MM ALUMINUM MAG WITH MAGPUL FOLLOWER",
-      "image": "bmz_cache/c/css-l_430102478_1jpg.image.200x200.jpg",
-      "price": "$12.37$12.37 Add to Cart  Details "
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
     },
     "28": {
-      "items": "AR-15 9 ARC CONVERSION MAGAZINES 9MM",
-      "image": "bmz_cache/c/css-l_100035780_1jpg.image.200x200.jpg",
-      "price": "$50.72$50.72 Add to Cart  Details "
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
     },
     "29": {
-      "items": "AR-15 CROSS MAG 10/10 COUPLING MAGAZINES",
-      "image": "bmz_cache/c/css-l_100040647_2jpg.image.200x200.jpg",
-      "price": "$39.95$39.95 Add to Cart  Details "
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
     },
     "30": {
-      "items": "AR-15 L5AWM 300BLK TRANSLUCENT SMOKE MAGAZINE 30RD",
-      "image": "bmz_cache/c/css-l_100025570_2jpg.image.200x200.jpg",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
     },
     "31": {
-      "items": "AR-15 L5AWM TRANSLUCENT SMOKE MAGAZINE 20-RD",
-      "image": "bmz_cache/c/css-l_100008532_2jpg.image.200x200.jpg",
-      "price": "$18.89$18.89 Add to Cart  Details "
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
     },
     "32": {
-      "items": "AR-15 L5AWM TRANSLUCENT SMOKE MAGAZINE 30-RD",
-      "image": "bmz_cache/c/css-l_100008531_2jpg.image.200x200.jpg",
-      "price": "$19.99$19.99 Add to Cart  Details "
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "Shotgun Magazines & Tubes": {
     "1": {
-      "items": "MKA 1923 MAGAZINE 10RD 12GA",
-      "image": "bmz_cache/c/css-l_100041717_1jpg.image.200x200.jpg",
-      "price": "$39.81$39.81 Add to Cart  Details "
+      "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
+      "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
+      "price": "$7.95"
     },
     "2": {
-      "items": "REMINGTON 870/1100/1187 12GAUGE SHOTGUN FOLLOWERS",
-      "image": "bmz_cache/c/css-l_080000226_1jpg.image.200x200.jpg",
-      "price": "$20.40$20.40 Add to Cart  Details "
+      "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
+      "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
+      "price": "$9.95"
+    },
+    "3": {
+      "items": "1911 MAGAZINE CONVERSION KITS",
+      "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "4": {
+      "items": "1911 MAGAZINE PADS",
+      "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
+      "price": "$8.95"
+    },
+    "5": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "6": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "7": {
+      "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
+      "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
+      "price": "$7.95"
+    },
+    "8": {
+      "items": "22UPLULA UNIVERSAL LOADER",
+      "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
+      "price": "$34.95"
+    },
+    "9": {
+      "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
+      "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "10": {
+      "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
+      "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
+      "price": "$3.44"
+    },
+    "11": {
+      "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
+      "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "12": {
+      "items": "AR-15 ENHANCED MAGAZINE RELEASE",
+      "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
+      "price": "$18.95"
+    },
+    "13": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "14": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "15": {
+      "items": "AR-15 ORIGINAL MAGPUL 5.56",
+      "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
+      "price": "$9.45"
+    },
+    "16": {
+      "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "17": {
+      "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
+      "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
+      "price": "$20.99"
+    },
+    "18": {
+      "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "19": {
+      "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
+      "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
+      "price": "$13.25"
+    },
+    "20": {
+      "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
+      "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
+      "price": "$17.05"
+    },
+    "21": {
+      "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
+      "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
+      "price": "$3.75"
+    },
+    "22": {
+      "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
+      "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
+      "price": "$5.65"
+    },
+    "23": {
+      "items": "AR-15/M16 USGI L-PLATE",
+      "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "24": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "25": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "26": {
+      "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
+      "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
+      "price": "$23.67"
+    },
+    "27": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
+      "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "28": {
+      "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
+      "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
+      "price": "$75.95"
+    },
+    "29": {
+      "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
+      "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
+      "price": "$23.70"
+    },
+    "30": {
+      "items": "DOUBLE MAGAZINE HOLSTERS",
+      "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
+      "price": "$51.03"
+    },
+    "31": {
+      "items": "Double Stack Adjustable Magazine Holster Stealth Black",
+      "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
+      "price": "$42.00"
+    },
+    "32": {
+      "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
+      "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
+      "price": "$12.95"
     }
   },
   "Magazine Parts & Accessories": {
     "1": {
       "items": "1911 .45ACP 7Rd Mag Spring/Follower Kit",
       "image": "bmz_cache/c/css-l_250009528_2jpg.image.200x200.jpg",
-      "price": "$7.95$7.95 Add to Cart  Details "
+      "price": "$7.95"
     },
     "2": {
       "items": "1911 ETM LOW PROFILE STEEL MAG BASE PAD",
       "image": "bmz_cache/c/css-l_965-000-183_1jpg.image.200x200.jpg",
-      "price": "$9.95$9.95 Add to Cart  Details "
+      "price": "$9.95"
     },
     "3": {
       "items": "1911 MAGAZINE CONVERSION KITS",
       "image": "bmz_cache/c/css-l_965266145_2jpg.image.200x200.jpg",
-      "price": "$7.95$7.95 Add to Cart  Details "
+      "price": "$7.95"
     },
     "4": {
       "items": "1911 MAGAZINE PADS",
       "image": "bmz_cache/c/css-l_965000019_2jpg.image.200x200.jpg",
-      "price": "$8.95$8.95 Add to Cart  Details "
+      "price": "$8.95"
     },
     "5": {
       "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
       "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
-      "price": "$7.95$7.95 Add to Cart  Details "
+      "price": "$7.95"
     },
     "6": {
       "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
       "image": "bmz_cache/c/css-l_965-000-180_1jpg.image.200x200.jpg",
-      "price": "$7.95$7.95 Add to Cart  Details "
+      "price": "$7.95"
     },
     "7": {
       "items": "1911 SPRING & FOLLOWER KIT FOR WILSON MAGAZINES",
       "image": "bmz_cache/c/css-l_965-000-181_1jpg.image.200x200.jpg",
-      "price": "$7.95$7.95 Add to Cart  Details "
+      "price": "$7.95"
     },
     "8": {
       "items": "22UPLULA UNIVERSAL LOADER",
       "image": "bmz_cache/c/css-l_100-013-968_1jpg.image.200x200.jpg",
-      "price": "$34.95$34.95 Add to Cart  Details "
+      "price": "$34.95"
     },
     "9": {
       "items": "308 AR ORIGINAL MAGPUL 7.62 NATO",
       "image": "bmz_cache/c/css-l_100000309_2jpg.image.200x200.jpg",
-      "price": "$9.45$9.45 Add to Cart  Details "
+      "price": "$9.45"
     },
     "10": {
       "items": "380/45 ACP ASAP UNIVERSAL DOUBLE STACK MAGAZINE LOADER",
       "image": "bmz_cache/c/css-l_100025544_2jpg.image.200x200.jpg",
-      "price": "$2.99$2.99 Add to Cart  Details "
+      "price": "$3.44"
     },
     "11": {
       "items": "AK/AKM 7.62X39 PMAG RANGER PLATE",
       "image": "bmz_cache/c/css-l_100018181_2jpg.image.200x200.jpg",
-      "price": "$23.70$23.70 Add to Cart  Details "
+      "price": "$23.70"
     },
     "12": {
       "items": "AR-15 ENHANCED MAGAZINE RELEASE",
       "image": "bmz_cache/c/css-l_100900003_2jpg.image.200x200.jpg",
-      "price": "$18.95$18.95 Add to Cart  Details "
+      "price": "$18.95"
     },
     "13": {
       "items": "AR-15 ORIGINAL MAGPUL 5.56",
       "image": "bmz_cache/c/css-l_100000308_1jpg.image.200x200.jpg",
-      "price": "$9.45$9.45 Add to Cart  Details "
+      "price": "$9.45"
     },
     "14": {
       "items": "AR-15 ORIGINAL MAGPUL 5.56",
       "image": "bmz_cache/c/css-l_100003424_1jpg.image.200x200.jpg",
-      "price": "$9.45$9.45 Add to Cart  Details "
+      "price": "$9.45"
     },
     "15": {
       "items": "AR-15 ORIGINAL MAGPUL 5.56",
       "image": "bmz_cache/c/css-l_100003425_2jpg.image.200x200.jpg",
-      "price": "$9.45$9.45 Add to Cart  Details "
+      "price": "$9.45"
     },
     "16": {
       "items": "AR-15/16 PMAG RANGER~ FLOORPLATE 3 PACK",
       "image": "bmz_cache/c/css-l_100003501_1jpg.image.200x200.jpg",
-      "price": "$23.67$23.67 Add to Cart  Details "
+      "price": "$23.67"
     },
     "17": {
       "items": "AR-15/M16 OVERSIZED MAGAZINE RELEASE BUTTON",
       "image": "bmz_cache/c/css-l_080000529_1jpg.image.200x200.jpg",
-      "price": "$20.99$20.99 Add to Cart  Details "
+      "price": "$20.99"
     },
     "18": {
       "items": "AR-15/M16 PMAG M3 7.62 MAGAZINE-5RD LIMITER",
       "image": "bmz_cache/c/css-l_100014092_2jpg.image.200x200.jpg",
-      "price": "$13.25$13.25 Add to Cart  Details "
+      "price": "$13.25"
     },
     "19": {
       "items": "AR-15/M16 PMAG M3 MAGAZINE-5RD LIMITER",
       "image": "bmz_cache/c/css-l_100011629_2jpg.image.200x200.jpg",
-      "price": "$13.25$13.25 Add to Cart  Details "
+      "price": "$13.25"
     },
     "20": {
       "items": "AR-15/M16 PMAG MAG-LINK MAGAZINE COUPLER",
       "image": "bmz_cache/c/css-l_100009583_2jpg.image.200x200.jpg",
-      "price": "$17.05$17.05 Add to Cart  Details "
+      "price": "$17.05"
     },
     "21": {
       "items": "AR-15/M16 PMAG MOE M2 DUST COVERS",
       "image": "bmz_cache/c/css-l_100003508_2jpg.image.200x200.jpg",
-      "price": "$3.75$3.75 Add to Cart  Details "
+      "price": "$3.75"
     },
     "22": {
       "items": "AR-15/M16 USGI ENHANCED SELF-LEVELING FOLLOWER",
       "image": "bmz_cache/c/css-l_100009896_2jpg.image.200x200.jpg",
-      "price": "$5.65$5.65 Add to Cart  Details "
+      "price": "$5.65"
     },
     "23": {
       "items": "AR-15/M16 USGI L-PLATE",
       "image": "bmz_cache/c/css-l_100007635_1jpg.image.200x200.jpg",
-      "price": "$23.67$23.67 Add to Cart  Details "
+      "price": "$23.67"
     },
     "24": {
       "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
       "image": "bmz_cache/c/css-l_100002196_1jpg.image.200x200.jpg",
-      "price": "$23.67$23.67 Add to Cart  Details "
+      "price": "$23.67"
     },
     "25": {
       "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
       "image": "bmz_cache/c/css-l_100003720_1jpg.image.200x200.jpg",
-      "price": "$23.67$23.67 Add to Cart  Details "
+      "price": "$23.67"
     },
     "26": {
       "items": "AR-15/M16 USGI RANGER~ FLOORPLATE 3 PACK",
       "image": "bmz_cache/c/css-l_100003721_1jpg.image.200x200.jpg",
-      "price": "$23.67$23.67 Add to Cart  Details "
+      "price": "$23.67"
     },
     "27": {
       "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L MAGNUM BLACK",
       "image": "bmz_cache/c/css-l_100020564_1jpg.image.200x200.jpg",
-      "price": "$75.95$75.95 Add to Cart  Details "
+      "price": "$75.95"
     },
     "28": {
       "items": "BOLT ACTION MAGAZINE WELL HUNTER 700L STANDARD BLACK",
       "image": "bmz_cache/c/css-l_100020563_1jpg.image.200x200.jpg",
-      "price": "$75.95$75.95 Add to Cart  Details "
+      "price": "$75.95"
     },
     "29": {
       "items": "CZ SCORPION MOE EVO ENHANCED MAG RELEASE",
       "image": "bmz_cache/c/css-l_100035733_2jpg.image.200x200.jpg",
-      "price": "$23.70$23.70 Add to Cart  Details "
+      "price": "$23.70"
     },
     "30": {
       "items": "DOUBLE MAGAZINE HOLSTERS",
       "image": "bmz_cache/c/css-l_100055147_1jpg.image.200x200.jpg",
-      "price": "$51.03$51.03 Add to Cart  Details "
+      "price": "$51.03"
     },
     "31": {
       "items": "Double Stack Adjustable Magazine Holster Stealth Black",
       "image": "bmz_cache/c/css-l_250031721_2jpg.image.200x200.jpg",
-      "price": "$42.00$42.00 Add to Cart  Details "
+      "price": "$42.00"
     },
     "32": {
       "items": "FLAT-WIRE SPRING/FOLLOWER KIT, WILSON ETM 8RD, MAGAZINE",
       "image": "bmz_cache/c/css-l_000003928_1jpg.image.200x200.jpg",
-      "price": "$12.95$12.95 Add to Cart  Details "
+      "price": "$12.95"
     }
   }
 }

@@ -1,0 +1,152 @@
+{
+  "1": {
+    "item": "Non-Typical 300 Win Magnum",
+    "price": "\n$49.99\n",
+    "link": "/rifle/non-typical/non-typical/11-300WDT180.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".439",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "2": {
+    "item": "Power-Shok Rifle 7mm Mauser",
+    "price": "\n$65.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-7A.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Muzzle Velocity:": "2390",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".272",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Fusion Rifle 30-06 Springfield",
+    "price": "\n$44.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F3006FS2.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Muzzle Velocity:": "2790",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".454",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Trophy Copper 308 Win",
+    "price": "\n$57.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P308TC3.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "2820",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".469",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Terminal Ascent 30-06 Springfield",
+    "price": "\n$59.99\n",
+    "link": "/rifle/terminal-ascent/11-P3006TA1.html",
+    "specs": {
+      "Grain Weight:": "175",
+      "Bullet Style:": "Terminal Ascent",
+      "Ballistic Coefficient:": ".520",
+      "Ballistic Coefficient G7:": ".258",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 300 Blackout",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-300BLKB.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "1900",
+      "Bullet Style:": "Soft Point",
+      "Ballistic Coefficient:": ".330",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Safari Trophy Bonded Sledgehammer Solid 416 Rem Magnum",
+    "price": "\n$200.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-sledgehammer-solid/11-P416RT2.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Trophy Bonded Sledgehammer Solid",
+      "Ballistic Coefficient:": ".273",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "8": {
+    "item": "American Eagle Varmint 22-250 Rem",
+    "price": "\n$34.99\n",
+    "link": "/rifle/american-eagle/american-eagle-varmint/11-AE22250G.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".204",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "9": {
+    "item": "American Eagle Rifle 6.5 Creedmoor",
+    "price": "\n$33.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE65CRD3.html",
+    "specs": {
+      "Grain Weight:": "120",
+      "Bullet Style:": "Total Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".406",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "American Eagle Varmint 223 Rem",
+    "price": "\n$20.99\n",
+    "link": "/rifle/american-eagle/american-eagle-varmint/11-AE223G.html",
+    "specs": {
+      "Grain Weight:": "50",
+      "Bullet Style:": "Jacketed Hollow Point",
+      "Ballistic Coefficient:": ".204",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "11": {
+    "item": "Swift Scirocco II 6.5 Creedmoor",
+    "price": "\n$67.99\n",
+    "link": "/rifle/premium-centerfire-rifle/swift-scirocco-ii/11-P65CRDSS1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Swift Scirocco",
+      "Ballistic Coefficient:": ".571",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "Power-Shok Rifle 308 Win",
+    "price": "\n$34.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-308B.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2570",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".382",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  }
+}

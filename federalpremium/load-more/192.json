@@ -1,0 +1,150 @@
+{
+  "1": {
+    "item": "American Eagle Rifle 7.62x39mm Soviet",
+    "price": "\n$30.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-A76239A.html",
+    "specs": {
+      "Grain Weight:": "124",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".298",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "2": {
+    "item": "American Eagle Rifle 338 Lapua Magnum",
+    "price": "\n$97.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE338L.html",
+    "specs": {
+      "Grain Weight:": "250",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".555",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "3": {
+    "item": "American Eagle Rifle 6.8 SPC",
+    "price": "\n$29.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-AE68A.html",
+    "specs": {
+      "Grain Weight:": "115",
+      "Bullet Style:": "Total Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".378",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "4": {
+    "item": "Fusion Rifle 300 Win Magnum",
+    "price": "\n$60.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F300WFS3.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2960",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".485",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "5": {
+    "item": "Fusion MSR 308 Win",
+    "price": "\n$46.99\n",
+    "link": "/rifle/fusion/fusion-msr/11-F308MSR1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".414",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "Power-Shok Rifle 6mm Rem",
+    "price": "\n$45.99\n",
+    "link": "/rifle/power-shok/power-shok-rifle/11-6B.html",
+    "specs": {
+      "Grain Weight:": "100",
+      "Muzzle Velocity:": "3100",
+      "Bullet Style:": "Jacketed Soft Point",
+      "Ballistic Coefficient:": ".354",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "7": {
+    "item": "Barnes TSX 300 Win Short Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P300WSMF.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".453",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "8": {
+    "item": "Safari Trophy Bonded Bear Claw 416 Rigby",
+    "price": "\n$306.99\n",
+    "link": "/rifle/premium-safari/safari-trophy-bonded-bear-claw/11-P416T1.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Trophy Bonded Bear Claw",
+      "Ballistic Coefficient:": ".374",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "9": {
+    "item": "Sierra GameKing Boat-Tail SP 30-06 Springfield",
+    "price": "\n$46.99\n",
+    "link": "/rifle/premium-centerfire-rifle/sierra-gameking-boat-tail-sp/11-P3006D.html",
+    "specs": {
+      "Grain Weight:": "165",
+      "Bullet Style:": "Sierra Gameking Boat-Tail Soft Point",
+      "Ballistic Coefficient:": ".404",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Nosler AccuBond 300 Win Magnum",
+    "price": "\n$70.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-accubond/11-P300WA1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Nosler Accubond",
+      "Ballistic Coefficient:": ".507",
+      "Ballistic Coefficient G7:": ".001",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "11": {
+    "item": "Sierra GameKing Boat-Tail SP 260 Rem",
+    "price": "\n$53.99\n",
+    "link": "/rifle/premium-centerfire-rifle/sierra-gameking-boat-tail-sp/11-P260A.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Bullet Style:": "Sierra Gameking Boat-Tail Soft Point",
+      "Ballistic Coefficient:": ".416",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "12": {
+    "item": "Trophy Copper 300 Win Short Magnum",
+    "price": "\n$72.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-copper/11-P300WSMTC1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Muzzle Velocity:": "2960",
+      "Bullet Style:": "Trophy Copper",
+      "Ballistic Coefficient:": ".523",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}

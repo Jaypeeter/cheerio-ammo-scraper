@@ -1,0 +1,156 @@
+{
+  "1": {
+    "item": "Varmint & Predator 243 Win",
+    "price": "\n$65.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V243VM2B.html",
+    "specs": {
+      "Grain Weight:": "75",
+      "Muzzle Velocity:": "3425",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".330",
+      "Package Quantity:": "40",
+      "Usage:": "Varmint"
+    }
+  },
+  "2": {
+    "item": "Varmint & Predator 204 Ruger",
+    "price": "\n$70.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V204VM32B.html",
+    "specs": {
+      "Grain Weight:": "32",
+      "Muzzle Velocity:": "4100",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".210",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "3": {
+    "item": "Varmint & Predator 22-250 Rem",
+    "price": "\n$98.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V22250VM40B.html",
+    "specs": {
+      "Grain Weight:": "40",
+      "Muzzle Velocity:": "4200",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".200",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "4": {
+    "item": "Varmint & Predator 308 Win",
+    "price": "\n$103.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V308VM110B.html",
+    "specs": {
+      "Grain Weight:": "110",
+      "Muzzle Velocity:": "3300",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".290",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "5": {
+    "item": "HammerDown Rifle 45-70 Government",
+    "price": "\n$70.99\n",
+    "link": "/rifle/hammerdown/11-LG45701.html",
+    "specs": {
+      "Grain Weight:": "300",
+      "Muzzle Velocity:": "1850",
+      "Bullet Style:": "Bonded Soft Point",
+      "Ballistic Coefficient:": ".290",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "6": {
+    "item": "American Eagle Rifle 5.56x45mm",
+    "price": "\n$19.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-XM193X.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Full Metal Jacket Boat-Tail",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".246",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "7": {
+    "item": "Safari Woodleigh Hydro Solid 416 Rem Magnum",
+    "price": "\n$206.99\n",
+    "link": "/rifle/premium-safari/safari-woodleigh-hydro-solid/11-P416RWH.html",
+    "specs": {
+      "Grain Weight:": "400",
+      "Bullet Style:": "Woodleigh Hydro Solid",
+      "Ballistic Coefficient:": ".260",
+      "Package Quantity:": "20",
+      "Usage:": "Safari"
+    }
+  },
+  "8": {
+    "item": "Varmint & Predator 6.5 Creedmoor",
+    "price": "\n$88.99\n",
+    "link": "/rifle/varmint-and-predator/varmint-and-predator/11-V65CRDVM95B.html",
+    "specs": {
+      "Grain Weight:": "95",
+      "Muzzle Velocity:": "3300",
+      "Bullet Style:": "Hornady® V-Max®",
+      "Ballistic Coefficient:": ".365",
+      "Package Quantity:": "50",
+      "Usage:": "Varmint"
+    }
+  },
+  "9": {
+    "item": "Gold Medal Berger 6.5 Grendel",
+    "price": "\n$48.99\n",
+    "link": "/rifle/gold-medal/gold-medal-berger/11-GM65GDLBH130.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Muzzle Velocity:": "2400",
+      "Bullet Style:": "Berger AR Hybrid OTM",
+      "Ballistic Coefficient:": ".560",
+      "Ballistic Coefficient G7:": ".287",
+      "Package Quantity:": "20",
+      "Usage:": "Target Shooting"
+    }
+  },
+  "10": {
+    "item": "Fusion Rifle 6.5mmx55 Swedish Mauser",
+    "price": "\n$56.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F6555FS1.html",
+    "specs": {
+      "Grain Weight:": "140",
+      "Muzzle Velocity:": "2530",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".440",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "11": {
+    "item": "Fusion Rifle 7mm Rem Magnum",
+    "price": "\n$58.99\n",
+    "link": "/rifle/fusion/fusion-rifle/11-F7RFS1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Muzzle Velocity:": "3050",
+      "Bullet Style:": "Fusion Soft Point",
+      "Ballistic Coefficient:": ".509",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "American Eagle Rifle 7.62x51mm NATO",
+    "price": "\n$29.99\n",
+    "link": "/rifle/american-eagle/american-eagle-rifle/11-XM80C.html",
+    "specs": {
+      "Grain Weight:": "149",
+      "Bullet Style:": "Full Metal Jacket",
+      "Package Quantity:": "20",
+      "Ballistic Coefficient:": ".456",
+      "Usage:": "Target Shooting"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "1": {
+    "item": "Barnes TSX 270 Win Short Magnum",
+    "price": "\n$76.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P270WSMD.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".374",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "2": {
+    "item": "Barnes TSX 25-06 Rem",
+    "price": "\n$58.99\n",
+    "link": "/rifle/premium-centerfire-rifle/barnes-tsx/11-P2506H.html",
+    "specs": {
+      "Grain Weight:": "100",
+      "Bullet Style:": "Barnes Triple-Shock X Bullet (TSX)",
+      "Ballistic Coefficient:": ".336",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "3": {
+    "item": "Trophy Bonded Tip 270 Win",
+    "price": "\n$55.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-tip/11-P270TT1.html",
+    "specs": {
+      "Grain Weight:": "130",
+      "Bullet Style:": "Trophy Bonded Tip",
+      "Ballistic Coefficient:": ".440",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "4": {
+    "item": "Nosler Partition 7mm Rem Magnum",
+    "price": "\n$82.99\n",
+    "link": "/rifle/premium-centerfire-rifle/nosler-partition/11-P7RF.html",
+    "specs": {
+      "Grain Weight:": "160",
+      "Bullet Style:": "Nosler Partition",
+      "Ballistic Coefficient:": ".475",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "5": {
+    "item": "Varmint & Predator Speer TNT Green 22-250 Rem",
+    "price": "\n$39.99\n",
+    "link": "/rifle/varmint-and-predator/speer-tnt-green/11-P22250D.html",
+    "specs": {
+      "Grain Weight:": "43",
+      "Bullet Style:": "Speer TNT Green Hollow Point",
+      "Ballistic Coefficient:": ".151",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "6": {
+    "item": "Trophy Bonded Bear Claw 338 Win Magnum",
+    "price": "\n$118.99\n",
+    "link": "/rifle/premium-centerfire-rifle/trophy-bonded-bear-claw/11-P338T1.html",
+    "specs": {
+      "Grain Weight:": "225",
+      "Bullet Style:": "Trophy Bonded Bear Claw",
+      "Ballistic Coefficient:": ".371",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "7": {
+    "item": "Varmint & Predator Nosler Ballistic Tip 223 Rem",
+    "price": "\n$36.99\n",
+    "link": "/rifle/varmint-and-predator/nosler-ballistic-tip/11-P223F.html",
+    "specs": {
+      "Grain Weight:": "55",
+      "Bullet Style:": "Nosler Ballistic Tip",
+      "Ballistic Coefficient:": ".266",
+      "Package Quantity:": "20",
+      "Usage:": "Varmint"
+    }
+  },
+  "8": {
+    "item": "Swift Scirocco II 300 Win Short Magnum",
+    "price": "\n$77.99\n",
+    "link": "/rifle/premium-centerfire-rifle/swift-scirocco-ii/11-P300WSMSS1.html",
+    "specs": {
+      "Grain Weight:": "180",
+      "Bullet Style:": "Swift Scirocco",
+      "Ballistic Coefficient:": ".520",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "9": {
+    "item": "Non-Typical 7mm-08",
+    "price": "\n$45.99\n",
+    "link": "/rifle/non-typical/non-typical/11-708DT1.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "Non-Typical Soft Point",
+      "Ballistic Coefficient:": ".408",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "10": {
+    "item": "Swift Scirocco II 7mm Rem Magnum",
+    "price": "\n$56.99\n",
+    "link": "/rifle/premium-centerfire-rifle/swift-scirocco-ii/11-P7RSS1.html",
+    "specs": {
+      "Bullet Style:": "Swift Scirocco",
+      "Ballistic Coefficient:": ".515",
+      "Package Quantity:": "20",
+      "Usage:": "Medium Game"
+    }
+  },
+  "11": {
+    "item": "Buckmaster Bonded 30-06 Springfield",
+    "price": "\n$43.99\n",
+    "link": "/rifle/buckmaster-bonded/11-BMB3006SP150.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "BuckMasters Bonded Soft Point",
+      "Ballistic Coefficient:": ".410",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  },
+  "12": {
+    "item": "Buckmaster Bonded 308 Win",
+    "price": "\n$43.99\n",
+    "link": "/rifle/buckmaster-bonded/11-BMB308SP150.html",
+    "specs": {
+      "Grain Weight:": "150",
+      "Bullet Style:": "BuckMasters Bonded Soft Point",
+      "Ballistic Coefficient:": ".414",
+      "Package Quantity:": "20",
+      "Usage:": "Big Game"
+    }
+  }
+}
